@@ -1,0 +1,921 @@
+#teameditpage,,,,,,,
+battle_teamedit_page_title,Team,,隊伍,,,,
+teamedit_adjust_hero,Hero Adjustments,,星神調整,,,,
+teamedit_adjust_detail,Configuration details,,配置詳情,,,,
+teamedit_monstergod,Beast God,,獸神,,,,
+teamedit_pet,Pet,,寵物,,,,
+,,,,,,,
+#stagepage,,,,,,,
+StageBoss,Leader,,頭目,,,,
+StageFinalBoss,Boss,,首領,,,,
+ChapterRewardButton,Chapter rewards,,章節獎勵,,,,
+StagePageTitle,Main line,,主線,,,,
+MainPageQuestButton,Task,,任務,,,,
+MainPageQuestButton2,Travel notes,,遊記,,,,
+StagePageMainStoryButton,Action record,,行動記錄,,,,
+AutoBattleButton,Auto battle,,自動戰鬥,,,,
+ChapterRewardCount,<size=13>Completion</size>,,完成度,,,,
+TeamLockButton,Team Lock,,隊伍,,,,
+ChapterDifficultyNormal,Normal,,一般,,,,
+ChapterDifficultyHard,Hard,,精英,,,,
+StageSelectionHelpTitle,Main line,,主線,,,,
+StageSelectionHelpContent,Main gameplay,,主線玩法,,,,
+ChapterRewardPopupTips,Clear chapter {0} again to receive rewards!,,再通關{0}章，即可領取獎勵！,,,,
+ChapterRewardPopupGoButton,Go to main line,,前往主線,,,,
+ChapterProgressRewardPreview,Reward Preview,,獎勵預覽,,,,
+ChapterClearBanner,Completed this chapter,,已完成此章節,,,,
+ChapterAllClearNormal,Completed this chapter,,已完成此章節,,,,
+ChapterAllClearHard,Completed this chapter,,已完成此章節,,,,
+ChapterHardLockedTips,Unlock the elite chapter after reaching level 55,,到達55級後解鎖精英章節,,,,
+SkipBattleLockedTips,Unlocked after clearing Chapter 4 to skip battle,,通關第4章後解鎖跳過戰鬥,,,,
+BattleTimeScale3LockedTips,Unlock x3 speed after clearing level 6-3,,通關6-3後解鎖x3速度,,,,
+SkipBossBattleLockedTips,Cannot skip bosses or boss battles,,不能跳過頭目或首領戰鬥,,,,
+,,,,,,,
+#ChapterTitle,,,,,,,
+ChapterTitle1,Chapter 1,,第1章,,,,
+ChapterTitle2,Chapter 2,,第2章,,,,
+ChapterTitle3,Chapter 3,,第3章,,,,
+ChapterTitle4,Chapter 4,,第4章,,,,
+ChapterTitle5,Chapter 5,,第5章,,,,
+ChapterTitle6,Chapter 6,,第6章,,,,
+ChapterTitle7,Chapter 7,,第7章,,,,
+ChapterTitle8,Chapter 8,,第8章,,,,
+ChapterTitle9,Chapter 9,,第9章,,,,
+ChapterTitle10,Chapter 10,,第10章,,,,
+ChapterTitle11,Chapter 11,,第11章,,,,
+ChapterTitle12,Chapter 12,,第12章,,,,
+ChapterTitle13,Chapter 13,,第13章,,,,
+ChapterTitle14,Chapter 14,,第14章,,,,
+ChapterTitle15,Chapter 15,,第15章,,,,
+ChapterTitle16,Chapter 16,,第16章,,,,
+ChapterTitle17,Chapter 17,,第17章,,,,
+ChapterTitle18,Chapter 18,,第18章,,,,
+ChapterTitle19,Chapter 19,,第19章,,,,
+ChapterTitle20,Chapter 20,,第20章,,,,
+ChapterTitle21,Chapter 21,,第21章,,,,
+ChapterTitle22,Chapter 22,,第22章,,,,
+ChapterTitle23,Chapter 23,,第23章,,,,
+ChapterTitle24,Chapter 24,,第24章,,,,
+ChapterTitle25,Chapter 25,,第25章,,,,
+ChapterTitle26,Chapter 26,,第26章,,,,
+ChapterTitle27,Chapter 27,,第27章,,,,
+ChapterTitle28,Chapter 28,,第28章,,,,
+ChapterTitle29,Chapter 29,,第29章,,,,
+ChapterTitle30,Chapter 30,,第30章,,,,
+ChapterTitle31,Chapter 31,,第31章,,,,
+ChapterTitle32,Chapter 32,,第32章,,,,
+ChapterTitle33,Chapter 33,,第33章,,,,
+ChapterTitle34,Chapter 34,,第34章,,,,
+ChapterTitle35,Chapter 35,,第35章,,,,
+ChapterTitle36,Chapter 36,,第36章,,,,
+ChapterTitle37,Chapter 37,,第37章,,,,
+ChapterTitle38,Chapter 38,,第38章,,,,
+ChapterTitle39,Chapter 39,,第39章,,,,
+ChapterTitle40,Chapter 40,,第40章,,,,
+ChapterTitle41,Chapter 41,,第41章,,,,
+ChapterTitle42,Chapter 42,,第42章,,,,
+ChapterTitle43,Chapter 43,,第43章,,,,
+ChapterTitle44,Chapter 44,,第44章,,,,
+ChapterTitle45,Chapter 45,,第45章,,,,
+ChapterTitle46,Chapter 46,,第46章,,,,
+ChapterTitle47,Chapter 47,,第47章,,,,
+ChapterTitle48,Chapter 48,,第48章,,,,
+ChapterTitle49,Chapter 49,,第49章,,,,
+ChapterTitle50,Chapter 50,,第50章,,,,
+ChapterTitle51,Chapter 51,,第51章,,,,
+ChapterTitle52,Chapter 52,,第52章,,,,
+ChapterTitle53,Chapter 53,,第53章,,,,
+ChapterTitle54,Chapter 54,,第54章,,,,
+ChapterTitle55,Chapter 55,,第55章,,,,
+ChapterTitle56,Chapter 56,,第56章,,,,
+ChapterTitle57,Chapter 57,,第57章,,,,
+ChapterTitle58,Chapter 58,,第58章,,,,
+ChapterTitle59,Chapter 59,,第59章,,,,
+ChapterTitle60,Chapter 60,,第60章,,,,
+ChapterTitle61,Chapter 61,,第61章,,,,
+ChapterTitle62,Chapter 62,,第62章,,,,
+ChapterTitle63,Chapter 63,,第63章,,,,
+ChapterTitle64,Chapter 64,,第64章,,,,
+ChapterTitle65,Chapter 65,,第65章,,,,
+ChapterTitle66,Chapter 66,,第66章,,,,
+ChapterTitle67,Chapter 67,,第67章,,,,
+ChapterTitle68,Chapter 68,,第68章,,,,
+ChapterTitle69,Chapter 69,,第69章,,,,
+ChapterTitle70,Chapter 70,,第70章,,,,
+ChapterTitle71,Chapter 71,,第71章,,,,
+ChapterTitle72,Chapter 72,,第72章,,,,
+ChapterTitle73,Chapter 73,,第73章,,,,
+ChapterTitle74,Chapter 74,,第74章,,,,
+ChapterTitle75,Chapter 75,,第75章,,,,
+ChapterTitle76,Chapter 76,,第76章,,,,
+ChapterTitle77,Chapter 77,,第77章,,,,
+ChapterTitle78,Chapter 78,,第78章,,,,
+ChapterTitle79,Chapter 79,,第79章,,,,
+ChapterTitle80,Chapter 80,,第80章,,,,
+ChapterTitle81,Chapter 81,,第81章,,,,
+ChapterTitle82,Chapter 82,,第82章,,,,
+ChapterTitle83,Chapter 83,,第83章,,,,
+ChapterTitle84,Chapter 84,,第84章,,,,
+ChapterTitle85,Chapter 85,,第85章,,,,
+ChapterTitle86,Chapter 86,,第86章,,,,
+ChapterTitle87,Chapter 87,,第87章,,,,
+ChapterTitle88,Chapter 88,,第88章,,,,
+ChapterTitle89,Chapter 89,,第89章,,,,
+ChapterTitle90,Chapter 90,,第90章,,,,
+ChapterTitle91,Chapter 91,,第91章,,,,
+ChapterTitle92,Chapter 92,,第92章,,,,
+ChapterTitle93,Chapter 93,,第93章,,,,
+ChapterTitle94,Chapter 94,,第94章,,,,
+ChapterTitle95,Chapter 95,,第95章,,,,
+ChapterTitle96,Chapter 96,,第96章,,,,
+ChapterTitle97,Chapter 97,,第97章,,,,
+ChapterTitle98,Chapter 98,,第98章,,,,
+ChapterTitle99,Chapter 99,,第99章,,,,
+ChapterTitle100,Chapter 100,,第100章,,,,
+ChapterTitle101,Chapter 101,,第101章,,,,
+ChapterTitle102,Chapter 102,,第102章,,,,
+ChapterTitle103,Chapter 103,,第103章,,,,
+ChapterTitle104,Chapter 104,,第104章,,,,
+ChapterTitle105,Chapter 105,,第105章,,,,
+ChapterTitle106,Chapter 106,,第106章,,,,
+ChapterTitle107,Chapter 107,,第107章,,,,
+ChapterTitle108,Chapter 108,,第108章,,,,
+ChapterTitle109,Chapter 109,,第109章,,,,
+ChapterTitle110,Chapter 110,,第110章,,,,
+ChapterTitle111,Chapter 111,,第111章,,,,
+ChapterTitle112,Chapter 112,,第112章,,,,
+ChapterTitle113,Chapter 113,,第113章,,,,
+ChapterTitle114,Chapter 114,,第114章,,,,
+ChapterTitle115,Chapter 115,,第115章,,,,
+ChapterTitle116,Chapter 116,,第116章,,,,
+ChapterTitle117,Chapter 117,,第117章,,,,
+ChapterTitle118,Chapter 118,,第118章,,,,
+ChapterTitle119,Chapter 119,,第119章,,,,
+ChapterTitle120,Chapter 120,,第120章,,,,
+ChapterTitle121,Chapter 121,,第121章,,,,
+ChapterTitle122,Chapter 122,,第122章,,,,
+ChapterTitle123,Chapter 123,,第123章,,,,
+ChapterTitle124,Chapter 124,,第124章,,,,
+ChapterTitle125,Chapter 125,,第125章,,,,
+ChapterTitle126,Chapter 126,,第126章,,,,
+ChapterTitle127,Chapter 127,,第127章,,,,
+ChapterTitle128,Chapter 128,,第128章,,,,
+ChapterTitle129,Chapter 129,,第129章,,,,
+ChapterTitle130,Chapter 130,,第130章,,,,
+ChapterTitle131,Chapter 131,,第131章,,,,
+ChapterTitle132,Chapter 132,,第132章,,,,
+ChapterTitle133,Chapter 133,,第133章,,,,
+ChapterTitle134,Chapter 134,,第134章,,,,
+ChapterTitle135,Chapter 135,,第135章,,,,
+ChapterTitle136,Chapter 136,,第136章,,,,
+ChapterTitle137,Chapter 137,,第137章,,,,
+ChapterTitle138,Chapter 138,,第138章,,,,
+ChapterTitle139,Chapter 139,,第139章,,,,
+ChapterTitle140,Chapter 140,,第140章,,,,
+ChapterTitle141,Chapter 141,,第141章,,,,
+ChapterTitle142,Chapter 142,,第142章,,,,
+ChapterTitle143,Chapter 143,,第143章,,,,
+ChapterTitle144,Chapter 144,,第144章,,,,
+ChapterTitle145,Chapter 145,,第145章,,,,
+ChapterTitle146,Chapter 146,,第146章,,,,
+ChapterTitle147,Chapter 147,,第147章,,,,
+ChapterTitle148,Chapter 148,,第148章,,,,
+ChapterTitle149,Chapter 149,,第149章,,,,
+ChapterTitle150,Chapter 150,,第150章,,,,
+ChapterTitle151,Chapter 151,,第151章,,,,
+ChapterTitle152,Chapter 152,,第152章,,,,
+ChapterTitle153,Chapter 153,,第153章,,,,
+ChapterTitle154,Chapter 154,,第154章,,,,
+ChapterTitle155,Chapter 155,,第155章,,,,
+ChapterTitle156,Chapter 156,,第156章,,,,
+ChapterTitle157,Chapter 157,,第157章,,,,
+ChapterTitle158,Chapter 158,,第158章,,,,
+ChapterTitle159,Chapter 159,,第159章,,,,
+ChapterTitle160,Chapter 160,,第160章,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+#HardChapterTitle,,,,,,,
+ChapterTitleH1,Hard - Chapter 1,,Hard - Chapter 1章,,,,
+ChapterTitleH2,Hard - Chapter 2,,Hard - Chapter 2章,,,,
+ChapterTitleH3,Hard - Chapter 3,,Hard - Chapter 3章,,,,
+ChapterTitleH4,Hard - Chapter 4,,Hard - Chapter 4章,,,,
+ChapterTitleH5,Hard - Chapter 5,,Hard - Chapter 5章,,,,
+ChapterTitleH6,Hard - Chapter 6,,Hard - Chapter 6章,,,,
+ChapterTitleH7,Hard - Chapter 7,,Hard - Chapter 7章,,,,
+ChapterTitleH8,Hard - Chapter 8,,Hard - Chapter 8章,,,,
+ChapterTitleH9,Hard - Chapter 9,,Hard - Chapter 9章,,,,
+ChapterTitleH10,Hard - Chapter 10,,Hard - Chapter 10章,,,,
+ChapterTitleH11,Hard - Chapter 11,,Hard - Chapter 11章,,,,
+ChapterTitleH12,Hard - Chapter 12,,Hard - Chapter 12章,,,,
+ChapterTitleH13,Hard - Chapter 13,,Hard - Chapter 13章,,,,
+ChapterTitleH14,Hard - Chapter 14,,Hard - Chapter 14章,,,,
+ChapterTitleH15,Hard - Chapter 15,,Hard - Chapter 15章,,,,
+ChapterTitleH16,Hard - Chapter 16,,Hard - Chapter 16章,,,,
+ChapterTitleH17,Hard - Chapter 17,,Hard - Chapter 17章,,,,
+ChapterTitleH18,Hard - Chapter 18,,Hard - Chapter 18章,,,,
+ChapterTitleH19,Hard - Chapter 19,,Hard - Chapter 19章,,,,
+ChapterTitleH20,Hard - Chapter 20,,Hard - Chapter 20章,,,,
+ChapterTitleH21,Hard - Chapter 21,,Hard - Chapter 21章,,,,
+ChapterTitleH22,Hard - Chapter 22,,Hard - Chapter 22章,,,,
+ChapterTitleH23,Hard - Chapter 23,,Hard - Chapter 23章,,,,
+ChapterTitleH24,Hard - Chapter 24,,Hard - Chapter 24章,,,,
+ChapterTitleH25,Hard - Chapter 25,,Hard - Chapter 25章,,,,
+ChapterTitleH26,Hard - Chapter 26,,Hard - Chapter 26章,,,,
+ChapterTitleH27,Hard - Chapter 27,,Hard - Chapter 27章,,,,
+ChapterTitleH28,Hard - Chapter 28,,Hard - Chapter 28章,,,,
+ChapterTitleH29,Hard - Chapter 29,,Hard - Chapter 29章,,,,
+ChapterTitleH30,Hard - Chapter 30,,Hard - Chapter 30章,,,,
+ChapterTitleH31,Hard - Chapter 31,,Hard - Chapter 31章,,,,
+ChapterTitleH32,Hard - Chapter 32,,Hard - Chapter 32章,,,,
+ChapterTitleH33,Hard - Chapter 33,,Hard - Chapter 33章,,,,
+ChapterTitleH34,Hard - Chapter 34,,Hard - Chapter 34章,,,,
+ChapterTitleH35,Hard - Chapter 35,,Hard - Chapter 35章,,,,
+ChapterTitleH36,Hard - Chapter 36,,Hard - Chapter 36章,,,,
+ChapterTitleH37,Hard - Chapter 37,,Hard - Chapter 37章,,,,
+ChapterTitleH38,Hard - Chapter 38,,Hard - Chapter 38章,,,,
+ChapterTitleH39,Hard - Chapter 39,,Hard - Chapter 39章,,,,
+ChapterTitleH40,Hard - Chapter 40,,Hard - Chapter 40章,,,,
+ChapterTitleH41,Hard - Chapter 41,,Hard - Chapter 41章,,,,
+ChapterTitleH42,Hard - Chapter 42,,Hard - Chapter 42章,,,,
+ChapterTitleH43,Hard - Chapter 43,,Hard - Chapter 43章,,,,
+ChapterTitleH44,Hard - Chapter 44,,Hard - Chapter 44章,,,,
+ChapterTitleH45,Hard - Chapter 45,,Hard - Chapter 45章,,,,
+ChapterTitleH46,Hard - Chapter 46,,Hard - Chapter 46章,,,,
+ChapterTitleH47,Hard - Chapter 47,,Hard - Chapter 47章,,,,
+ChapterTitleH48,Hard - Chapter 48,,Hard - Chapter 48章,,,,
+ChapterTitleH49,Hard - Chapter 49,,Hard - Chapter 49章,,,,
+ChapterTitleH50,Hard - Chapter 50,,Hard - Chapter 50章,,,,
+ChapterTitleH51,Hard - Chapter 51,,Hard - Chapter 51章,,,,
+ChapterTitleH52,Hard - Chapter 52,,Hard - Chapter 52章,,,,
+ChapterTitleH53,Hard - Chapter 53,,Hard - Chapter 53章,,,,
+ChapterTitleH54,Hard - Chapter 54,,Hard - Chapter 54章,,,,
+ChapterTitleH55,Hard - Chapter 55,,Hard - Chapter 55章,,,,
+ChapterTitleH56,Hard - Chapter 56,,Hard - Chapter 56章,,,,
+ChapterTitleH57,Hard - Chapter 57,,Hard - Chapter 57章,,,,
+ChapterTitleH58,Hard - Chapter 58,,Hard - Chapter 58章,,,,
+ChapterTitleH59,Hard - Chapter 59,,Hard - Chapter 59章,,,,
+ChapterTitleH60,Hard - Chapter 60,,Hard - Chapter 60章,,,,
+ChapterTitleH61,Hard - Chapter 61,,Hard - Chapter 61章,,,,
+ChapterTitleH62,Hard - Chapter 62,,Hard - Chapter 62章,,,,
+ChapterTitleH63,Hard - Chapter 63,,Hard - Chapter 63章,,,,
+ChapterTitleH64,Hard - Chapter 64,,Hard - Chapter 64章,,,,
+ChapterTitleH65,Hard - Chapter 65,,Hard - Chapter 65章,,,,
+ChapterTitleH66,Hard - Chapter 66,,Hard - Chapter 66章,,,,
+ChapterTitleH67,Hard - Chapter 67,,Hard - Chapter 67章,,,,
+ChapterTitleH68,Hard - Chapter 68,,Hard - Chapter 68章,,,,
+ChapterTitleH69,Hard - Chapter 69,,Hard - Chapter 69章,,,,
+ChapterTitleH70,Hard - Chapter 70,,Hard - Chapter 70章,,,,
+ChapterTitleH71,Hard - Chapter 71,,Hard - Chapter 71章,,,,
+ChapterTitleH72,Hard - Chapter 72,,Hard - Chapter 72章,,,,
+ChapterTitleH73,Hard - Chapter 73,,Hard - Chapter 73章,,,,
+ChapterTitleH74,Hard - Chapter 74,,Hard - Chapter 74章,,,,
+ChapterTitleH75,Hard - Chapter 75,,Hard - Chapter 75章,,,,
+ChapterTitleH76,Hard - Chapter 76,,Hard - Chapter 76章,,,,
+ChapterTitleH77,Hard - Chapter 77,,Hard - Chapter 77章,,,,
+ChapterTitleH78,Hard - Chapter 78,,Hard - Chapter 78章,,,,
+ChapterTitleH79,Hard - Chapter 79,,Hard - Chapter 79章,,,,
+ChapterTitleH80,Hard - Chapter 80,,Hard - Chapter 80章,,,,
+ChapterTitleH81,Hard - Chapter 81,,Hard - Chapter 81章,,,,
+ChapterTitleH82,Hard - Chapter 82,,Hard - Chapter 82章,,,,
+ChapterTitleH83,Hard - Chapter 83,,Hard - Chapter 83章,,,,
+ChapterTitleH84,Hard - Chapter 84,,Hard - Chapter 84章,,,,
+ChapterTitleH85,Hard - Chapter 85,,Hard - Chapter 85章,,,,
+ChapterTitleH86,Hard - Chapter 86,,Hard - Chapter 86章,,,,
+ChapterTitleH87,Hard - Chapter 87,,Hard - Chapter 87章,,,,
+ChapterTitleH88,Hard - Chapter 88,,Hard - Chapter 88章,,,,
+ChapterTitleH89,Hard - Chapter 89,,Hard - Chapter 89章,,,,
+ChapterTitleH90,Hard - Chapter 90,,Hard - Chapter 90章,,,,
+ChapterTitleH91,Hard - Chapter 91,,Hard - Chapter 91章,,,,
+ChapterTitleH92,Hard - Chapter 92,,Hard - Chapter 92章,,,,
+ChapterTitleH93,Hard - Chapter 93,,Hard - Chapter 93章,,,,
+ChapterTitleH94,Hard - Chapter 94,,Hard - Chapter 94章,,,,
+ChapterTitleH95,Hard - Chapter 95,,Hard - Chapter 95章,,,,
+ChapterTitleH96,Hard - Chapter 96,,Hard - Chapter 96章,,,,
+ChapterTitleH97,Hard - Chapter 97,,Hard - Chapter 97章,,,,
+ChapterTitleH98,Hard - Chapter 98,,Hard - Chapter 98章,,,,
+ChapterTitleH99,Hard - Chapter 99,,Hard - Chapter 99章,,,,
+ChapterTitleH100,Hard - Chapter 100,,Hard - Chapter 100章,,,,
+ChapterTitleH101,Hard - Chapter 101,,Hard - Chapter 101章,,,,
+ChapterTitleH102,Hard - Chapter 102,,Hard - Chapter 102章,,,,
+ChapterTitleH103,Hard - Chapter 103,,Hard - Chapter 103章,,,,
+ChapterTitleH104,Hard - Chapter 104,,Hard - Chapter 104章,,,,
+ChapterTitleH105,Hard - Chapter 105,,Hard - Chapter 105章,,,,
+ChapterTitleH106,Hard - Chapter 106,,Hard - Chapter 106章,,,,
+ChapterTitleH107,Hard - Chapter 107,,Hard - Chapter 107章,,,,
+ChapterTitleH108,Hard - Chapter 108,,Hard - Chapter 108章,,,,
+ChapterTitleH109,Hard - Chapter 109,,Hard - Chapter 109章,,,,
+ChapterTitleH110,Hard - Chapter 110,,Hard - Chapter 110章,,,,
+ChapterTitleH111,Hard - Chapter 111,,Hard - Chapter 111章,,,,
+ChapterTitleH112,Hard - Chapter 112,,Hard - Chapter 112章,,,,
+ChapterTitleH113,Hard - Chapter 113,,Hard - Chapter 113章,,,,
+ChapterTitleH114,Hard - Chapter 114,,Hard - Chapter 114章,,,,
+ChapterTitleH115,Hard - Chapter 115,,Hard - Chapter 115章,,,,
+ChapterTitleH116,Hard - Chapter 116,,Hard - Chapter 116章,,,,
+ChapterTitleH117,Hard - Chapter 117,,Hard - Chapter 117章,,,,
+ChapterTitleH118,Hard - Chapter 118,,Hard - Chapter 118章,,,,
+ChapterTitleH119,Hard - Chapter 119,,Hard - Chapter 119章,,,,
+ChapterTitleH120,Hard - Chapter 120,,Hard - Chapter 120章,,,,
+ChapterTitleH121,Hard - Chapter 121,,Hard - Chapter 121章,,,,
+ChapterTitleH122,Hard - Chapter 122,,Hard - Chapter 122章,,,,
+ChapterTitleH123,Hard - Chapter 123,,Hard - Chapter 123章,,,,
+ChapterTitleH124,Hard - Chapter 124,,Hard - Chapter 124章,,,,
+ChapterTitleH125,Hard - Chapter 125,,Hard - Chapter 125章,,,,
+ChapterTitleH126,Hard - Chapter 126,,Hard - Chapter 126章,,,,
+ChapterTitleH127,Hard - Chapter 127,,Hard - Chapter 127章,,,,
+ChapterTitleH128,Hard - Chapter 128,,Hard - Chapter 128章,,,,
+ChapterTitleH129,Hard - Chapter 129,,Hard - Chapter 129章,,,,
+ChapterTitleH130,Hard - Chapter 130,,Hard - Chapter 130章,,,,
+ChapterTitleH131,Hard - Chapter 131,,Hard - Chapter 131章,,,,
+ChapterTitleH132,Hard - Chapter 132,,Hard - Chapter 132章,,,,
+ChapterTitleH133,Hard - Chapter 133,,Hard - Chapter 133章,,,,
+ChapterTitleH134,Hard - Chapter 134,,Hard - Chapter 134章,,,,
+ChapterTitleH135,Hard - Chapter 135,,Hard - Chapter 135章,,,,
+ChapterTitleH136,Hard - Chapter 136,,Hard - Chapter 136章,,,,
+ChapterTitleH137,Hard - Chapter 137,,Hard - Chapter 137章,,,,
+ChapterTitleH138,Hard - Chapter 138,,Hard - Chapter 138章,,,,
+ChapterTitleH139,Hard - Chapter 139,,Hard - Chapter 139章,,,,
+ChapterTitleH140,Hard - Chapter 140,,Hard - Chapter 140章,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+#HeroInfoPage,,,,,,,
+HeroInfoPageTitle,Character Info,,角色資訊,,,,
+HeroInfoPage_Info,Information,,資訊,,,,
+HeroInfoPage_Traning,Trial,,試練,,,,
+HeroInfoPage_Skin,Skin,,造型,,,,
+HeroInfoPage_Story,Story,,物語,,,,
+HeroInfoPage_Reborn,Reborn,,重置,,,,
+HeroInfoPage_PotentialSelection,Potentials,,潛力選擇,,,,
+HeroInfoPage_tinfu,Talent,,天賦,,,,
+HeroInfoPage_Comment,Comment,,評論,,,,
+HeroInfoPage_BasicValue,Basic Value,,基本數值,,,,
+HeroInfoPage_HeroSkill,Skills,,星神技能,,,,
+HeroInfoPage_FormationKizuna,Bond,,列陣羈絆,,,,
+HeroInfoPage_WallPaper,Wallpaper,,桌布,,,,
+,,,,,,,
+HeroInfoPageSubPageSkinSubTitle,Available to unlock,,解鎖可獲,,,,
+HeroInfoPageSubPageStoryTitle,Story,,物語,,,,
+HeroSkillInfoPopup_content,"[Holy Spirit Skills]
+If the Sacred spiritual value of all stars is equal to or exceeds <#F9423A>1000</color> points，the "Holy Spirit Skill" will be automatically cast. Each time the Holy Spirit skill is cast， all the Holy Spirit value of the Star God will be consumed.
+[Holy Spirit Value]
+The upper limit of the Holy Spirit value is <#F9423A>2000</color> points. When Star God casts "Holy Spirit Skill"， the damage exceeding <#F9423A>1000</color> points will be increased according to the overflowing Holy Spirit value.
+[Holy Spirit Value Reply]
+After entering the battle， all Star Gods can recover <#F9423A>400</color> Holy Spirit points after using "normal attacks". Star Gods will also have the effect of restoring additional Holy Spirit points according to their profession. ",,"[Holy Spirit Skill]
+If the Holy Spirit value of all Star Gods is equal to or exceeds <#F9423A>1000</color> points， they will automatically cast "Holy Spirit Skills". Each time the Holy Spirit skill is cast， all of the Star God's own Holy Spirit values ​​will be consumed.
+[Holy Spirit Value]
+The upper limit of the Holy Spirit value is <#F9423A>2000</color> points. When Star God casts "Holy Spirit Skill"，the damage exceeding <#F9423A>1000</color> points will be increased according to the overflowing Holy Spirit value.
+[Holy Spirit Value Reply]
+After entering the battle，all Star Gods can recover <#F9423A>400</color> Holy Spirit points after using "normal attacks". Star Gods will also have the effect of restoring additional Holy Spirit points according to their profession. ",,,,
+HeroInfoCampsiteBonus,<size=12>Research center</size>,,研究中心,,,,
+CampsiteBonusStatFormat,Health， attack，defense +{0}%,,生命，攻擊，防禦 +{0}%,,,,
+OLYMPUSStatFormat,Olympus health，attack，defense,,奧林匹斯 生命，攻擊，防禦,,,,
+OCEANStatFormat,Ocean health，attack，defense,,Ocean 生命，攻擊，防禦,,,,
+THEBESStatFormat,Thebes health，attack，defense,,Thebes 生命，攻擊，防禦,,,,
+UNDERWORLDStatFormat,Underworld health，attack，Defense,,Underworld 生命，攻擊，防禦,,,,
+TANKStatFormat,Vanguard health，attack，defense,,先鋒 生命，攻擊，防禦,,,,
+SUPPORTStatFormat,Sage health，attack，defense,,賢者 生命，攻擊，防禦,,,,
+WARRIORStatFormat,God of War health，attack，defense,,鬥神 生命，攻擊，防禦,,,,
+RANGERStatFormat,Breaker health，attack，defense,,破擊者 生命，攻擊，防禦,,,,
+,,,,,,,
+#Skin #subpage,,,,,,,
+HeroInfoPageSubPageSkin_noStatText,No attribute bonus,,無屬性加成,,,,
+HeroInfoPageSubPageSkin_StatText01,HP of all Star Gods +2%,,全體星神生命值 +2%,,,,
+HeroInfoPageSubPageSkin_StatText02,Attack power of all Star Gods +2%,,全體星神攻擊力 +2%,,,,
+HeroInfoPageSubPageSkin_StatText03,Defense value of all Star Gods +2%,,全體星神防禦值 +2%,,,,
+SkinEquiped,Wearing,,穿戴中,,,,
+SkinNotEquiped,Wear,,穿戴,,,,
+MonsterGodInfoSubPageSkin_noStatText,No attribute bonus,,無屬性加成,,,,
+MonsterGodInfoSubPageSkin_StatText01,Beast magic damage reduction +10%,,獸神技減傷 +10%,,,,
+MonsterGodInfoSubPageSkin_StatText02,Beast God's attack power percentage +10%,,獸神攻擊力百分比 +10%,,,,
+MonsterGodInfoSubPageSkin_StatText03,Beast skills increase damage +10%,,獸神技增傷 +10%,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+#HeroType,,,,,,,
+TANK,Tank,,先鋒,,,,
+SUPPORT,Support,,賢者,,,,
+WARRIOR,Warrior,,鬥神,,,,
+RANGER,Ranger,,破擊者,,,,
+,,,,,,,
+#Hero,,,,,,,
+HeroStateInfoBubble_BasicState,Basic attributes,,基礎屬性,,,,
+HeroStateInfoBubble_hp,Hp,,生命值,,,,
+HeroStateInfoBubble_pdef,PDef,,物理防禦,,,,
+HeroStateInfoBubble_atk,Atk,,攻擊力,,,,
+HeroStateInfoBubble_mdef,MDef,,魔法防禦,,,,
+HeroStateInfoBubble_AdvancedState,Advanced properties,,高級屬性,,,,
+HeroStateInfoBubble_Crit,Crit Rate,,暴擊率,,,,
+HeroStateInfoBubble_dCrit,抗暴率,,抗暴率,,,,
+HeroStateInfoBubble_dmgp,Dmg Increase,,增傷率,,,,
+HeroStateInfoBubble_dmgd,Dmg Reduction,,減傷率,,,,
+HeroStateInfoBubble_Hit,Hit rate,,命中率,,,,
+HeroStateInfoBubble_dodge,Dodge rate,,閃避率,,,,
+HeroStateInfoBubble_CritDmg,Crit Dmg,,暴擊傷害率,,,,
+HeroStateInfoBubble_FormationState,Team attributes,,隊伍屬性,,,,
+HeroStateInfoBubble_atkF1,hit blue,,擊藍,,,,
+HeroStateInfoBubble_atkF2,hit red,,擊紅,,,,
+HeroStateInfoBubble_atkF3,hit green,,擊綠,,,,
+HeroStateInfoBubble_atkF4,hit yellow,,擊黃,,,,
+HeroStateInfoBubble_defF1,Anti-blue,,抗藍,,,,
+HeroStateInfoBubble_defF2,Anti-redness,,抗紅,,,,
+HeroStateInfoBubble_defF3,Anti-green,,抗綠,,,,
+HeroStateInfoBubble_defF4,Anti-yellowing,,抗黃,,,,
+HeroStateInfoBubble_ClickAny,Click anywhere to continue,,點擊任意位置繼續遊戲,,,,
+,,,,,,,
+HeroAdvancedTalentBubble_Title,Advanced talents,,進階天賦,,,,
+HeroRarePromoteSuccessBubble_UnLockSkill,Unlock skills: ,,解鎖技能: ,,,,
+HeroRarePromoteSuccessBubble_SkillEnhancement,Skill upgrade:,,技能強化:,,,,
+,,,,,,,
+HeroInfoPotentialPopup_Title,Potential,,潛能,,,,
+HeroInfoPotentialPopup_Use,Use,,使用,,,,
+HeroInfoPotentialPopup_Tip,Hint : Heroes of different professions have different potentials，click on any potential skill to change it at any time,,提示 : 不同職業的星神潛能不同，點擊任意潛能技能可以隨時更換,,,,
+HeroInfoPotentialPopup_Btn,Use,,使用,,,,
+HeroInfoPotentialCell_UnlockLevel,Advanced+{0} start,,進階+{0}啟動,,,,
+Potential_Name_21101,Phalanx,,方陣,,,,
+Potential_Name_21102,First aid,,First aid,,,,
+Potential_Name_21103,Storm,,強攻,,,,
+Potential_Name_21201,Reflection,,Reflection,,,,
+Potential_Name_21202,Vampire,,Vampire,,,,
+Potential_Name_21203,Phalanx,,方陣,,,,
+Potential_Name_21301,Grim Reaper,,Grim Reaper,,,,
+Potential_Name_21302,Grim Reaper,,Grim Reaper,,,,
+Potential_Name_21303,Grim Reaper,,Grim Reaper,,,,
+Potential_Name_21401,Desperate,,絕命,,,,
+Potential_Name_21402,Animal heart,,獸心,,,,
+Potential_Name_21403,Shield,,護盾,,,,
+Potential_Name_21501,Sacred,,神聖,,,,
+Potential_Name_21502,First aid,,First aid,,,,
+Potential_Name_21503,Flash,,閃光,,,,
+Potential_Name_22101,Desperate,,絕命,,,,
+Potential_Name_22102,Storm,,強攻,,,,
+Potential_Name_22103,Phalanx,,方陣,,,,
+Potential_Name_22201,Break defense,,Break defense,,,,
+Potential_Name_22202,Vampire,,Vampire,,,,
+Potential_Name_22203,Desperate,,絕命,,,,
+Potential_Name_22301,Grim Reaper,,Grim Reaper,,,,
+Potential_Name_22302,Grim Reaper,,Grim Reaper,,,,
+Potential_Name_22303,Grim Reaper,,Grim Reaper,,,,
+Potential_Name_22401,Break defense,,Break defense,,,,
+Potential_Name_22402,Storm,,強攻,,,,
+Potential_Name_22403,Sacred,,神聖,,,,
+Potential_Name_22501,Resistance,,Resistance,,,,
+Potential_Name_22502,Phalanx,,方陣,,,,
+Potential_Name_22503,Desperate,,絕命,,,,
+Potential_Name_23101,Phalanx,,方陣,,,,
+Potential_Name_23102,Storm,,強攻,,,,
+Potential_Name_23103,Restraint,,剋制,,,,
+Potential_Name_23201,Storm,,強攻,,,,
+Potential_Name_23202,Desperate,,絕命,,,,
+Potential_Name_23203,Animal heart,,獸心,,,,
+Potential_Name_23301,Grim Reaper,,Grim Reaper,,,,
+Potential_Name_23302,Grim Reaper,,Grim Reaper,,,,
+Potential_Name_23303,Grim Reaper,,Grim Reaper,,,,
+Potential_Name_23401,Resistance,,Resistance,,,,
+Potential_Name_23402,Storm,,強攻,,,,
+Potential_Name_23403,Break defense,,Break defense,,,,
+Potential_Name_23501,Aim,,瞄準,,,,
+Potential_Name_23502,First aid,,First aid,,,,
+Potential_Name_23503,Phalanx,,方陣,,,,
+Potential_Name_24101,Phalanx,,方陣,,,,
+Potential_Name_24102,Reflection,,Reflection,,,,
+Potential_Name_24103,Storm,,強攻,,,,
+Potential_Name_24201,Resistance,,Resistance,,,,
+Potential_Name_24202,Storm,,強攻,,,,
+Potential_Name_24203,First aid,,First aid,,,,
+Potential_Name_24301,Grim Reaper,,Grim Reaper,,,,
+Potential_Name_24302,Grim Reaper,,Grim Reaper,,,,
+Potential_Name_24303,Grim Reaper,,Grim Reaper,,,,
+Potential_Name_24401,Sacred,,神聖,,,,
+Potential_Name_24402,Break defense,,Break defense,,,,
+Potential_Name_24403,Desperate,,絕命,,,,
+Potential_Name_24501,Desperate,,絕命,,,,
+Potential_Name_24502,Phalanx,,方陣,,,,
+Potential_Name_24503,Animal heart,,獸心,,,,
+Potential_Content_21101,<size=12>When you have a "debuff" effect，"damage reduction" increases by 10%.</size>,,自身持有「減益」效果時，「減傷」增加10%。,,,,
+Potential_Content_21102,<size=12>When the own "health" falls below 50% for the first time，10% of the total health will be restored immediately.</size>,,自身「生命值」首次低於50%時，立即回復10%總生命值的生命。,,,,
+Potential_Content_21103,<size=12>Using "Holy Spirit Skills" on yourself will add 10% "Advanced Damage Increase".</size>,,自身使用「聖靈技能」附加10%「高級增傷」。,,,,
+Potential_Content_21201,<size=12>When you receive damage from "Holy Spirit Skill"，you will receive an additional 15% "reverse damage rate".</size>,,自身承受「聖靈技能」傷害時附加15%「反傷率」。,,,,
+Potential_Content_21202,<size=12>Using "normal attack" increases "Vampire rate" by 30%.</size>,,自身使用「普通攻擊」附加30%「Vampire率」。,,,,
+Potential_Content_21203,<size=12>When own "health" is lower than 50%，"damage reduction" increases by 15%.</size>,,自身「生命值」低於50%時，「減傷」增加15%。,,,,
+Potential_Content_21301,<size=12>Every time an enemy Hero dies，he will immediately recover 100 points of "Holy Spirit Value".</size>,,敵方每有星神死亡，自身立即回復100點「聖靈值」。,,,,
+Potential_Content_21302,<size=12>After using "normal attack" on yourself，you will recover an additional 100 points of "Holy Spirit Value".</size>,,自身使用「普通攻擊」後額外回復100點「聖靈值」。,,,,
+Potential_Content_21303,<size=12>After our own alien god uses "normal attack"，we will immediately recover 25 points of "Holy Spirit Value".</size>,,我方自身以外星神使用「普通攻擊」後，自身立即回復25點「聖靈值」。,,,,
+Potential_Content_21401,<size=12>When attacking yourself，if the target's current health percentage is higher than your own，this damage will be added with a 30% "critical hit rate".</size>,,自身攻擊時，若目標當前生命值百分比高於自身，此傷害附加30%「暴擊率」。,,,,
+Potential_Content_21402,<size=12>When one's own "HP" is lower than 60%，one's own "Beast God Damage Reduction" increases by 40%.</size>,,自身「生命值」低於60%時，自身「獸神減傷」增加40%。,,,,
+Potential_Content_21403,<size=12>If you have the "Shield" effect，your "anti-crime rate" increases by 30%.</size>,,若自身持有「護盾」效果，「抗暴率」增加30%。,,,,
+Potential_Content_21501,<size=12>Starting from the 2nd round，own "debuff evasion rate" increases by 20%.</size>,,第2回合開始，自身「減益閃避率」增加20%。,,,,
+Potential_Content_21502,<size=12>At the beginning of the battle，20% "healing rate" will be added when recovering life，which lasts for 2 rounds.</size>,,戰鬥開始時，自身回復生命時附加20%「治療率」，持續2回合。,,,,
+Potential_Content_21503,<size=12>When you receive a "normal attack"，your "dodge rate" increases by 15%.</size>,,自身承受「普通攻擊」時，「閃避率」增加15%。,,,,
+Potential_Content_22101,<size=12>Using "Holy Spirit Skills" adds 15% "Critical Hit Rate".</size>,,自身使用「聖靈技能」附加15%「暴擊率」。,,,,
+Potential_Content_22102,<size=12>When you cause "physical or magical damage" to the enemy，if the target's health is higher than 50%，the "advanced damage increase" of this damage will be increased by 15%.</size>,,自身對敵方造成「物理或魔法傷害」時，若目標生命值高於50%，此傷害的「高級增傷」增加15%。,,,,
+Potential_Content_22103,<size=12>When oneself takes damage from "Holy Spirit Skill"，"damage reduction" increases by 10%.</size>,,自身承受「聖靈技能」傷害時，「減傷」增加10%。,,,,
+Potential_Content_22201,<size=12>The damage caused by itself to the enemy's front row ignores 10% of the target's "Defense Value".</size>,,自身對敵方前排造成的傷害無視目標10%「防禦值」。,,,,
+Potential_Content_22202,<size=12>When using "Holy Spirit Skill" yourself，add 15% "Vampire Rate".</size>,,自身使用「聖靈技能」時，附加15%「Vampire率」。,,,,
+Potential_Content_22203,<size=12>When the own "health" is higher than 50%，the "crit damage rate" increases by 20%.</size>,,自身「生命值」高於50%時，「暴擊傷害率」增加20%。,,,,
+Potential_Content_22301,<size=12>Every time an enemy star god dies，he will recover 100 points of "Holy Spirit Value".</size>,,敵方每有星神死亡，自身回復100點「聖靈值」。,,,,
+Potential_Content_22302,<size=12>After receiving a "normal attack"，75 points of "Holy Spirit Value" will be restored.</size>,,自身承受「普通攻擊」後，回復75點「聖靈值」。,,,,
+Potential_Content_22303,<size=12>After our own alien god uses "normal attack"，we will immediately recover 25 points of "Holy Spirit Value".</size>,,我方自身以外星神使用「普通攻擊」後，自身立即回復25點「聖靈值」。,,,,
+Potential_Content_22401,<size=12>Its own "normal attack" ignores 20% of the target's "defense value".</size>,,自身「普通攻擊」無視目標20%「防禦值」。,,,,
+Potential_Content_22402,<size=12>Each time one of our star gods dies， his "advanced damage increase" increases by 10%.</size>,,我方每有1名星神死亡，自身「高級增傷」增加10%。,,,,
+Potential_Content_22403,<size=12>At the beginning of the battle，your "Holy Spirit Down Evasion Rate" increases by 20% for 2 rounds.</size>,,戰鬥開始時，自身「聖靈下降閃避率」增加20%，持續2回合。,,,,
+Potential_Content_22501,<size=12>When oneself takes damage from "Holy Spirit Skill"，the "Anti-Cruel Rate" increases by 25%.</size>,,自身承受「聖靈技能」傷害時，「抗暴率」增加25%。,,,,
+Potential_Content_22502,<size=12>Before using "Holy Spirit Skill" for the second time，the "Advanced Damage Reduction" when receiving damage from "Holy Spirit Skill" is increased by 20%.</size>,,自身使用第2次「聖靈技能」前，承受「聖靈技能」傷害時的「高級減傷」增加20%。,,,,
+Potential_Content_22503,<size=12>When attacking yourself，if the target has a "debuff" effect，this damage will be added with a 25% "critical hit rate".</size>,,自身攻擊時，若目標身上持有「減益」效果，此傷害附加25%「暴擊率」。,,,,
+Potential_Content_23101,<size=12>When you are attacked，if your health percentage is higher than the attacker's，"damage reduction" will be increased by 10%.</size>,,自身受到攻擊時，若自身生命值百分比高於攻擊者，「減傷」增加10%。,,,,
+Potential_Content_23102,<size=12>When attacking yourself，if the target's current HP is lower than 50%，this damage will be added with 10% "advanced damage increase".</size>,,自身攻擊時，若目標當前生命值低於50%，此傷害附加10%「高級增傷」。,,,,
+Potential_Content_23103,<size=12>Add 15% "advanced damage increase" to the damage caused by the enemy "Vanguard" Star God.</size>,,自身對敵方「先鋒」星神造成的傷害附加15%「高級增傷」。,,,,
+Potential_Content_23201,<size=12>Adds 30% "advanced damage increase" to its own "normal attack".</size>,,自身「普通攻擊」附加30%「高級增傷」。,,,,
+Potential_Content_23202,<size=12>When you cause "physical or magical damage" to the enemy，if the target's HP is higher than 50%，the "critical hit rate" of this damage will be increased by 20%.</size>,,自身對敵方造成「物理或魔法傷害」時，若目標生命值高於50%，此傷害的「暴擊率」增加20%。,,,,
+Potential_Content_23203,<size=12>Increases own "Beast God Damage Reduction" by 20%.</size>,,自身「獸神減傷」增加20%。,,,,
+Potential_Content_23301,<size=12>After using "normal attack" on yourself，100 points of "Holy Spirit Value" will be restored.</size>,,自身使用「普通攻擊」後，回復100點「聖靈值」。,,,,
+Potential_Content_23302,<size=12>After receiving a "normal attack"，75 points of "Holy Spirit Value" will be restored.</size>,,自身承受「普通攻擊」後，回復75點「聖靈值」。,,,,
+Potential_Content_23303,<size=12>Every time an enemy Star God dies，he will immediately recover 100 points of "Holy Spirit Value".</size>,,敵方每有星神死亡，自身立即回復100點「聖靈值」。,,,,
+Potential_Content_23401,<size=12>When you are attacked，if the attacker has a "debuff" effect，your "anti-crime rate" will be increased by 30%.</size>,,自身承受攻擊時，若攻擊者身上持有「減益」效果，自身「抗暴率」增加30%。,,,,
+Potential_Content_23402,<size=12>Add 20% "advanced damage increase" to the damage caused by yourself to the enemy's back row Star God.</size>,,自身對敵方後排星神造成的傷害附加20%「高級增傷」。,,,,
+Potential_Content_23403,<size=12>The second time you use "Holy Spirit Skill"，you will ignore 20% of the target's "Defense Value".</size>,,自身第2次使用「聖靈技能」無視目標20%「防禦值」。,,,,
+Potential_Content_23501,<size=12>When the own "health" is higher than 50%，the "hit rate" increases by 15%.</size>,,自身「生命值」高於50%時，「命中率」增加15%。,,,,
+Potential_Content_23502,<size=12>At the beginning of the 3rd round，restore 20% of your total health.</size>,,第3回合開始時，自身回復總生命值20%的生命。,,,,
+Potential_Content_23503,<size=12>At the beginning of the second round，the damage taken by the "Holy Spirit Skill" will be increased by 25% "Advanced Damage Reduction"，which lasts for 1 round.</size>,,第2回合開始時，自身承受「聖靈技能」傷害附加25%「高級減傷」，持續1回合。,,,,
+Potential_Content_24101,<size=12>If you have a "buff" effect on yourself，you will receive an additional 10% "advanced damage reduction" when taking damage.</size>,,若自身身上持有「增益」效果，承受傷害時附加10%「高級減傷」。,,,,
+Potential_Content_24102,<size=12>When you are attacked by the enemy's back row Star God，you will receive an additional 10% "reverse damage rate".</size>,,自身承受敵方後排星神攻擊時，附加10%「反傷率」。,,,,
+Potential_Content_24103,<size=12>Add 10% "advanced damage increase" to the damage caused by yourself to the enemy's front row Star God.</size>,,自身對敵方前排星神造成的傷害附加10%「高級增傷」。,,,,
+Potential_Content_24201,<size=12>When the own "health" is higher than 50%，the "anti-crime rate" increases by 20%.</size>,,自身「生命值」高於50%時，「抗暴率」增加20%。,,,,
+Potential_Content_24202,<size=12>When there are 5 or more Star Gods alive on our side，own "Advanced Damage Increase" will be increased by 15%.</size>,,我方有5名或以上星神存活時，自身「高級增傷」增加15%。,,,,
+Potential_Content_24203,<size=12>When you restore health to our star god，if the target's health is lower than 50%，the target's "healing rate" will increase by 15%.</size>,,自身對我方星神回復生命時，若目標生命值低於50%，目標「治療率」增加15%。,,,,
+Potential_Content_24301,<size=12>Every time an enemy star god dies，he will recover 100 points of "Holy Spirit Value".</size>,,敵方每有星神死亡，自身回復100點「聖靈值」。,,,,
+Potential_Content_24302,<size=12>After using "normal attack" on yourself，100 points of "Holy Spirit Value" will be restored.</size>,,自身使用「普通攻擊」後，回復100點「聖靈值」。,,,,
+Potential_Content_24303,<size=12>After receiving a "normal attack"，75 points of "Holy Spirit Value" will be restored.</size>,,自身承受「普通攻擊」後，回復75點「聖靈值」。,,,,
+Potential_Content_24401,<size=12>When the own "health" is lower than 70%，the "debuff evasion rate" increases by 20%.</size>,,自身「生命值」低於70%時，「減益閃避率」增加20%。,,,,
+Potential_Content_24402,<size=12>At the beginning of the second round，self-attack ignores 15% of the target's "Defense Value" and continues until the end of the battle.</size>,,第2回合開始時，自身攻擊無視目標15%「防禦值」，持續至戰鬥結束。,,,,
+Potential_Content_24403,<size=12>When using "Holy Spirit Skill" yourself，add 30% "Crit Damage Rate".</size>,,自身使用「聖靈技能」時，附加30%「暴擊傷害率」。,,,,
+Potential_Content_24501,<size=12>When you have 2 or more "buff" effects on yourself，the "crit rate" increases by 25%.</size>,,自身身上持有2個或以上的「增益」效果時，「暴擊率」增加25%。,,,,
+Potential_Content_24502,<size=12>After using "Holy Spirit Skill" for the first time，one's own "damage reduction" will increase by 20%，which will last until the end of the battle.</size>,,第1次使用「聖靈技能」後，自身「減傷」增加20%，持續至戰鬥結束。,,,,
+Potential_Content_24503,<size=12>When receiving "Beast God Damage" for the first time，the "Beast God Damage Reduction Rate" increases by 35%.</size>,,第1次承受「獸神傷害」時，「獸神減傷率」增加35%。,,,,
+,,,,,,,
+HeroStationBuffBubble_Title,Research center bonus,,研究中心加成,,,,
+,,,,,,,
+HeroISkillInfoPopup_Title,Explanation,,說明,,,,
+HeroISkillInfoPopup_confirm,Confirm,,確認,,,,
+HeroNormalAttackBubble_Title,Normal attack,,普通攻擊,,,,
+HeroNormalAttackBubble_Tip,Character's normal attack,,角色的普通攻擊,,,,
+HeroHolyAttackBubble_Title,Holy Spirit Skills,,聖靈技能,,,,
+HeroHolyAttackBubble_Tip,Character's Holy Spirit Attack,,角色的聖靈攻擊,,,,
+HeroPassiveBubble_Title,Passive skill,,被動技能,,,,
+HeroAwakeSkillBubble_Title,Awakening skills,,覺醒技能,,,,
+HeroAwakeSkillBubble_Tip,Character's Awakening Attack,,角色的覺醒攻擊,,,,
+,,,,,,,
+#HeroName,,,,,,,
+hero_name_1101,Apollo,,Apollo,,,,
+hero_name_1102,Hercules,,Hercules,,,,
+hero_name_1103,Athena,,Athena,,,,
+hero_name_1104,Moana,,Moana,,,,
+hero_name_1105,Hestia,,Hestia,,,,
+hero_name_1106,Bell,,Bell,,,,
+hero_name_1107,Hermes,,Hermes,,,,
+hero_name_1201,Artemis,,Artemis,,,,
+hero_name_1202,Lipa,,Lipa,,,,
+hero_name_1203,Aoife,,奧菲,,,,
+hero_name_1204,Pais,,派絲,,,,
+hero_name_1205,Demeter,,Demeter,,,,
+hero_name_1206,Areka,,Areka,,,,
+hero_name_1207,Bisky,,Bisky,,,,
+hero_name_1208,Stella,,Stella,,,,
+hero_name_1209,Eldani,,艾爾妲妮,,,,
+hero_name_1210,Sabi,,Sabi,,,,
+hero_name_1301,Duff,,Duff,,,,
+hero_name_1302,Orian,,奧莉安,,,,
+hero_name_1303,Kelis,,凱莉絲,,,,
+hero_name_1304,Ahippus,,亞希彼斯,,,,
+hero_name_1305,Lu Ge,,Lu Ge,,,,
+hero_name_1401,Perseus,,Perseus,,,,
+hero_name_1402,修普诺斯,,修普諾斯,,,,
+hero_name_1403,Persephone,,Persephone,,,,
+hero_name_1404,Jenna,,Jenna,,,,
+hero_name_1405,Anrumeda,,安露美達,,,,
+hero_name_1406,Mamsha,,瑪姆莎,,,,
+,,,,,,,
+#EnemyName,,,,,,,
+hero_name_9001,Lower level white soldier I,,下級白兵I,,,,
+hero_name_9002,Lower level white soldier II,,下級白兵II,,,,
+hero_name_9003,Lower level white soldier III,,下級白兵III,,,,
+hero_name_9004,Lower level white soldier IV,,下級白兵IV,,,,
+hero_name_9005,Intermediate White Soldier I,,中級白兵I,,,,
+hero_name_9006,Intermediate White Soldier II,,中級白兵II,,,,
+hero_name_9007,Intermediate White Soldier III,,中級白兵III,,,,
+hero_name_9008,Intermediate White Soldier IV,,中級白兵IV,,,,
+hero_name_9009,Advanced White Soldier I,,高級白兵I,,,,
+hero_name_9010,Advanced White Soldier II,,高級白兵II,,,,
+hero_name_9011,Advanced White Soldier III,,高級白兵III,,,,
+hero_name_9012,Advanced White Soldier IV,,高級白兵IV,,,,
+hero_name_9013,Lower Level Cangbing I,,下級蒼兵I,,,,
+hero_name_9014,Lower Level Cangbing II,,下級蒼兵II,,,,
+hero_name_9015,Lower Level Cangbing III,,下級蒼兵III,,,,
+hero_name_9016,Lower Level Cangbing IV,,下級蒼兵IV,,,,
+hero_name_9017,Intermediate Blue Soldier I,,中級蒼兵I,,,,
+hero_name_9018,Intermediate Blue Soldier II,,中級蒼兵II,,,,
+hero_name_9019,Intermediate Blue Soldier III,,中級蒼兵III,,,,
+hero_name_9020,Intermediate Blue Soldier IV,,中級蒼兵IV,,,,
+hero_name_9021,Advanced Blue Soldier I,,高級蒼兵I,,,,
+hero_name_9022,Advanced Blue Soldier II,,高級蒼兵II,,,,
+hero_name_9023,Advanced Blue Soldier III,,高級蒼兵III,,,,
+hero_name_9024,Advanced Blue Soldier IV,,高級蒼兵IV,,,,
+hero_name_9025,Lower Level Red Soldier I,,下級赤兵I,,,,
+hero_name_9026,Lower Level Red Soldier II,,下級赤兵II,,,,
+hero_name_9027,Lower Level Red Soldier III,,下級赤兵III,,,,
+hero_name_9028,Lower Level Red Soldier IV,,下級赤兵IV,,,,
+hero_name_9029,Intermediate Red Soldier I,,中級赤兵I,,,,
+hero_name_9030,Intermediate Red Soldier II,,中級赤兵II,,,,
+hero_name_9031,Intermediate Red Soldier III,,中級赤兵III,,,,
+hero_name_9032,Intermediate Red Soldier IV,,中級赤兵IV,,,,
+hero_name_9033,Advanced Red Soldier I,,高級赤兵I,,,,
+hero_name_9034,Advanced Red Soldier II,,高級赤兵II,,,,
+hero_name_9035,Advanced Red Soldier III,,高級赤兵III,,,,
+hero_name_9036,Advanced Red Soldier IV,,高級赤兵IV,,,,
+hero_name_9037,Lower level black soldier I,,下級黑兵I,,,,
+hero_name_9038,Lower level black soldier II,,下級黑兵II,,,,
+hero_name_9039,Lower level black soldier III,,下級黑兵III,,,,
+hero_name_9040,Lower level black soldier IV,,下級黑兵IV,,,,
+hero_name_9041,Intermediate Black Soldier I,,中級黑兵I,,,,
+hero_name_9042,Intermediate Black Soldier II,,中級黑兵II,,,,
+hero_name_9043,Intermediate Black Soldier III,,中級黑兵III,,,,
+hero_name_9044,Intermediate Black Soldier IV,,中級黑兵IV,,,,
+hero_name_9045,Advanced Black Soldier I,,高級黑兵I,,,,
+hero_name_9046,Advanced Black Soldier II,,高級黑兵II,,,,
+hero_name_9047,Advanced Black Soldier III,,高級黑兵III,,,,
+hero_name_9048,Advanced Black Soldier IV,,高級黑兵IV,,,,
+,,,,,,,
+#FullHeroName,,,,,,,
+full_hero_name_1101,Apollo the Shiner,,閃耀者．Apollo,,,,
+full_hero_name_1102,Demigod hero. Hercules,,半神英雄．Hercules,,,,
+full_hero_name_1103,The goddess of victory. Athena,,勝利女神．Athena,,,,
+full_hero_name_1104,The giant throne. Moana,,巨爵座．Moana,,,,
+full_hero_name_1105,Chaste and flawless. Hestia,,貞潔無瑕．Hestia,,,,
+full_hero_name_1106,Lynx. Bell,,天貓座．Bell,,,,
+full_hero_name_1107,Messengers of the gods. Hermes,,諸神使者．Hermes,,,,
+full_hero_name_1201,The moon of destruction. Artemis,,毀滅之月．Artemis,,,,
+full_hero_name_1202,Libra. Lipa,,天秤座．Lipa,,,,
+full_hero_name_1203,Lyra. Aoife,,天琴座．奧菲,,,,
+full_hero_name_1204,Pisces. Pais,,雙魚座．派絲,,,,
+full_hero_name_1205,Earth Mother Goddess. Demeter,,地母神．Demeter,,,,
+full_hero_name_1206,Ursa Minor. Areka,,小熊座．Areka,,,,
+full_hero_name_1207,Little Leo. Bisky,,小獅座．Bisky,,,,
+full_hero_name_1208,Corona Borealis. Stella,,北冕座．Stella,,,,
+full_hero_name_1209,Draco. Eldani,,天龍座．艾爾妲妮,,,,
+full_hero_name_1210,Ophiuchus. Sabi,,蛇夫座．Sabi,,,,
+full_hero_name_1301,Columba. Duff,,天鴿座．Duff,,,,
+full_hero_name_1302,Orion. Orian,,獵戶座．奧莉安,,,,
+full_hero_name_1303,Hercules. Kelis,,武仙座．凱莉絲,,,,
+full_hero_name_1304,圣者．Ahippus,,聖者．亞希彼斯,,,,
+full_hero_name_1305,Canis Minor. Lu Ge,,小犬座．Lu Ge,,,,
+full_hero_name_1401,Perseus. Perseus,,英仙座．Perseus,,,,
+full_hero_name_1402,Eternal sleep. Hypnos,,永夜之眠．修普諾斯,,,,
+full_hero_name_1403,Queen of Hades. Persephone,,冥后．Persephone,,,,
+full_hero_name_1404,Rhododendron. Jenna,,杜鵑座．Jenna,,,,
+full_hero_name_1405,Andromeda. Anrumeda,,仙女座．安露美達,,,,
+full_hero_name_1406,Southern Cross. Mamsha,,南十字座．瑪姆莎,,,,
+full_hero_name_8001,Lightning giant. Fabuti,,閃電巨人．法布提,,,,
+full_hero_name_8003,Frost giant. Bergmire,,冰霜巨人．貝格米爾,,,,
+full_hero_name_8101,Lightning giant. Fabuti,,閃電巨人．法布提,,,,
+full_hero_name_8103,Frost giant. Bergmire,,冰霜巨人．貝格米爾,,,,
+,,,,,,,
+#HeroStory,,,,,,,
+1101_HeroStory,"As a child of Zeus，one of the twelve main gods of Olympus，the god who represents light and literature，Apollo is a beautiful girl with many talents. Her noble and elegant appearance and confident posture attract everyone's attention. She always She maintains a neat image and wears gorgeous dresses and jewelry to show her noble status as a deity. Although some people think that she is a bit arrogant and aloof，this image also makes her more eye-catching and difficult to ignore.
+She attaches great importance to her bloodline. No matter how she behaves or speaks，she can make people feel the good upbringing that a "Lord God" should have. She never lies and does things aboveboard. But precisely because of her persistence in her bloodline，Apollo kept a certain distance from the ordinary people of the gods. Even the people of the gods living in the main city of Olympus rarely saw her in person. Rumor has it that Apollo showed respect only to her parents and sister，maintaining an indifferent attitude towards everyone else. ",,"You are a child of Zeus，one of the twelve main gods of Olympus，and a god who represents light and literature. Apollo is beautiful and smart，and is a beautiful girl with many talents. Her noble and elegant appearance and confident posture attract everyone's attention. She always maintains a neat appearance，wearing gorgeous dresses and jewelry，showing her noble status as a deity. While some consider her a bit haughty and aloof，this image also makes her more compelling and hard to ignore.
+She attaches great importance to her bloodline. No matter how she behaves or speaks，she can make people feel the good upbringing that a "Lord God" should have. She never lies and does things aboveboard. But precisely because of her persistence in her bloodline，Apollo maintains a certain distance from the ordinary people of the gods. Even the people of the gods living in the main city of Olympus rarely see her in person. There are rumors that Apollo only showed respect to her parents and sister，and maintained an indifferent attitude towards others. ",,,,
+1102_HeroStory,"The demigod Hercules is a very unique female hero. She is also the combat instructor of minor constellations such as Leo Minor，Ursa Minor，and the Southern Cross. She has outstanding muscle lines and extraordinary strength. Despite her appearance and He speaks in an uncle-like tone and has a frank and direct personality. This reverse charm unexpectedly attracts many people.
+Hercules is always accompanied by a kitten，a stray cat she accidentally picked up during one of her adventures，and named it "Taro". Taro became Hercules' closest companion，and she often shared her thoughts with Taro.
+Although Hercules has the blood of Zeus，she is not as obsessed with the distinction between superiority and inferiority as Apollo and Athena. On the contrary，she is willing to lift up those minor signs who are not in the zodiac，giving them support and guidance. ",,"The demigod Hercules is a very unique female hero. She is also the combat instructor of minor constellations such as Leo Minor，Ursa Minor，and the Southern Cross. She has outstanding muscle lines and extraordinary strength. Despite her appearance，He has an uncle-like tone of voice and a frank and direct personality. This reverse charm unexpectedly attracts many people.
+Hercules is always accompanied by a kitten，a stray cat she accidentally picked up during one of her adventures，and named it "Taro". Taro became Hercules' closest companion，and she often shared her thoughts with Taro.
+Although Hercules has the blood of Zeus，she is not as obsessed with the distinction between superiority and inferiority as Apollo and Athena. On the contrary，she is willing to lift up those minor signs who are not in the zodiac，giving them support and guidance. ",,,,
+1103_HeroStory,"Athena has an elite temperament and a motivated mentality. She looks forward to future adventures and challenges and is full of innocent enthusiasm.
+
+As a god with the direct bloodline of Zeus，Athena is proud and realizes that she inherits the power and responsibility of Zeus. This makes her very dedicated to her achievements and contributions in the divine world. Therefore，Athena is the Twelve Lord God of Olympus，and she will still study and train hard every day to realize her potential and protect the world of humans and gods from the threat of Chaos.
+
+As the goddess of victory，Athena plays an important role in every war. She actively cooperates with other gods and constellations. With her tenacious will and resourceful mind，she shows outstanding combat skills and leadership skills in difficult battles. Committed to maintaining order and peace in the divine world. Athena's selfless devotion makes her a beacon of hope to the gods and she works to restore balance to the divine world. It is a pity that Athena's wisdom is limited to the battlefield. In daily life，she regards Apollo as a close friend and believes that there is a deep friendship and trust between them. However，she is often used by Apollo under different excuses and becomes a tool. I don't know if I am stupid",,"Athena is a person with an elite temperament and a motivated mentality. She looks forward to future adventures and challenges，full of innocent enthusiasm.
+
+As a god with the direct bloodline of Zeus，Athena is proud and realizes that she inherits the power and responsibility of Zeus. This makes her very dedicated to her achievements and contributions in the divine world. Therefore，Athena is one of the twelve main gods of Olympus，and she will still study and train hard every day to realize her potential and protect the world of humans and gods from the threat of Chaos.
+
+As the goddess of victory，Athena plays an important role in every war. She actively cooperates with other gods and constellations. With her tenacious will and resourceful mind，she shows outstanding combat skills and leadership skills in difficult battles. Committed to maintaining order and peace in the divine world. Athena's selfless devotion makes her a beacon of hope to the gods and she works to restore balance to the divine world. It's a pity that Athena's wisdom is limited to the battlefield. In daily life，she regards Apollo as a close friend and believes that there is a deep friendship and trust between them. However，she is often used by Apollo under different excuses，and she is stupid when she is used as a tool. I don’t know. ",,,,
+1104_HeroStory,"Hero Moana，the head nurse who works at the new Olympus Medical Center，always treats the people around her with an amiable attitude. No matter how difficult things are，she will always have a smile and care on her face. eyes，and patiently caring for everyone who walks into the medical center. Moana is willing to help others，lending a helping hand when they need help and comfort，and giving them warmth and rewards after solving the incident，which makes people around her feel very at ease. It's like having a selfless mother by their side to protect them.
+
+She will give her partners endless warmth and care，hoping to be their protector and leader. She is full of maternal love during sex，meeting her partner's needs in a gentle way，and conveying her love and care for her partner with her caring and gentle manner. Moana likes to use a soft and romantic tone to communicate with her partner，with a hint of erraticism in her tone of voice. She listens to each other with tolerance and understanding，and provides encouragement and support. There is a soft rhythm to her words that makes people feel relaxed and comfortable. ",," The head nurse who works at the New Olympus Medical Center - Lord Ju. Moana always treats people around her with an amiable attitude. No matter what difficult things she faces，she will always have a smile and caring eyes on her face，and patiently take care of everyone who walks into the medical center. Moana is willing to help others，lending a helping hand when they need help and comfort，and giving them warmth and rewards after solving the incident. This makes people around her feel very at ease，as if there is a selfless mother watching over them.
+
+She will give her partners endless warmth and care，hoping to be their protector and leader. She is full of maternal love during sex，meeting her partner's needs in a gentle way，and conveying her love and care for her partner with her caring and gentle manner. Moana likes to use a soft and romantic tone to communicate with her partner，with a hint of erraticism in her tone of voice. She listens to each other with tolerance and understanding，and provides encouragement and support. There is a soft rhythm to her words that makes people feel relaxed and comfortable. ",,,,
+1105_HeroStory,"Hestia's talents and skills are extraordinary. As an all-around head maid，she is proficient in various household skills and can skillfully take care of everything in the house. She takes every task very seriously，whether it is serving the gods Whether she is dealing with emergencies or emergencies，she is always competent and always presents herself in the most perfect state.
+
+However，she is taciturn and rarely changes her expression，but she exudes a noble and elegant temperament. She always communicates with people in a quiet tone and never shows emotion. Her words are few and precise，saying only the most important things. This makes her appear mysterious and incredible，with a unique charm. But whenever Hestia is faced with a sudden compliment，her cheeks will turn red，making her look even more cute and moving，which is in sharp contrast to her usual calm image.
+Hestia's loyalty to her master or task is unshakable. She serves her master with meticulous care and professional skills. Whether it is a family gathering or an important ceremony，Hestia will silently bring warmth and joy to everyone with her unique style. . ",,"Hestia's talents and skills are extraordinary. As an all-round maid，she is proficient in various household skills and can skillfully take care of everything in the house. She takes every task very seriously，whether it is serving the gods or dealing with emergencies，she is competent and always presents herself in the most perfect state.
+
+However，she is taciturn and rarely changes her expression，but she exudes a noble and elegant temperament. She always communicates with people in a quiet tone and never shows emotion. Her words are few and precise，saying only the most important things. This makes her appear mysterious and incredible，with a unique charm. But whenever Hestia is faced with a sudden compliment，her cheeks will turn red，making her look even more cute and moving，which is in sharp contrast to her usual calm image.
+Hestia's loyalty to her master or task is unshakable. She serves her master with meticulous care and professional skills. Whether it is a family gathering or an important ceremony，Hestia will silently bring warmth and joy to everyone with her unique style. . ",,,,
+1106_HeroStory,"Ling is known for her natural cuteness skills and playful personality. Like Lu Ge，a Canis Minor，she has both human and action characteristics，with fluffy ears and tail，dexterous paws and unique pupils.
+
+Ling likes to attract attention with her innocent and cute appearance. Although Ling often shows a well-behaved and innocent side，she actually likes to tease others，especially those who love her cute words. She will use her intelligence and cunning personality to achieve her own ends，sometimes even interacting with people in a somewhat suggestive manner.
+
+Ling also has a very special hobby，which is to act cute and trick people into eating. She often acts hungry to draw attention and sympathy from others. Then she would ask someone to give her some food with a pitiful look on her face. She enjoys experimenting with various cuisines，especially fish and dairy. People often have a hard time saying no to her requests because she always asks for food in an innocent yet charming way. ",,"Bell is known for his natural cuteness and mischievous personality. Like Lu Ge，the Canis Minor，she possesses both human and motor characteristics，with downy ears and tail，dexterous paws and unique pupils.
+
+Bell likes to use her innocent and cute appearance to attract attention. Although Bell often shows a well-behaved and innocent side，she actually likes to tease others，especially those who love her cute words. She will use her intelligence and cunning personality to achieve her own ends，sometimes even interacting with people in a somewhat suggestive manner.
+
+Bell also has a very special hobby，which is to act cute and trick people into eating. She often acts hungry to draw attention and sympathy from others. Then she would ask someone to give her some food with a pitiful look on her face. She enjoys experimenting with various cuisines，especially fish and dairy. People often have a hard time saying no to her requests because she always asks for food in an innocent yet charming way. ",,,,
+1107_HeroStory,"Hermes is not only the president of a well-known fashion brand in the divine world，but also a god full of wisdom and wit，who is full of confidence in her long legs. She has incarnated as a human many times in the past，not only going deep into the human world to experience the culture，but also Incorporating popular elements of fashion and integrating these inspirations into his brand，he gives the fashions mystery and charm.
+
+Despite his divine wealth，Hermes maintained an extraordinary frugality. She chose to take the transportation of ordinary divine people，and this simple lifestyle made her deeply respected and loved by the divine people. Her stingy appearance actually hides her cherishment of resources. She understands the value of money and knows how to use resources to achieve the best results.
+
+Hermes' wisdom and broad connections enable her to often invite familiar zodiac signs to become her fashion models. This not only saves costs for her brand，but is also a symbol of respect and cooperation. One of her actions was to invite Jenna，who had not yet become an idol at the time，to serve as a model for a fashion show，which became an opportunity for Jenna to rise in the entertainment industry and became the starting point of a legend.
+
+In Hermes' mind，business strategy and the nature of the gods are closely linked. She often explores innovative marketing methods and constantly thinks about how to incorporate mythological elements into fashion to make her brand unique. The combination of her business acumen and the power of the gods gave her a unique style and influence，making her a highly visible presence in both the divine and human worlds. ",,"Hermes is not only the president of a well-known fashion brand in the divine world，but also a god full of wisdom and wit，who is full of confidence in his long legs. She has incarnated as a human many times in the past，not only going deep into the human world to experience culture，but also integrating popular elements of fashion into her brand，giving the fashion mystery and charm.
+
+Despite his divine wealth，Hermes maintained an extraordinary frugality. She chose to take the transportation of ordinary divine people，and this simple lifestyle made her deeply respected and loved by the divine people. Her stingy appearance actually hides her cherishment of resources. She understands the value of money and knows how to use resources to achieve the best results.
+
+Hermes' wisdom and broad connections enable her to often invite familiar zodiac signs to become her fashion models. This not only saves costs for her brand，but is also a symbol of respect and cooperation. One of her actions was to invite Jenna，who had not yet become an idol at the time，to serve as a model for a fashion show，which became an opportunity for Jenna to rise in the entertainment industry and became the starting point of a legend.
+
+In Hermes' mind，business strategy and the nature of the gods are closely linked. She often explores innovative marketing methods and constantly thinks about how to incorporate mythological elements into fashion to make her brand unique. The combination of her business acumen and the power of the gods gave her a unique style and influence，making her a highly visible presence in both the divine and human worlds. ",,,,
+1201_HeroStory,"Artemis is a sexy，charming and tolerant woman. She has a charming appearance，long hair like a curtain of night，and eyes shining with mysterious light. She has heart-warming curves and a plump figure. ，her beauty and sexiness make people irresistible.
+
+As the younger sister of Apollo，Choxing had a completely different idea. She strongly opposed her father Zeus's theory of the unification of the divine realms. At first，she tried to persuade her sister Apollo，but the stubborn Apollo firmly believed that Zeus was right and had no other choice. Arrive at "Ocean Fortress"，the capital of the opposition force advocated by Poseidon. She has the same healing abilities as Apollo. So he worked as a doctor in the Ocean Fortress.
+
+Artemis is sexually dissatisfied，longs to be filled，craves complete satisfaction and enjoyment，and expresses this desire as a physical and emotional desire，seeking a deep connection with her partner and the ultimate pleasure of sex. Although Artemis pursues the ultimate sexual experience. ",,"Artemis is a sexy，charming，and tolerant woman. She has a enchanting appearance，with long hair like a curtain of night，and eyes shining with mysterious light. She has heart-throb curves and a voluptuous figure，and her beauty and sex appeal are irresistible.
+
+As Apollo's younger sister，Choxing had a completely different idea. She strongly opposed her father Zeus's theory of the unification of the divine realms. At first，he tried to persuade his sister Apollo，but the stubborn Apollo firmly believed that Zeus was right，so he came to Apollo with no other choice. "Ocean Fortress"，the capital of the opposition force advocated by Seton. She has the same medical abilities as Apollo. So he worked as a doctor in the Ocean Fortress.
+
+Artemis was sexually dissatisfied and longed to be filled. Craving for complete satisfaction and enjoyment and expressing this desire as a physical and emotional desire，seeking a deep connection with a partner and the ultimate pleasure of sex. Although Artemis pursues the ultimate sexual experience. ",,,,
+1202_HeroStory,"Libra Lipa loves justice and peace，and judges good and evil for the people of God every day. She is the superior administrative officer of the Ocean Fortress. She has a firm character and is hard-working. Since she has to go through strict inspections when entering and leaving the Ocean Fortress，as a fortress Lipa，an employee，has to process thousands of immigration applications almost every day，and she will only stay in the office building and work until late at night.
+As an executive-level leader，she has clear expectations and standards for work，and often requires subordinates to work overtime to ensure the completion of tasks. She strictly follows the principle of clear rewards and punishments and believes that success can only be achieved through hard work and dedication.
+
+In the workplace，Lipa communicates with people in a clear and serious tone. The tone is firm and calm，and one's requirements and expectations are always expressed clearly. She pays attention to detail and execution，and does not overlook any flaws in the details of her work. Her words and attitude often make people nervous，but this is also a sign of her responsibility for her work. However，when Lipa develops good working relationships with her subordinates and recognizes their efforts，she becomes more approachable and friendly. Talking to them in a more relatable tone shows that she is caring and supportive as a leader. She understands that rewards are an important means of motivating team members，so she will give them appropriate rewards to motivate them to continue working hard.",,"Libra Lipa，who loves justice and peace and judges good and evil for the people of God every day，is the superior of Ocean Fortress. administrative officer. She has a determined and hard-working character. Since she has to go through strict inspections when entering and leaving the Ocean Fortress，Lipa，as an important official，has to deal with thousands of immigration applications almost every day，and she will only stay in the office building and work until late at night.
+As an executive-level leader，she has clear expectations and standards for work，and often requires subordinates to work overtime to ensure the completion of tasks. She strictly follows the principle of clear rewards and punishments and believes that success can only be achieved through hard work and dedication.
+
+In the workplace，Lipa communicates with people in a clear and serious tone. The tone is firm and calm，and one's requirements and expectations are always expressed clearly. She pays attention to detail and execution，and does not overlook any flaws in the details of her work. Her words and attitude often make people nervous，but this is also a sign of her responsibility for her work. However，when Lipa develops good working relationships with her subordinates and recognizes their efforts，she becomes more approachable and friendly. Talking to them in a more relatable tone shows that she is caring and supportive as a leader. She understands that rewards are an important means of motivating team members，so she will give them appropriate rewards to motivate them to continue working hard. ",,,,
+1203_HeroStory,"Aoife of Lyra is a popular live broadcast host on the Greek God Realm online live broadcast platform "PT". The live broadcast content mainly focuses on sharing her daily life and listening to fans' concerns. She has won the love of many fans. She is often in During the live broadcast，she gave out various "physical benefits" to attract the "financier father"，which is one of the reasons why she has become a live broadcaster with millions of followers.
+
+However，when Aoife was still a citizen of the gods，she was disliked by others in the academy due to various "weird" behaviors. But Columba. Duff discovered that Aoife was suspected of being bullied，and took the initiative to help her regardless of other people's eyes，and the two became inseparable good friends. However，due to Duff's tolerance，Aoife often shows excessive emotion and dependence，always hoping that Duff can only understand and care about her. However，Aoife also understands that excessive restraint may frighten Duff and even cause him to lose this "good friend". Aoife himself also tries to suppress some of the behaviors that are overly obsessed with Duff and tries to put this twisted emotion on his fans. ",," Aoife of Lyra is a popular live broadcaster on the Greek God Realm online live broadcast platform "PT". The live broadcast content mainly focuses on sharing her daily life and listening to fans' concerns. She has won the love of many fans and she has a good appearance. She often gives out various "physical benefits" during live broadcasts to attract "finance daddy"，which is one of the reasons why she has become a live broadcaster with millions of followers.
+
+However，when Aoife was still a citizen of the gods，she was disliked by others in the academy due to various "weird" behaviors. But Columba. Duff discovered that Aoife was suspected of being bullied，and took the initiative to help her regardless of other people's eyes，and the two became inseparable good friends. However，due to Duff's tolerance，Aoife often shows excessive emotion and dependence，always hoping that Duff can only understand and care about her. However，Aoife also understands that excessive restraint may frighten Duff and even cause him to lose this "good friend". Aoife herself also tries to suppress some of the behaviors that are overly obsessed with Duff and tries to put this twisted emotion on the fans. . ",,,,
+1204_HeroStory,"Although Pais always looks very lazy，as a member of the Zodiac，she was personally appointed by Poseidon to be the captain of the Ocean Fortress's defense team. She stays in the control room at the top of the mobile fortress every day to monitor the gods. The mainland of the world，and to check whether there are any suspicious people sneaking into the Ocean Fortress. Once discovered，Pais will report to Lipa and lead the defense forces to catch the illegal intruders. However，there are still many divine people who want to enter the Ocean Fortress illegally，causing Lipa and Pais I was forced to work overtime every day to deal with these people.
+
+The endless overtime work made Pais feel very depressed and frustrated. She was eager to end the day's work as soon as possible，and she always thought about going home immediately after get off work to play her favorite video games. When she was finally freed from the constraints of the office，she hurried back home，picked up her handheld device or mobile phone，and began to enjoy the electronic world she loved. Playing video games was her happiest moment，making her forget all her worries and stress.
+
+Pais always carries sweets with him and cannot resist the temptation of sweets at any time. She especially loved sweet pastries and chocolate，and these sweets became an integral part of her life. ",,"Although Pais always looks very lazy，as a zodiac sign，she was personally appointed by Poseidon to be the captain of the Ocean Fortress's defense team. She stays in the control room at the top of the mobile fortress to monitor her every day. Visit the God Realm Continent and check whether there are any suspicious persons sneaking into the Ocean Fortress. Once discovered，Pais will report to Lipa and lead the defense forces to capture the illegal intruders. However，there are still many divine beings who want to enter the Ocean Fortress illegally，causing Lipa and Pais to be forced to work overtime every day to deal with these people.
+
+The endless overtime work made Pais feel very depressed and frustrated. She was eager to end the day's work as soon as possible，and she always thought about going home immediately after get off work to play her favorite video games. When she was finally freed from the constraints of the office，she hurried back home，picked up her handheld device or mobile phone，and began to enjoy the electronic world she loved. Playing video games was her happiest moment，making her forget all her worries and stress.
+
+Pais always carries sweets with her and cannot resist the temptation of sweets at any time. She especially loved sweet pastries and chocolate，and these sweets became an integral part of her life. ",,,,
+1205_HeroStory,"Demeter，the Earth Mother Goddess，is a woman with excessive maternal love. After her daughter Persephone ran away，Demeter felt very lonely and empty. In order to fill this emptiness，she began to develop a mysterious vegetable and fruit. In Her garden is filled with mysterious fruits and vegetables she developed，which come in various shapes and colors. Demeter will communicate with these fruits and vegetables，sharing her stories and feelings. Each of these mysterious fruits and vegetables has its own unique meaning. Unique personality and characteristics. For example，"Little Grape" likes to travel together. It always forms a bunch with other grapes and travels together. "Melon Prince" is a very gentlemanly fruit and vegetable，and it always maintains elegance. The attitude of Demeter is like a real prince. "Little Carrot Head" is very smart，it can always come up with some wonderful ideas to help Demeter solve problems. And "Purple Carrot" is a very brave fruit and vegetable，it is always Dare to take risks and constantly challenge yourself.
+
+Demeter's fruits and vegetables have also become her friends and partners. They not only accompany her，but also help her complete some tasks. Demeter lived with these fruits and vegetables for a long time. ",,"Earth Mother Goddess. Demeter is a woman with excessive maternal love. Her daughter is Queen of Hades. After Persephone ran away，Demeter felt very lonely and empty. In order to fill this void，she began to develop a mysterious fruit and vegetable. Her garden is filled with the mysterious fruits and vegetables she developed，which come in a variety of shapes and colors. Demeter will communicate with these fruits and vegetables，sharing her stories and feelings. Each of these mysterious fruits and vegetables has a unique personality and characteristics. For example，"Little Grape" likes to travel together very much. It always forms a bunch with other grapes and travels together. The "Melon Prince" is a very gentlemanly fruit and vegetable. It always maintains an elegant posture，like a real prince. "Little Carrot Head" is very smart，and he can always come up with some wonderful ideas to help Demeter solve problems. "Purple Carrot" is a very brave fruit and vegetable. It always dares to take risks and constantly challenges itself.
+
+Demeter's fruits and vegetables have also become her friends and partners. They not only accompany her，but also help her complete some tasks. Demeter lived with these fruits and vegetables for a long time. ",,,,
+1206_HeroStory,"Ursa Minor. Areka has a straightforward and tough personality，always daring to face difficulties and challenges. He met Bisky，a Leo Minor，and Mamsha，a Southern Cross，in the academy of the God Realm，and trained with Hercules，so the relationship between the three Especially good. Although he often calls Bisky a fool，he silently cleans up the mess for her. When he learned that Bisky needed to set off to find the son of prophecy，he immediately put aside what he was doing and went on the road with Bisky，Lilim and others.
+
+Nine years ago，he failed to catch up with the Ocean Fortress because he was protecting Lilim who was attacked. After many hardships，he came to the Thebes Federation with Bisky and Lilim. She regards Lilim and Bisky as her younger sisters. She feels very remorseful and self-blame for Lilim's self-sacrifice. In order not to let the tragedy happen again，she will conduct independent training after getting up every morning to improve her combat power. ",,"Ursa Minor. Areka has a straightforward and tough personality，always daring to face difficulties and challenges. She met Bisky，a Leo，and Mamsha，a Southern Cross，in the academy of the God Realm and trained with Hercules，so the relationship between the three is particularly good. Although he often calls Bisky a fool，he silently cleans up the mess for her. When he learned that Bisky needed to set out to find the Son of Prophecy，he immediately put aside his work and hit the road with Bisky，Lilim and others.
+
+Nine years ago，he was unable to catch up with the Ocean Fortress because he was protecting Lilim who was attacked. After many hardships，he came to the Thebes Federation with Bisky and Lilim. She regards Lilim and Bisky as her younger sisters. She feels very remorseful and self-blame for Lilim's self-sacrifice. In order not to let the tragedy happen again，she will conduct independent training after getting up every morning to improve her combat power. ",,,,
+1207_HeroStory,"A girl who has full combat power with skill points and zero wisdom points. She can even fall flat when walking. She doesn't speak without thinking，but is born to be really stupid. She often tells nonsense. But because of her kindness and cheerfulness，His personality attracted the attention of Mamsha from the Southern Cross and Areka from the Ursa Minor. After getting along，the three became close friends and joined Hercules' training team for training together. After graduating from the academy，he and Areka settled in the Ocean Fortress and got acquainted with Artimi who was boarding at the hotel. Lilim of the Si family. She often carries a small yellow robot named "Small Machine". Bisky claims to be a self-developed robot. Even if it breaks，only she knows how to repair it. In fact，because of the small machine The internal design was too complicated，and even the craftsmen of the Thebes Federation did not want to repair the small machine，so Bisky had to repair it himself.
+
+A few days before the protagonist came to the God Realm，a blue luminous object calling himself "Zeus" suddenly appeared in front of Bisky. Bisky，who had only half-understanding of the prophecy of Moraiya，the three goddesses of fate，had to carry "Zeus" back to Magisa's place. In the stronghold of Thebes，seek the help of Mamsha，the representative of wisdom. ",," A girl who has full combat power in her skill points but has zero wisdom points，and who can even fall flat on her face when walking. It's not that she doesn't speak without thinking，but she is born to be really stupid，and she often tells fantastic stories. However，it was precisely because of their kind and cheerful personality that they attracted the attention of Mamusa，a Southern Cross，and Areka，an Ursa Minor. After getting along，the three of them became close friends and joined Hercules' training team for training together. After graduating from the academy，he and Areka settled in the Ocean Fortress and met Lilim who was staying at Artemis' house. Bisky often carries a small yellow robot named "Little Machine". Bisky claims to be a self-developed robot. Even if it breaks，only she knows how to repair it. In fact，the internal design of the small machine is too complicated. Even the craftsmen of the Thebes Federation did not want to repair the small machine，so Bisky had to repair it himself.
+
+A few days before the protagonist came to the God Realm，a blue luminous object calling himself "Zeus" suddenly appeared in front of Bisky. Bisky，who had only half-understanding of the prophecy of Moraiya，the three goddesses of fate，had to carry "Zeus" back to Magisa's place. In the stronghold of Thebes，seek the help of Mamsha，the representative of wisdom. ",,,,
+1208_HeroStory,"Stella is a fiery girl with jackal ears and tail. She has a very challenging personality and often challenges others without hesitation. Her competitive spirit is extraordinary. When she was young，she was criticized for being too rebellious. The family members were isolated and eventually met the previous Ophiuchus and Sabi while wandering the streets. Since they were similar in age to Sabi，they became close friends and considered the previous Ophiuchus as their master.
+
+Stella likes to eat meat very much and needs meat in almost every meal. However，she has a physique that will not make her fat no matter how much she eats. She often expresses her views on people she disagrees with in a verbal way，but in front of her childhood friend Sabi，she is quite obedient and becomes one of Sabi's guards.
+
+Stella is dissatisfied with Sabi's other guard Eldani，thinking that she should not be so cowardly and timid. She is eager to train Eldani to become an excellent warrior. Stella knows everything about Sabi，but she knows nothing about Sabi's amnesia. She only knew that the previous Ophiuchus had asked her to protect Sabi，and she had always faithfully fulfilled this agreement.
+
+However，Stella is convinced that there must be a major conspiracy behind Sabi's amnesia incident. She firmly believed in this belief and was ready to find out. ",,"Stella is a fiery girl with jackal ears and tail. She has a very challenging personality and often challenges others without hesitation. Her competitive spirit is extraordinary. When she was young，she was isolated by her family members because she was too rebellious，and eventually met her predecessor Ophiuchus and Sabi while wandering on the streets. Since they were similar in age to Sabi，they became close friends and regarded the previous Ophiuchus as their master.
+
+Stella likes to eat meat very much and needs meat in almost every meal. However，she has a physique that will not make her fat no matter how much she eats. She often expresses her views on people she disagrees with in a verbal way，but in front of her childhood friend Sabi，she is quite obedient and becomes one of Sabi's guards.
+
+Stella is dissatisfied with Sabi's other guard Eldani，thinking that she should not be so cowardly and timid. She is eager to train Eldani to become an excellent warrior. Stella knows everything about Sabi，but she knows nothing about Sabi's amnesia. She only knew that the previous Ophiuchus had asked her to protect Sabi，and she had always faithfully fulfilled this agreement.
+
+However，Stella is convinced that there must be a major conspiracy behind Sabi's amnesia incident. She firmly believed in this belief and was ready to find out. ",,,,
+1209_HeroStory,"Eldani is tall but has a timid，cowardly and fearful personality. She is extremely afraid of all kinds of insects. This contrast is surprising. However，there is a firm belief behind her appearance. She pursues Sabi's appearance and Personality，and because Sabi tolerates all her shortcomings，she vowed to become Sabi's guardian and always guard her. Even if she faces things that scare her，as long as it concerns Sabi's happiness，she will work hard to overcome her inner fear . Stella often asked her to participate in various strange trainings. Although she felt that she could not persist，she could muster the courage to move on as long as she thought that it was for Sabi.
+
+Eldani often apologizes to people，even when it's not her fault. She admires Stella，but is often teased by her，so she is sometimes skeptical of Stella's words.
+
+Eldani is a hybrid of dragon and god，with extremely rare dragon blood. She was born in the ancient ruins of Olympus，the coldest place in the God Realm，so she knows nothing about her life experience. Although she didn't care who her parents were，she grew up on her own and quickly adapted to life in the wild. One day，the principal of the college discovered her and gave her the opportunity to study on campus. At the academy，she met Sabi and Stella，and experienced the warmth and importance of friendship for the first time. This experience changed her worldview and became her firm motivation and support in the future. ",,"Aldani is tall，but timid，cowardly and afraid of things. She is extremely afraid of all kinds of insects. The contrast is surprising. However，there is a strong conviction behind her appearance. She pursues Sabi's appearance and personality，and because Sabi tolerates all her shortcomings，she vows to become Sabi's guardian and always guard her. Even when faced with things that scare her，as long as Sabi's happiness is at stake，she will work hard to overcome her inner fears. Stella often asked her to participate in various strange trainings. Although she felt that she could not persist，as long as she thought that it was for Sabi，she could muster the courage to move on.
+
+Eldaani often apologizes to people，even when it is not her fault. She admires Stella，but is often teased by her，so she is sometimes skeptical of Stella's words.
+
+Eldani is a hybrid of dragon and god，possessing extremely rare dragon blood. She was born in the ruins of Old Olympus，the coldest place in the God Realm，so she knows nothing about her life experience. Although she didn't care who her parents were，she grew up on her own and quickly adapted to life in the wild. One day，the principal of the college discovered her and gave her the opportunity to study on campus. At the academy，she met Sabi and Stella，and experienced the warmth and importance of friendship for the first time. This experience changed her worldview and became her firm motivation and support in the future. ",,,,
+1210_HeroStory,"Sabi loves soft things，especially cute collectibles such as dolls，so she is often nicknamed the "little princess". Despite all the verbal attacks，she always remained patient and looked fragile on the outside，but actually was strong on the inside. However，there is a bottom line that cannot be touched，and that is her little white rabbit. I once experienced some kind of shock and lost part of my childhood memories.
+
+Her kind personality and cute appearance are endearing. The little white rabbit was a relic left to her by her predecessor Ophiuchus when he left，and she cherished it very much. However，inside the toy lies the mystery of memories from her past.
+
+When she sees thunder and lightning，her heart is always filled with fear and she will look for a closed space to lock herself up. She often feels familiar with certain battle scenes but cannot recall them. Fortunately，her childhood friend Stella has always been by her side and protected her as she grew up. Whenever she was bullied，Stella would stand up to help her vent her anger，but she herself knew nothing about Sabi's past amnesia. Stella is Sabi's first escort.
+
+After Sabi attended the academy，she met Eldani. Sabi is willing to accept all Eldani's shortcomings and deeply cherishes this friendship，so she resolutely accepts Eldani as one of her guards. She understands that friendship is a precious asset that cannot be ignored，and Eldani's tolerance and Stella's company have made her find a deep peace in her heart.
+",,"Sabi loves soft things，especially cute collectibles such as dolls，so she is often nicknamed the "little princess". Despite all the verbal attacks，she always remained patient and looked fragile on the outside，but actually was strong on the inside. However，there is a bottom line that cannot be touched，and that is her little white rabbit. I once experienced some kind of shock and lost part of my childhood memories.
+
+Her kind personality and cute appearance are endearing. The little white rabbit was a relic left to her by her predecessor Ophiuchus when he left，and she cherished it very much. However，inside the toy lies the mystery of memories from her past.
+
+When she sees thunder and lightning，her heart is always filled with fear and she will look for a closed space to shut herself in. She often feels familiar with certain battle scenes but cannot recall them. Fortunately，her childhood friend Stella has always been by her side and protected her as she grew up. Whenever she was bullied，Stella would stand up to help her vent her anger，but she herself knew nothing about Sabi's past amnesia. Stella is Sabi's first escort.
+
+After Sabi entered the academy，she met Aldani. Sabi was willing to accept all of Aldani's shortcomings and deeply cherished this friendship，so she resolutely accepted Aldani as one of her guards. She understands that friendship is a precious asset that cannot be ignored，and Aldaani's tolerance and Stella's company have made her find a deep peace in her heart.
+",,,,
+1301_HeroStory,"Duff in the constellation Columba is a rich lady from a noble family. In the eyes of everyone，she is a docile and obedient greenhouse flower. Her proficiency in etiquette is not inferior to that of the god Apollo. She is surrounded by a large group of entourage，which is true to her name. "Caged Bird"，if the divine world had not forced all divine beings over the age of 16 to go to college，otherwise Duff would have had no chance to expand his horizons outside. Since she came into contact with new things in the outside world，Duff has become extremely eager for freedom. However，due to the impact of the war and her position，Duff did not dare to move rashly to other countries，so she had to stay obediently in the Federation of Thebes.
+
+She and Aoife from Lyra were friends from the academy. When she saw Aoife being bullied，Duff felt compassion and reached out to Aoife to help her. While getting along with Aoife，Duff gradually fell in love with non-mainstream things，and the clothes he wore were completely different from the small dresses prepared at home in the past. Although he also liked to drink black tea，it was no longer a combination of small pastries and black tea，but black tea. Crepe. Duff knew that Aoife's personality had become twisted，but he couldn't let go of his good friend，so he had to let Aoife continue to rely on him. ",,"Duff in Columba is a rich lady from a noble family. In the eyes of everyone，she is a docile and obedient greenhouse flower. Her proficiency in etiquette is not inferior to that of the god Apollo. She is surrounded by a large group of entourage，which is also a symbol of her reputation. In fact，"bird in a cage"，if the divine world had not forced all divine beings over the age of 16 to go to college，otherwise Duff would have had no chance to expand his horizons outside. Since she came into contact with new things in the outside world，Duff has become extremely eager for freedom. However，due to the impact of the war and her position，Duff did not dare to move rashly to other countries，so she had to stay obediently in the Federation of Thebes.
+
+She and Lyra's Aoife were friends from the academy. When she saw Aoife being bullied，Duff felt pity and reached out to Aoife to help her. While getting along with Aoife，Duff gradually fell in love with non-mainstream things，and the clothes he wore were completely different from the small dresses prepared at home in the past. Although he also liked to drink black tea，it was no longer small pastries with black tea，but black tea. Served with crepes. Duff knew that Aoife's personality had become twisted，but he couldn't let go of his good friend，so he had to let Aoife continue to rely on him. ",,,,
+1302_HeroStory,"Orian was born in a small village near old Olympus. She loved hunting since she was a child. Her father was an excellent hunter and her first teacher. Under her father's guidance，Orian soon became an outstanding hunter. Sniper，known as the best sniper，almost unmatched by anyone in the village，so she has become extremely confident，always treating others with an arrogant and domineering attitude. Orian believes that her outstanding talents are due to her mastery of special abilities ，the day she was fourteen years old，she was asked to go to the academy. In order to make herself look more "special"，she put on an eye patch to "self-seal" her right eye. In short，it was a "secondary disease". The academy also deliberately recruited Hercules Come and train this strange girl.
+
+However，after graduation，Bisky and others lost contact with Orian，who went his own way...",,"Orian was born in a small village near Old Olympus. She has loved hunting since she was a child. Her father is an excellent hunter. He is also her first teacher. Under the guidance of her father，Orian quickly became an excellent sniper. She was known as the best sniper and was almost unrivaled by anyone in the village. Therefore，she also became extremely confident，always carrying a sense of confidence. Treat others with an arrogant and domineering attitude. Orian believed that her outstanding talents were due to her mastery of special abilities. On the day she was fourteen years old，she was required to go to the academy. In order to make herself look more "special"，she put on an eyepatch to "self-seal" her right eye. To put it simply，It is said to be a "secondary disease"，and the academy also deliberately hired Hercules to train this strange girl.
+
+However，after graduation，Bisky and others lost contact with Orian，who went her own way...",,,,
+1303_HeroStory,"Kelis is a girl who behaves very rudely. She can only use "fist" to speak and ridicule others for their low strength. She is a fan of Hercules. Although she always says she is not，in fact her admiration for Hercules has reached the point of obsession. She had heard about Hercules' heroic deeds since she was a child，especially Hercules' feats when he was still a human，and she was deeply attracted to Hercules. She has always dreamed of one day becoming Hercules' partner，fighting with Hercules，and conquering the world together. Kelis，who had no interest in studying at all，learned that Hercules was the tutor of the academy，so his attendance rate was 100% like that of Duff，who was not absent at all. However，Kelis was not able to join Hercules' training team as he wished. He had to secretly observe Bisky and others' training every day，but he was discovered by Bisky and Areka every time.
+
+After graduation，he would return to the academy to duel with Hercules every day，hoping that Hercules would recognize his strength. Unfortunately，Hercules was busy with official duties and refused Kelis's invitation. Kelis thought that Hercules did not want to duel with her because she felt that she was not strong enough，so she went to the underground fighting arena of Thebes Federation to train herself，thinking that she would challenge Hercules to fight after becoming the king. ",,"Kellys is a girl who behaves very rudely. She can only use "fist" to speak and ridicule others for their low strength. She is a fan of Hercules. Although she always says she is not，in fact her admiration for Hercules has reached the point of obsession. She had heard about Hercules' heroic deeds since she was a child，especially Hercules' feats when he was still a human，and she was deeply attracted to Hercules. She has always dreamed of one day becoming Hercules' partner，fighting with Hercules，and conquering the world together. Kelis，who had no interest in studying at all，learned that Hercules was the tutor of the academy，so her attendance rate was 100% like that of Duff，who was not absent at all. However，Kelis was not able to join Hercules' training team as she wished. She had to secretly observe the training of Bisky and others every day，but she was discovered by Bisky and Areka every time.
+
+After graduation，he would return to the academy to duel with Hercules every day，hoping that Hercules would recognize his strength. Unfortunately，Hercules was busy with official duties，so he declined Kelis's invitation. Kelis thought that Hercules felt that she was not strong enough so she did not duel with her，so she went to the underground fighting field of Thebes Federation to train herself，thinking that she would challenge Hercules after becoming the king. ",,,,
+1304_HeroStory,"Ahippus，formerly known as Asclepius，is Apollo's close maid. She has a first-class appearance and figure. She is one of Zeus's maids. Her masochistic tendency indirectly awakens the attributes of Zeus S. Apollo You can only turn a blind eye to the secret "playing" between the two. However，one time Zeus's training was accidentally discovered by the queen Hera. Hera was furious and demanded that the maid be killed on the spot. Zeus had no choice but to kill Asclepius with thunder and fire. However，Zeus couldn't win over this maid，so he went to Underworld to beg Hades to resurrect Asclepius. Zeus had no choice but to accept Hades's harsh conditions. In the end，the two worked together to resurrect her and renamed her Ahippus. ，to avoid Hera's sight.
+
+After the Battle of Typhon，he discovered something strange about "Zeus" and discussed with the God of War Ares. Finally，he moved away from Olympus and followed Ares to the central part of the continent to establish the Federation of Thebes. This move made many gods feel very wrong. ",," Alhippis，whose original name is Asclepius，is Apollo's close maid. She has a first-class appearance and figure. She is one of Zeus's maids. Her masochistic tendencies indirectly awaken the attributes of Zeus S. ，Apollo could only turn a blind eye to the two people's secret "playing". However，one time Zeus's training was accidentally discovered by the queen Hera. Hera was furious and demanded that the maid be killed on the spot. Zeus had no choice but to kill Asclepius with thunder and fire. However，Zeus couldn't win over this maid，so he went to Underworld to beg Hades to resurrect Asclepius. Zeus had no choice but to accept Hades's harsh conditions. In the end，the two worked together to resurrect her and renamed her Asclepius. Hippis，to avoid the sight of Hera.
+
+After the Battle of Typhon，he discovered something strange about "Zeus" and discussed with Ares，the God of War. Finally，he moved away from Olympus and followed Ares to the middle of the continent to establish the Federation of Thebes. This move made many gods feel very wrong. ",,,,
+1305_HeroStory,"Lu Ge has animal ears and an animal tail just like the bell of Lynx. Legend has it that the gods with these characteristics are destined to be the heirs of the constellations related to "animals"，and Lu Ge lives up to expectations and becomes the new successor. Canis Minor. Although she looks like a very cute and lively girl on the outside，she is actually a zodiac sign who absolutely obeys orders. She is always able to respond quickly to the requests of her superiors and execute them perfectly. She is quite trusted by Ares and Ahippus. The presence. Lu Ge likes to stay in the city of Thebes because there are many stray dogs in the city. Most of these puppies were left behind because their owners moved. Lu Ge always brings some food to the puppies.
+
+Lu Ge likes to collect various puppy toys and decorations，which she carries with her and become her talismans. After the mission is completed，she will return to her residence，hold the puppies，and spend a pleasant night in a warm atmosphere. ",,"Lu Ge has animal ears and an animal tail just like Bell of Lynx. Legend has it that gods and people with these characteristics are destined to become the heirs of constellations related to "animals"，and Lu Ge lives up to expectations and becomes the new The puppy of Ren. Although she looks like a very cute and lively girl on the outside，she is actually a zodiac sign that absolutely obeys orders. She is always able to respond quickly to the requests of her superiors and execute them perfectly. She is the perfect match between Ares and Ashippi. A very trustworthy person. Lu Ge likes to stay in the city of Thebes because there are many stray dogs in the city. Most of these puppies were left behind because their owners moved. Lu Ge always brings some food to the puppies.
+
+Lu Ge likes to collect various puppy toys and decorations，which she carries with her and become her talismans. After the mission is completed，she will return to her residence，hold the puppies，and spend a pleasant night in a warm atmosphere. ",,,,
+1401_HeroStory,"Perseus is a serious person and a pragmatist. When performing tasks，she is always able to stay calm，make decisions quickly，and execute tasks perfectly. During her college years，she was a student council member with Anrumeda and Mamsha Of the members，Perseus is the president，Anrumeda is the vice president，and Mamsha is the secretary.
+
+Each generation of Perseus is also good at using swords，and Perseus is also very skilled in the use of various knives. In her hands，the knife is like a part of her body. She will care if her knife is touched or damaged by others. At the same time，I have a great interest in all kinds of knives. She enjoys studying the structure and use of various knives and often takes out her collection to study them in her free time.
+
+Perseus cherishes the sword named "Howl" and has been inseparable from it since her days in the academy. She was rarely seen talking to "Howl" while talking to herself and tenderly stroking the sword's spine. But according to Anrumeda's "explanation": It's just a daily check for Hal，don't think too much~",,"Perseus is a serious person and a pragmatist. When performing tasks，she is always able to remain calm，make quick decisions，and execute tasks flawlessly. During the academy，Anrumeda and Mamutha were members of the student union，Perseus was the president，Anrumeda was the vice-president，and Mamutha was the secretary.
+
+Each generation of Perseus is also good at using swords，and Perseus is also very skilled in the use of various knives. In her hands，the knife is like a part of her body. She will care if her knife is touched or damaged by others. At the same time，I have a great interest in all kinds of knives. She enjoys studying the structure and use of various knives and often takes out her collection to study them in her free time.
+
+Perseus cherishes the sword named "Howl" and has been inseparable from it since her days in the academy. She was rarely seen talking to "Howl" while talking to herself and tenderly stroking the sword's spine. But according to Anrumida's "explanation": It's just a daily checkup for Hal，don't think too much about it~",,,,
+1402_HeroStory,"Hypnos，the god of sleep，lives in the Underworld where sunlight never reaches. His daily task is to go to the human world to induce humans to fall asleep in order to relieve the stress and pain of life. However，he will sleep in various strange places Even when doing tasks，many people would fall asleep，so many people wrote on the Internet，"I woke up and found a beautiful woman sleeping next to my bed." However，her fighting power is very powerful，and she will become very ferocious once awakened，so even Hades and Persephone dare not wake her up.
+
+In addition to inducing humans to sleep，Hypnos also grants eternal sleep to dying people and then brings their souls back to the Underworld. However，due to the fact that he "sleeps wherever he goes," Underworld often cannot wait for the souls that need to be judged. Hades had no choice but to ask Hypnos's mother，the goddess of the night，Nyx，to perform the 72 judgment on his daughter's behalf. Hours of training without sleep. ",,"Hypnos，the God of Sleep，lives in the Underworld where sunlight never reaches. His daily mission is to go to the human world to induce humans to fall asleep in order to relieve the stress and pain of life. However，He will fall asleep in all kinds of strange places，and even fall asleep during missions. Therefore，many humans wrote on the Internet，"I woke up and found a beautiful woman sleeping next to my bed." However，her fighting power is very powerful，and she will become very ferocious once awakened，so even Hades and Persephone dare not wake her up.
+
+In addition to inducing humans to sleep，Hypnos also grants eternal sleep to dying people and then brings their souls back to the Underworld. However，due to the fact that he "sleeps wherever he goes," Underworld often cannot wait for the souls that need to be judged. Hades had no choice but to ask Hypnos's mother，the goddess of the night，Nyx，to perform the 72 judgment on his daughter's behalf. Hours of training without sleep. ",,,,
+1403_HeroStory,"Persephone is the daughter of Demeter，the mother goddess of the earth. Different from the amiable Demeter，she is rebellious by nature and does not like everything her mother has arranged for her，so she ran away from home and came to the barren Underworld，which Demeter hates most. She is always with her mother. Persephone，who was against him，took a ride with Hades and became the Queen of the Underworld. No matter how much Demeter begged Persephone，she decided not to return to land.
+
+Persephone is arrogant，irreverent，and has a cold tone. She has a disdain for other gods except Hades，the king of Hades. Originally，Underworld was a deserted land. Under the reforms advocated by Persephone，Underworld has now become a city that never sleeps. The main city "Bliss" is full of entertainment facilities that the Queen of the Underworld likes，including bars，casinos and nightclubs. ",,"Persephone is the daughter of the Earth Mother Goddess Demeter. Unlike the amiable Demeter，she is rebellious by nature and does not like everything her mother has arranged for her，so she runs away from home and comes to the Underworld where Demeter hates most，the barren Underworld. Persephone，who was always at odds with her mother，hooked up with Hades and became the Queen of the Underworld. No matter how much Demeter begged Persephone，she decided not to return to land.
+
+Persephone is arrogant，irreverent，and has a cold tone. She has a disdain for other gods except Hades，the king of Hades. Originally，Underworld was a deserted land. Under the reforms advocated by Persephone，Underworld has now become a city that never sleeps. The main city "Bliss" is full of entertainment facilities that the Queen of the Underworld likes，including bars，casinos and nightclubs. ",,,,
+1404_HeroStory,"Jenna used to play with nymphs by the tide when she was a child，and learned singing from Muse，so she was very good at singing. After winning the championship in the singing competition in the college，Jenna had the dream of becoming a singer. She heard about Underworld There might be a way to realize this dream in the "Bliss" of the city that never sleeps，so after graduation，I came to Underworld alone.
+
+Jenna performed on the streets with her cheerful and positive attitude. Her singing and dancing could bring infinite joy and excitement to the people of the gods. She soon became people's darling and gained the opportunity to debut as a new idol and be on the big stage. Opportunities on stage. As a new idol，Jenna cherishes every fan and often interacts with them to share her music and life，letting people feel her sincerity and passion for the stage and music. ",,"Jenna often played with nymphs by the tide when she was a child，and learned singing from Muse，so she was very good at singing. After winning the championship in the singing competition in the college，Jenna had the dream of becoming a singer. She heard that There might be a way to realize this dream in the "Bliss" of Underworld's sleepless city，so after graduation，he came to Underworld alone.
+
+Jenna performed on the streets with her cheerful and positive attitude. Her singing and dancing could bring infinite joy and excitement to the people of the gods. She soon became people's darling and gained the opportunity to debut as a new idol and be on the big stage. Opportunities on stage. As a new idol，Jenna cherishes every fan and often interacts with them to share her music and life，letting people feel her sincerity and passion for the stage and music. ",,,,
+1405_HeroStory,"Anrumeda is a kind and pure girl. Due to her simplicity and ignorance，she is often stumped by simple things. But her natural personality and sweet appearance make people around her like her very much. Because she is very close to Perseus. Well，after graduation，he followed Perseus to settle in Underworld，and the two became friends living together.
+
+Anrumeda is very considerate. Whenever Perseus returns from a mission，she will make him a cup of hot tea. She is often called "an almost perfect new wife" by Perseus. The reason why she is not a "perfect wife" is because of Anrumeda's hellish cooking skills. Although she is proficient in housework and even sex，the dishes she makes will make you die immediately after just one bite. To this day，Anrumeda feels that her unique taste and recipes are completely fine. Jenna once suggested that Anrumeda go to the human world to publish a book and teach humans the "Hell Dark Cuisine Recipe"，but was finally stopped by Hypnos and Persephone to avoid tragedy. ",,"Anrumida is a kind and pure girl. Due to her simplicity and ignorance，she is often stumped by simple things. But her natural personality and sweet appearance make people around her like her very much. Because he was very close to Perseus，he followed Perseus to settle in Underworld after graduation，and the two became friends living together.
+
+Anrumeda is very considerate. Whenever Perseus returns from a mission，she will make him a cup of hot tea. She is often called "almost a perfect new wife" by Perseus. The reason why she is not a "perfect wife" is because of Anrumida's hellish cooking skills. Although she is proficient in housework and even sex，the dishes she makes will make you die immediately after just one bite. To this day，Anrumida feels that her unique taste and recipes are completely fine. Jenna once suggested that Anrumeda go to the human world and publish a book to teach humans the "Hell Dark Cuisine Recipe"，but was finally stopped by Hypnos and Persephone to avoid tragedy. ",,,,
+1406_HeroStory,"Mamsha is a clear-minded constellation who is often called "Underworld's humanoid database". She has a quick mind and is always able to quickly solve problems encountered in tasks. She is serious and calm in dealing with things. She believes that knowledge is everything. She is very eager to learn and believes that she should plan ahead before doing anything. She met Bisky and Areka in the academy. She is the intellectual and calm person in the trio. Together with Areka，she takes care of the clumsy Bisky and helps her find the child of prophecy. However，when she collects information about the child of prophecy，the other two resolutely Leaving the team and heading to Old Olympus Mountain alone，Mamsha had to catch up later.
+
+Unlike her calm appearance，she appears to be very perverted when it comes to sex. Mamsha longs to be able to explore the full range of sexual possibilities in practice，even including some unconventional behaviors and preferences. She often studies sex skills silently by herself，hoping that one day she can find a like-minded partner with whom she can explore the mysteries of sex and practice the 48 sex moves. ",,"Mamsa is a constellation with a clear mind and is often called "Underworld's humanoid database". She has a quick mind and is always able to quickly solve problems encountered in tasks. She is serious and calm in dealing with things. She believes that knowledge is everything. She is very eager to learn and believes that she should plan ahead before doing anything. She met Bisky and Areka in the academy. She is the intellectual and calm person in the trio. Together with Areka，she takes care of the clumsy Bisky and helps her find the child of prophecy. However，when she collects information about the child of prophecy，the other two resolutely Leaving the team and heading to Old Olympus alone，Mamutha had to catch up later.
+
+Unlike her calm appearance，she appears to be very perverted when it comes to sex. Mamsha longed to be able to practice exploring the full range of sexual possibilities，even some unconventional behaviors and preferences. She often studies sex skills silently by herself，hoping that one day she can find a like-minded partner with whom she can explore the mysteries of sex and practice the 48 sex moves. ",,,,
+,,,,,,,
+#MonsterGodStory,,,,,,,
+2001_MonsterGodStory,"The "Monster God" is the strongest monster with the power to destroy the divine world. Even gods cannot fight against it alone. During the first divine war，when Zeus and his father Gronus were fighting for the throne of god，the Titans worked together to capture and transform the most powerful weapon - the "Beast God". The Titans also invented specific restrainers to control their weapons. action. However，Zeus successfully defeated the Titans by liberating the giants imprisoned in hell and obtaining the artifacts they built. These "beast gods" were also forced into a state of sleep because they lost their controllers. The Olympus protoss headed by Zeus had experienced the power of the "Beast God" in the war，and believed that such a destructive weapon was no longer needed when entering a peaceful divine world. Finally，it was decided that Zeus would seal them and let them continue to sleep to avoid falling again. into the hands of a malicious god. According to war records，the Titan Protoss created a total of 13 "Beast Gods"，which are now scattered throughout the God Realm.
+
+The Sphinx is a female monster with huge wings and an arrogant nature. She believes that she has unparalleled wisdom and power. Although she disdains dealing with stupid people，she prefers to guess riddles with the gods. will be killed by her.
+In order to "play" with the gods，she would randomly fly to their small village and sit at the door of the village，blocking the gods passing by or entering and leaving the village. Therefore，the gods also begged the Sphinx not to appear in front of them every day. .
+
+During the War in the God Realm，the people of the gods all moved away from the village to avoid the war. The Sphinx was angry because she could not find a "playmate". She was so arrogant that she actually went to the Titans to protest，and was later killed by the Titans. They worked together to capture and transform him，becoming the number one "Beast God" in the war. Sphinx felt extremely ashamed of this and still holds a grudge. ",,""Beast God" is the strongest monster with the power to destroy the divine world. Even gods cannot fight against it alone. During the first divine war，when Zeus and his father Gronus were fighting for the throne of god，the Titans worked together to capture and transform the most powerful weapon - the "Beast God". The Titans also invented specific restrainers to control their weapons. action. However，Zeus successfully defeated the Titans by liberating the giants imprisoned in hell and obtaining the artifacts they built. These "beast gods" were also forced into a state of sleep because they lost their controllers. The Olympus protoss headed by Zeus had experienced the power of the "Beast God" in the war，and believed that such destructive weapons were no longer needed in the peaceful divine world. They finally decided to let Zeus seal them and let them continue to sleep. To avoid falling into the hands of a malicious god again. According to war records，the Titan Protoss created a total of 13 "Beast Gods"，which are now scattered throughout the God Realm.
+
+The Sphinx is a female monster with huge wings and an arrogant nature. She believes that she has unparalleled wisdom and power. Although she disdains dealing with stupid people，she prefers to guess riddles with the gods. will be killed by her.
+In order to "play" with the gods，she would randomly fly to their small village and sit at the door of the village，blocking the gods passing by or entering and leaving the village. Therefore，the gods also begged the Sphinx not to appear in front of them every day. .
+
+During the War in the God Realm，the people of the gods all moved away from the village to avoid the war. The Sphinx was angry because she could not find a "playmate". She was so arrogant that she actually went to the Titans to protest，and was later killed by the Titans. They worked together to capture and transform him，becoming the number one "Beast God" in the war. Sphinx felt extremely ashamed of this and still holds a grudge. ",,,,
+2002_MonsterGodStory,"Although the name comes from the mythical Hydra，she is not as cruel as the legend. The only ferocious thing is the two sea snakes behind her instead of her. Hydra is easy-going and gentle by nature，and she likes to interact with gods. The "monsters" that people get along with live in the caves near the Ocean Fortress in the eastern part of the continent.
+
+During the war，Hydera received many refugees from the gods and placed them in their caves to avoid the war. However，one day，the Titans suddenly appeared in front of the cave，threatening Hydra with the lives of the people of the gods，asking her to follow them away and become a new generation of war machines. For the sake of the overall situation，Hydra immediately agreed without thinking，and finally She was transformed into Beast God No. 2，but she didn't know it at the time. What was waiting for her next was to use a brand-new mechanical body to attack the gods and people she loved.
+
+After the war，the beast god Hydra fell asleep beneath the newly built Thebes Federation. ",,"Although the name comes from the mythical Hydra，she is not as cruel as the legend. The only ferocious thing is the two sea snakes behind her，not her. Hydra has an easy-going and gentle nature. It is a "monster" that particularly likes to get along with the people of the gods. It lives in the eastern part of the continent，in a cave near the Ocean Fortress.
+
+During the war，Hydera received many refugees from the gods and placed them in their caves to avoid the war. However，one day，the Titans suddenly appeared in front of the cave，threatening Hydra with the lives of the people of the gods，asking her to follow them away and become a new generation of war machines. For the sake of the overall situation，Hydra immediately agreed without thinking，and finally She was transformed into Beast God No. 2，but she didn't know it at the time. What was waiting for her next was to use a brand-new mechanical body to attack the gods and people she loved.
+
+After the war，the beast god Hydra fell asleep beneath the newly built Thebes Federation. ",,,,
+2003_MonsterGodStory,"Jormungandr appears to be a mature sister at first glance，but in fact she is a shy and cowardly monster. She is timid and afraid of communicating with others and afraid of being hurt，so she always hides in her lair. ，lives alone in the cave in front of the entrance to Underworld. Due to staying in the lair for a long time without seeing the sun，his skin is relatively fair.
+
+It is the complete opposite of Hydra's personality. Although she longs to get close to Ocean，there are often groups of divine beings who come to play with Hydra on the seaside in the eastern part of the continent，so Jormungandr will not take the initiative to approach.
+
+Jormungandr，who had been staying in the cave，didn't even know that the war of the gods had begun. Jormungandr，who was forcibly taken away by the Titans，was transformed into Beast God No. 3，and she was as timid as a rabbit. Jörmungandr's character makes it easy for him to be controlled by the Titans and destroy them everywhere. After the war，he got his wish and slept on the site of the original Ocean Fortress. ",,"Jormungandr appears to be a mature sister at first glance，but in fact she is a shy and cowardly monster. She is timid and afraid of communicating with others and afraid of being hurt，so she always hides in her own room. Nest，he lives alone in the cave in front of the entrance to Underworld. Due to his long stay in the nest without seeing the sun，his skin is relatively fair.
+
+It is the complete opposite of Hydra's personality. Although she longs to get close to Ocean，there are often groups of divine beings who come to play with Hydra on the seaside in the eastern part of the continent，so Jormungandr will not take the initiative to approach.
+
+Jormungandr，who had been staying in the cave，didn't even know that the war of the gods had begun. Jormungandr，who was forcibly taken away by the Titans，was transformed into Beast God No. 3，and she was as timid as a rabbit. Jörmungandr's character makes it easy for him to be controlled by the Titans and destroy them everywhere. After the war，he got his wish and slept on the site of the original Ocean Fortress. ",,,,
+2004_MonsterGodStory,"Different from the clumsy image in the legend，she is actually an extremely serious existence. She shows extremely high loyalty to her chosen master and will only consider finding a new home after the master passes away. However，due to She has never found an ideal lifelong master. She has experienced abuse by the Titans in the past，so she has multiple personality traits.
+
+Cerberus has three different personalities: sometimes serious，sometimes introverted，and sometimes crazy. When she is serious，she never wastes time and analyzes the battle situation calmly and methodically. When she was introverted，her speech was slurred and she was easily shy. This shyness made it difficult to communicate with her. When she is crazy，she will show various hysterical behaviors，shouting，going out of tune，and having extreme emotions. This change is elusive.
+
+Cerberus had no control over which personality he used to express himself. This makes her sometimes slap herself，and outsiders often misunderstand that she has masochistic tendencies. Despite this，she has one super hobby - music. As soon as she hears beautiful music，she will fall asleep involuntarily.
+
+Her origin story begins with a mysterious harp sound that caused her to fall asleep and wake up as a being known as the "Beast God". For this reason，she kept looking for the prisoner who played the harp，trying to find the mysterious figure who reformed her. ",,"Different from the clumsy image in legend，he is actually an extremely serious existence. She is extremely loyal to her chosen master and will only consider finding a new home after his death. However，she has multiple personalities due to the abuse she experienced at the hands of the Titans in the past，as she has never found an ideal lifelong master.
+
+Cerberus has three different personalities: sometimes serious，sometimes introverted，and sometimes crazy. When she is serious，she never wastes time and analyzes the battle situation calmly and methodically. When she was introverted，her speech was slurred and she was easily shy. This shyness made it difficult to communicate with her. When she is crazy，she will show various hysterical behaviors，shouting，going out of tune，and having extreme emotions. This change is elusive.
+
+Cerberus had no control over which personality he used to express himself. This makes her sometimes slap herself，and outsiders often misunderstand that she has masochistic tendencies. Despite this，she has one super hobby - music. As soon as she hears beautiful music，she will fall asleep involuntarily.
+
+Her origin story begins with a mysterious harp sound that caused her to fall asleep and wake up as a being known as the "Beast God". For this reason，she kept looking for the prisoner who played the harp，trying to find the mysterious figure who reformed her. ",,,,
+,,,,,,,
+,,,,,,,

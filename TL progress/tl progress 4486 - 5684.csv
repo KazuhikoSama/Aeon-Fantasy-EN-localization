@@ -1,0 +1,1199 @@
+#CampaignTowerAfkPopup,,,,,,,
+CampaignTowerAfkPopupRewardAmount,{0}/5分,,{0}/5分,,,,
+CampaignTowerAfkPopupReward,挂网收益,,掛網收益,,,,
+CampaignTowerAfkPopupTips,挂网时间达5分钟或以上才能领取收益,,掛網時間達5分鐘或以上才能領取收益,,,,
+CampaignTowerAfkPopupClaimButton,领取,,領取,,,,
+,,,,,,,
+#CampaignTowerBattleCondition,,,,,,,
+CampaignTowerTeamConditionTitle,条件,,條件,,,,
+CampaignTowerTeamConditionHeroLimit,战斗人数{0}/{1}人,,戰鬥人數{0}/{1}人,,,,
+CampaignTowerWinConditionDefeatAll,击倒全部敌人,,擊倒全部敵人,,,,
+CampaignTowerWinConditionHPRemain,总生命值不少于 {0}%,,總生命值不少於 {0}%,,,,
+CampaignTowerWinConditionPassWithinRound,{0}回合内击倒所有敌人,,{0}回合內擊倒所有敵人,,,,
+CampaignTowerWinConditionDeathCountBelow,我方倒下星神少于 {0},,我方倒下星神少於 {0},,,,
+CampaignTowerWinConditionAllServive,我方全部星神生存,,我方全部星神生存,,,,
+CampaignTowerWinConditionNotMeet,未达成上阵条件 (点击英雄可以调整战斗人数),,未達成上陣條件 (點擊英雄可以調整戰鬥人數),,,,
+,,,,,,,
+CampaignTowerTeamMemberConditionWarning,未达成上阵人数,,未達成上陣人數,,,,
+,,,,,,,
+#BattleResultWinCondition,,,,,,,
+BattleResultWinConditionWin,<#2E375D>胜利条件 : </color>,,<#2E375D>勝利條件 : </color>,,,,
+BattleResultWinConditionWinDefeatAll,<#1166CC>击倒全部敌人</color>,,<#1166CC>擊倒全部敵人</color>,,,,
+BattleResultWinConditionWinHPRemain,<#1166CC>总生命值不少于 {0}%</color>,,<#1166CC>總生命值不少於 {0}%</color>,,,,
+BattleResultWinConditionWinPassWithinRound,<#1166CC>{0}回合内击倒所有敌人</color>,,<#1166CC>{0}回合內擊倒所有敵人</color>,,,,
+BattleResultWinConditionWinDeathCountBelow,<#1166CC>我方倒下星神少于 {0}</color>,,<#1166CC>我方倒下星神少於 {0}</color>,,,,
+BattleResultWinConditionWinAllServive,<#1166CC>我方全部星神生存</color>,,<#1166CC>我方全部星神生存</color>,,,,
+BattleResultWinConditionLose,通关条件 :,,通關條件 : ,,,,
+BattleResultWinConditionLoseDefeatAll,<#66DDDD>击倒全部敌人</color>,,<#66DDDD>擊倒全部敵人</color>,,,,
+BattleResultWinConditionLoseHPRemain,<#66DDDD>总生命值不少于 {0}%</color>,,<#66DDDD>總生命值不少於 {0}%</color>,,,,
+BattleResultWinConditionLosePassWithinRound,<#66DDDD>{0}回合内击倒所有敌人</color>,,<#66DDDD>{0}回合內擊倒所有敵人</color>,,,,
+BattleResultWinConditionLoseDeathCountBelow,<#66DDDD>我方倒下星神少于 {0}</color>,,<#66DDDD>我方倒下星神少於 {0}</color>,,,,
+BattleResultWinConditionLoseAllServive,<#66DDDD>我方全部星神生存</color>,,<#66DDDD>我方全部星神生存</color>,,,,
+BattleResultWinConditionLoseTips,(遗憾战败，请再接再厉),,(遺憾戰敗，請再接再厲),,,,
+BattleResultWinConditionLoseDef Win,<#66DDDD>击倒全部敌人</color>,,<#66DDDD>擊倒全部敵人</color>,,,,
+,,,,,,,
+#GuildMainPage,,,,,,,
+GuildMainPageTitle,公会,,公會,,,,
+GuildMainPageWarBtn,争霸,,爭霸,,,,
+GuildMainPageBossBtn,维修中,,敬請期待,,,,
+GuildMainPageStoreBtn,商店,,商店,,,,
+GuildMainPageHallBtn,大楼,,大樓,,,,
+GuildMainPageEventBtn,活動,,活動,,,,
+GuildMainPageEventBtn_NoEvent,敬请期待,,維修中,,,,
+GuildMainPageTalismanBtn,敬请期待,,敬請期待,,,,
+GuildMainPageBlessingBtn,祭祀,,祭祀,,,,
+GuildTalismanNotOpenYetAlert,敬请期待,,敬請期待,,,,
+GuildBossNotOpenYetAlert,敬请期待,,敬請期待,,,,
+GuildShopRequireHallLevelAlert,大楼升至2级后解锁,,大樓升至2級後解鎖,,,,
+GuildMainPageHelpPopupContent,"公会说明
+1. 公会成员: 副会长最多可设2位。公会Grade越高，精英人数越多。
+2. 公会升级: 会长和副会长可以消耗公会资金，升级公会的大楼和建筑。
+3. 公会权限: 会长和副会长有权限管理整个公会的建设，精英和成员无法参与管理。
+
+公会管理
+1. 公会创建者为公会的第一任会长。
+2. 会长可以任命副会长，最多可任命2位副会长。
+3. 会长拥有公会管理的最高许可权，副会长辅助管理公会，拥有审批，踢人，建筑升级等许可权。
+4. 成员退出公会后，当日将无法再加入公会，直至下一日05:00。
+
+公会祭祀
+1. 参与祭祀后，可以获得大量公会币和公会资金，公会资金Use it on a hero with 公会建筑升级。
+2. 祭祀后，会增加祭祀值。当祭祀值达到指定数值，可领取祭祀奖励。 (公会全员共享祭祀值)
+3. 公会币Use it on a hero with 公会商店中购买资源。",,"公會說明
+1. 公會成員: 副會長最多可設2位。公會等級越高，精英人數越多。
+2. 公會升級: 會長和副會長可以消耗公會資金，升級公會的大樓和建築。
+3. 公會權限: 會長和副會長有權限管理整個公會的建設，精英和成員無法參與管理。
+
+公會管理
+1. 公會創建者為公會的第一任會長。
+2. 會長可以任命副會長，最多可任命2位副會長。
+3. 會長擁有公會管理的最高許可權，副會長輔助管理公會，擁有審批，踢人，建築升級等許可權。
+4. 成員退出公會後，當日將無法再加入公會，直至下一日05:00。
+
+公會祭祀
+1. 參與祭祀後，可以獲得大量公會幣和公會資金，公會資金可用於公會建築升級。
+2. 祭祀後，會增加祭祀值。當祭祀值達到指定數值，可領取祭祀獎勵。(公會全員共享祭祀值)
+3. 公會幣可用於公會商店中購買資源。",,,,
+,,,,,,,
+,,,,,,,
+#GuildHallTabBarPage,,,,,,,
+GuildHallTabBarPageTitle,大楼,,大樓,,,,
+GuildHall_Tab_News,讯息,,訊息,,,,
+GuildHall_Tab_ActivePoint,活跃,,活躍,,,,
+GuildHall_Tab_RedPocket,补给,,補給,,,,
+GuildHall_Tab_Building,建筑,,建築,,,,
+GuildHall_Tab_ActiveLog,动态,,動態,,,,
+,,,,,,,
+#GuildHallNewsPage,,,,,,,
+GuildHallNewsAnnouncementTitle,公会公告,,公會公告,,,,
+GuildHallNewsTitlePlayer,玩家,,玩家,,,,
+GuildHallNewsTitleRank,Grade,,等級,,,,
+GuildHallNewsTitlePower,战力,,戰力,,,,
+GuildHallNewsTitleActive,日/周活跃,,日/週活躍,,,,
+GuildHallNewsTitleOnlineState,状态,,狀態,,,,
+GuildHallNewsTitleRole,职务,,職務,,,,
+GuildMasterNameLabel,会长 :,,會長 :,,,,
+GuildRankLabel,Grade :,,等級 :,,,,
+GuildMemberCountLabel,成员 :,,成員 :,,,,
+GuildPowerLabel,战力 :,,戰力 :,,,,
+GuildFundsLabel,资金 :,,資金 :,,,,
+GuildAnnouncementLabal,公会公告：,,公會公告：,,,,
+GuildLinkLabel,连结,,連結,,,,
+GuildRequirementLabel,加入公会要求,,加入公會要求,,,,
+GuildHallNewsManage,管理,,管理,,,,
+GuildHallNewsGuildList,其他公会,,其他公會,,,,
+GuildMemberManageTitle,成员管理,,成員管理,,,,
+GuildMemberManageAssignPresident,任命会长,,任命會長,,,,
+GuildMemberManageAssignVice,任命副会长,,任命副會長,,,,
+GuildMemberManageDemote,解除职务,,解除職務,,,,
+GuildMemberManageKick,请离公会,,請離公會,,,,
+GuildMemberManageKickSelf,离开公会,,離開公會,,,,
+GuildHallNewsMail,邮件,,郵件,,,,
+GuildHallNewsInvite,召募会员,,召募會員,,,,
+GuildHallNewsDisband,解散,,解散,,,,
+GuildQuit,退出,,退出,,,,
+GuildHallMemberListPopupTitle,会员列表,,會員列表,,,,
+GuildDetailPopupTitle,公会资讯,,公會資訊,,,,
+GuildHallGuildListPopupTitle,公会列表,,公會列表,,,,
+GuildHallGuildListPopupGuildName,公会,,公會,,,,
+GuildHallGuildListPopupGuildLevel,Grade,,等級,,,,
+GuildHallGuildListPopupMemberCount,人数,,人數,,,,
+GuildHallGuildListPopupPresident,会长,,會長,,,,
+GuildPositionType_PRESIDENT,会长,,會長,,,,
+GuildPositionType_VICE,副会长,,副會長,,,,
+GuildPositionType_BASIC,会员,,會員,,,,
+GuildPositionType_ELITE,精英,,精英,,,,
+GuildTriggerViceFailAlert,任名失败,,任名失敗,,,,
+GuildTriggerViceSuccessAlert,任名成功,,任名成功,,,,
+GuildDisbandSuccessAlert,已解散公会,,已解散公會,,,,
+GuildLeaveSuccessAlert,已离开公会,,已離開公會,,,,
+GuildKickSuccessAlert,已踢出公会,,已踢出公會,,,,
+GuildRenameSuccessAlert,已更改公会名称,,已更改公會名稱,,,,
+GuildApproveMemberSuccessAlert,已接受入会申请,,已接受入會申請,,,,
+GuildRejectMemberSuccessAlert,已拒绝入会申请,,已拒絕入會申請,,,,
+GuildDismissFailAlert,解除职务失败,,解除職務失敗,,,,
+GuildDismissSuccessAlert,解除职务成功,,解除職務成功,,,,
+GuildAssignViceReachedLimitAlert,副会长人数已达上限,,副會長人數已達上限,,,,
+GuildEditAnnouncementSuccessAlert,已更改公会公告,,已更改公會公告,,,,
+GuildHallNewsActiveHowToPlay,"周活跃说明
+1. 周活跃记录本周每日活跃总和。
+2. 每周活跃排名靠前的玩家，下周会自动成为精英。
+3. 精英可获得周活跃分红加成。
+
+周活跃获得途径
+1. 祭祀: 每次祭祀可获得1点活跃。
+2. 银河铁道: 参与可获得70点活跃。",,"週活躍説明
+1. 週活躍記錄本週每日活躍總和。
+2. 每週活躍排名靠前的玩家，下週會自動成為精英。
+3. 精英可獲得週活躍分紅加成。
+
+週活躍獲得途徑
+1. 祭祀: 每次祭祀可獲得1點活躍。
+2. 銀河鐵道: 參與可獲得70點活躍。
+
+",,,,
+,,,,,,,
+GuildChangeIconPopupTitle,更换公会头像,,更換公會頭像,,,,
+GuildChangeIconPopupInUse,使用中,,使用中,,,,
+GuildChangeIconSuccess,成功更换公会头像,,成功更換公會頭像,,,,
+GuildChangePresidentFailAlert,無法任名会长,,無法任名會長,,,,
+GuildChangePresidentSuccessAlert,成功任名会长,,成功任名會長,,,,
+,,,,,,,
+GuildEditAnnouncementPopupTitle,更改公告,,更改公告,,,,
+GuildPostRecruitmentPopupInputEmptyAlert,更改公会公告,,更改公會公告,,,,
+GuildEditAnnouncementPopupPlaceholder,请输入公告内容,,請輸入公告內容,,,,
+GuildEditAnnouncementSuccessAlert,更改公告成功,,更改公告成功,,,,
+,,,,,,,
+GuildLeaveConfirmPopupTitle,退出公会,,退出公會,,,,
+GuildLeaveConfirmPopupContent,是否退出本公会？退出公会后<color=#EE5555>24小时</color>内，不能再加入公会！ <color=#EE5555>（退出公会后，已参与的公会活动会取消，需重新报名）</color>,,是否退出本公會？退出公會後<color=#EE5555>24小時</color>內，不能再加入公會！<color=#EE5555>（退出公會後，已參與的公會活動會取消，需重新報名）</color>,,,,
+GuildKickConfirmPopupTitle,请离公会,,請離公會,,,,
+GuildKickConfirmPopupContent,确认请离会员{0}？,,確認請離會員{0}？,,,,
+,,,,,,,
+,,,,,,,
+#GuildHallMemberDynamicPage,,,,,,,
+GuildHallMemberDynamicPage_Title,公会动态,,公會動態,,,,
+GuildHallMemberDynamicPage_GUILD_CREATE,<color=#1166CC>{0}</color>成为了会长,,<color=#1166CC>{0}</color>成為了會長,,,,
+GuildHallMemberDynamicPage_GUILD_VICE,<color=#1166CC>{0}</color>成为了副会长,,<color=#1166CC>{0}</color>成為了副會長,,,,
+GuildHallMemberDynamicPage_GUILD_JOIN,<color=#1166CC>{0}</color>加入了公会,,<color=#1166CC>{0}</color>加入了公會,,,,
+GuildHallMemberDynamicPage_GUILD_QUIT,<color=#1166CC>{0}</color>离开了公会,,<color=#1166CC>{0}</color>離開了公會,,,,
+GuildHallMemberDynamicPage_GUILD_CHANGE_POST,<color=#1166CC>{0}</color>成为了精英,,<color=#1166CC>{0}</color>成為了精英,,,,
+GuildHallMemberDynamicPage_GUILD_LV_UP,<color=#1166CC>{0}</color>升级到Grade<color=#1166CC>{1}</color>,,<color=#1166CC>{0}</color>升級到等級<color=#1166CC>{1}</color>,,,,
+,,,,,,,
+,,,,,,,
+#GuildHallRedPocketPage,,,,,,,
+GuildHallRedPocketPageMyRedPocketTitle,我的补给,,我的補給,,,,
+GuildHallRedPocketPageCanGrabTitle,可抢补给:,,可搶補給:,,,,
+GuildHallRedPocketPageTodayHarvestTitle,今日获得宝石:,,今日獲得寶石:,,,,
+GuildHallRedPocketPageTips,发放补给不消耗自身宝石,,發放補給不消耗自身寶石,,,,
+GuildHallRedPocketPageHowToPlay,"- 公会成员达到指定条件后，可以获得一个定额的公会补给。
+- 获得补给后，最多可以储存15天，上限30个。
+- 每个补给的金额和派发个数固定。
+- 补给发放后，所有公会成员都可以领取补给。
+- 玩家领取补给时获得的金额为随机。",,"- 公會成員達到指定條件後，可以獲得一個定額的公會補給。
+- 獲得補給後，最多可以儲存15天，上限30個。
+- 每個補給的金額和派發個數固定。
+- 補給發放後，所有公會成員都可以領取補給。
+- 玩家領取補給時獲得的金額為隨機。",,,,
+GuildHallRedPocketCellClaim,抢夺,,搶奪,,,,
+GuildHallRedPocketCellPreparing,准备中,,準備中,,,,
+GuildHallRedPocketCellClaimed,查看,,查看,,,,
+GuildHallRedPocketPageMyRedPocketEmpty,当前暂无补给,,當前暫無補給,,,,
+GuildHallRedPocketPageGuildRedPocketEmpty,当前暂无补给,,當前暫無補給,,,,
+GuildHallRedPocketPageReachedLimitAlert,到达每日可抢补给上限,,到達每日可搶補給上限,,,,
+,,,,,,,
+#GuildHallRedPocketSendPopup,,,,,,,
+GuildHallRedPocketSendPopupValueTitle,补给金额,,補給金額,,,,
+GuildHallRedPocketSendPopupAmountTitle,补给个数,,補給個數,,,,
+,,,,,,,
+#TEST Red Pocket Name,,,,,,,
+GuildRedPocketTitle_Test_Hero_Star_1,拥有1个5星星神,,擁有1個5星星神,,,,
+GuildRedPocketTitle_Test_Hero_Star_2,拥有2个5星星神,,擁有2個5星星神,,,,
+GuildRedPocketTitle_Test_Hero_Value_1,1个星神进阶到+2,,1個星神進階到+2,,,,
+GuildRedPocketTitle_Test_Hero_Value_2,1个星神进阶到+4,,1個星神進階到+4,,,,
+GuildRedPocketTitle_Test_Hero_Level_1,1个星神达10级,,1個星神達10級,,,,
+GuildRedPocketTitle_Test_Hero_Level_2,1个星神达20级,,1個星神達20級,,,,
+GuildRedPocketTitle_Test_Hero_Obtained_1,拥有6个星神,,擁有6個星神,,,,
+GuildRedPocketTitle_Test_Hero_Obtained_2,拥有12个星神,,擁有12個星神,,,,
+GuildRedPocketTitle_Test_Hero_Rarity_1,拥有2个R星神,,擁有2個R星神,,,,
+GuildRedPocketTitle_Test_Hero_Rarity_2,拥有2个SR星神,,擁有2個SR星神,,,,
+GuildRedPocketTitle_Test_Hero_Rarity_3,拥有2个SSR星神,,擁有2個SSR星神,,,,
+GuildRedPocketTitle_Test_Secretary_Level_1,拥有1个服从度10级使徒,,擁有1個服從度10級使徒,,,,
+GuildRedPocketTitle_Test_Secretary_Level_2,拥有1个服从度20级使徒,,擁有1個服從度20級使徒,,,,
+GuildRedPocketTitle_Test_Secretary_Relationship_1,拥有1个感情阶段2使徒,,擁有1個感情階段2使徒,,,,
+GuildRedPocketTitle_Test_Secretary_Relationship_2,拥有1个感情阶段3使徒,,擁有1個感情階段3使徒,,,,
+GuildRedPocketTitle_Test_Gear_Value_1,4件装备达超载+4,,4件裝備達超載+4,,,,
+GuildRedPocketTitle_Test_Gear_Value_2,4件装备达超载+8,,4件裝備達超載+8,,,,
+GuildRedPocketTitle_Test_Gear_Rarity_1,4件装备品质达R,,4件裝備品質達R,,,,
+GuildRedPocketTitle_Test_Gear_Rarity_2,4件装备品质达SR,,4件裝備品質達SR,,,,
+GuildRedPocketTitle_Test_Gear_Rarity_3,4件装备品质达SSR,,4件裝備品質達SSR,,,,
+GuildRedPocketTitle_Test_Gear_Upgrade_1,4件装备光刻达A级,,4件裝備光刻達A級,,,,
+GuildRedPocketTitle_Test_Gear_Upgrade_2,4件装备光刻达S级,,4件裝備光刻達S級,,,,
+GuildRedPocketTitle_Test_Soul_Wear_1,装备4个1星战魂,,裝備4個1星戰魂,,,,
+GuildRedPocketTitle_Test_Soul_Wear_2,装备4个2星战魂,,裝備4個2星戰魂,,,,
+GuildRedPocketTitle_Test_Soul_Wear_3,装备4个3星战魂,,裝備4個3星戰魂,,,,
+GuildRedPocketTitle_Test_MG_Talent_1,1个兽神达到强化1级,,1个兽神达到强化1级,,,,
+GuildRedPocketTitle_Test_MG_Talent_2,2个兽神达到强化1级,,2个兽神达到强化1级,,,,
+GuildRedPocketTitle_Test_MG_Talent_3,1个兽神达到强化2级,,1个兽神达到强化2级,,,,
+GuildRedPocketTitle_Test_MG_Talent_4,2个兽神达到强化2级,,2个兽神达到强化2级,,,,
+GuildRedPocketTitle_Test_Player_Title_1,头衔达到2,,頭銜達到2,,,,
+GuildRedPocketTitle_Test_Player_Title_2,头衔达到3,,頭銜達到3,,,,
+GuildRedPocketTitle_Test_MultiBoss_Complete_1,首次通关 组队讨伐第1层,,首次通關 組隊討伐第1層,,,,
+GuildRedPocketTitle_Test_MultiBoss_Complete_2,首次通关 组队讨伐第2层,,首次通關 組隊討伐第2層,,,,
+GuildRedPocketTitle_Test_MultiBoss_FirstTeam_1,本服首次通关 组队讨伐第1层,,本服首次通關 組隊討伐第1層,,,,
+GuildRedPocketTitle_Test_MultiBoss_FirstTeam_2,本服首次通关 组队讨伐第2层,,本服首次通關 組隊討伐第2層,,,,
+GuildRedPocketTitle_Test_Tower_1,黄天秘径通关第5层,,黃天秘徑通關第5層,,,,
+GuildRedPocketTitle_Test_Tower_2,黄天秘径通关第10层,,黃天秘徑通關第10層,,,,
+GuildRedPocketTitle_Test_Tower_3,黄天秘径通关第15层,,黃天秘徑通關第15層,,,,
+GuildRedPocketTitle_Test_Maze_Star_1,决战赤壁36星通关,,決戰赤壁36星通關,,,,
+GuildRedPocketTitle_Test_Guild_Acution_1,拍卖累计消费10000日冕石,,拍賣累計消費10000日冕石,,,,
+GuildRedPocketTitle_Test_MonthlyCard_1,购买普通月卡,,購買普通月卡,,,,
+GuildRedPocketTitle_Test_MonthlyCard_2,购买白金月卡,,購買白金月卡,,,,
+GuildRedPocketTitle_Test_BattlePass_1,购买秘径神谕,,購買秘徑神諭,,,,
+GuildRedPocketTitle_Test_BattlePass_2,购买主线神谕,,購買主線神諭,,,,
+GuildRedPocketTitle_Test_BattlePass_3,购买精英神谕,,購買精英神諭,,,,
+GuildRedPocketTitle_Test_Secretary_Vip_1,使徒心灵升至2级,,使徒心靈升至2級,,,,
+GuildRedPocketTitle_Test_Secretary_Vip_2,使徒心灵升至3级,,使徒心靈升至3級,,,,
+GuildRedPocketTitle_Test_Secretary_Vip_3,使徒心灵升至4级,,使徒心靈升至4級,,,,
+GuildRedPocketTitle_Test_GuildBoss_Complete_1,首次通关 公会试炼难度1,,首次通關 公會試煉難度1,,,,
+GuildRedPocketTitle_Test_GuildBoss_Complete_2,首次通关 公会试炼难度2,,首次通關 公會試煉難度2,,,,
+GuildRedPocketTitle_Test_GuildEvent_Boss_1,诸神回归．个人排名第1,,諸神回歸．個人排名第1,,,,
+GuildRedPocketTitle_Test_GuildEvent_Boss_2,诸神回归．公会排名第1,,諸神回歸．公會排名第1,,,,
+GuildRedPocketTitle_Test_Pvp_Rank_1,斗技场排名第1,,鬥技場排名第1,,,,
+,,,,,,,
+#Red Pocket Name,,,,,,,
+GuildRedPocketTitle_RedPocket_Hero_Star_1,首个星神5星,,首個星神5星,,,,
+GuildRedPocketTitle_RedPocket_Hero_Star_2,5个星神5星,,5個星神5星,,,,
+GuildRedPocketTitle_RedPocket_Hero_Star_3,10个星神5星,,10個星神5星,,,,
+GuildRedPocketTitle_RedPocket_Hero_Star_4,20个星神5星,,20個星神5星,,,,
+GuildRedPocketTitle_RedPocket_Hero_Star_5,30个星神5星,,30個星神5星,,,,
+GuildRedPocketTitle_RedPocket_Hero_Star_6,40个星神5星,,40個星神5星,,,,
+GuildRedPocketTitle_RedPocket_Hero_Level_1,6个星神60级,,6個星神60級,,,,
+GuildRedPocketTitle_RedPocket_Hero_Level_2,6个星神80级,,6個星神80級,,,,
+GuildRedPocketTitle_RedPocket_Hero_Obtained_1,拥有52个星神,,擁有52個星神,,,,
+GuildRedPocketTitle_RedPocket_Secretary_Level_1,使徒的忠诚度达30级,,使徒的忠誠度達30級,,,,
+GuildRedPocketTitle_RedPocket_Secretary_Level_2,使徒的忠诚度达50级,,使徒的忠誠度達50級,,,,
+GuildRedPocketTitle_RedPocket_Secretary_Level_3,使徒的忠诚度达75级,,使徒的忠誠度達75級,,,,
+GuildRedPocketTitle_RedPocket_Secretary_Level_4,使徒的忠诚度达100级,,使徒的忠誠度達100級,,,,
+GuildRedPocketTitle_RedPocket_Secretary_Level_5,使徒的忠诚度达125级,,使徒的忠誠度達125級,,,,
+GuildRedPocketTitle_RedPocket_Gear_Value_1,全装备超载+8,,全裝備超載+8,,,,
+GuildRedPocketTitle_RedPocket_Gear_Value_2,全装备超载+12,,全裝備超載+12,,,,
+GuildRedPocketTitle_RedPocket_Gear_Value_3,全装备超载+16,,全裝備超載+16,,,,
+GuildRedPocketTitle_RedPocket_Gear_Value_4,全装备超载+20,,全裝備超載+20,,,,
+GuildRedPocketTitle_RedPocket_Gear_Value_5,全装备超载+24,,全裝備超載+24,,,,
+GuildRedPocketTitle_RedPocket_Gear_Value_6,全装备超载+28,,全裝備超載+28,,,,
+GuildRedPocketTitle_RedPocket_Gear_Value_7,全装备超载+32,,全裝備超載+32,,,,
+GuildRedPocketTitle_RedPocket_Gear_Rarity_1,全装备达蔚蓝,,全裝備達蔚藍,,,,
+GuildRedPocketTitle_RedPocket_Gear_Rarity_2,全装备达绯紫,,全裝備達緋紫,,,,
+GuildRedPocketTitle_RedPocket_Gear_Rarity_3,全装备纯金．史诗一阶,,全裝備純金．史詩一階,,,,
+GuildRedPocketTitle_RedPocket_Gear_Rarity_4,全装备纯金．史诗二阶,,全裝備純金．史詩二階,,,,
+GuildRedPocketTitle_RedPocket_Gear_Rarity_5,全装备纯金．史诗三阶,,全裝備純金．史詩三階,,,,
+GuildRedPocketTitle_RedPocket_Gear_Rarity_6,全装备霓虹．觉醒一阶,,全裝備霓虹．覺醒一階,,,,
+GuildRedPocketTitle_RedPocket_Gear_Rarity_7,全装备霓虹．觉醒二阶,,全裝備霓虹．覺醒二階,,,,
+GuildRedPocketTitle_RedPocket_Gear_Rarity_8,全装备霓虹．觉醒三阶,,全裝備霓虹．覺醒三階,,,,
+GuildRedPocketTitle_RedPocket_Gear_Rarity_9,全装备霓虹．觉醒四阶,,全裝備霓虹．覺醒四階,,,,
+GuildRedPocketTitle_RedPocket_Gear_Upgrade_1,全装备光刻至精度A阶,,全裝備光刻至精度A階,,,,
+GuildRedPocketTitle_RedPocket_Gear_Upgrade_2,全装备光刻至精度S阶,,全裝備光刻至精度S階,,,,
+GuildRedPocketTitle_RedPocket_Gear_Upgrade_3,全装备光刻至精度SS阶,,全裝備光刻至精度SS階,,,,
+GuildRedPocketTitle_RedPocket_Player_Title_1,神格【一级神】,,神格【一級神】,,,,
+GuildRedPocketTitle_RedPocket_Player_Title_2,神格【二级神】,,神格【二級神】,,,,
+GuildRedPocketTitle_RedPocket_Player_Title_3,神格【三级神】,,神格【三級神】,,,,
+GuildRedPocketTitle_RedPocket_Player_Title_4,神格【四级神】,,神格【四級神】,,,,
+GuildRedPocketTitle_RedPocket_Player_Title_5,神格【一级圣神】,,神格【一級聖神】,,,,
+GuildRedPocketTitle_RedPocket_Player_Title_6,神格【二级圣神】,,神格【二級聖神】,,,,
+GuildRedPocketTitle_RedPocket_Player_Title_7,神格【三级圣神】,,神格【三級聖神】,,,,
+GuildRedPocketTitle_RedPocket_Player_Title_8,神格【一级超神】,,神格【一級超神】,,,,
+GuildRedPocketTitle_RedPocket_Player_Title_9,神格【二级超神】,,神格【二級超神】,,,,
+GuildRedPocketTitle_RedPocket_Player_Title_10,神格【三级超神】,,神格【三級超神】,,,,
+GuildRedPocketTitle_RedPocket_Player_Title_11,神格【四级超神】,,神格【四級超神】,,,,
+GuildRedPocketTitle_RedPocket_Tower_1,冥河探索400层,,冥河探索400層,,,,
+GuildRedPocketTitle_RedPocket_Tower_2,冥河探索600层,,冥河探索600層,,,,
+GuildRedPocketTitle_RedPocket_Tower_3,冥河探索800层,,冥河探索800層,,,,
+GuildRedPocketTitle_RedPocket_Tower_4,冥河探索1000层,,冥河探索1000層,,,,
+GuildRedPocketTitle_RedPocket_Tower_5,冥河探索1200层,,冥河探索1200層,,,,
+GuildRedPocketTitle_RedPocket_Tower_6,冥河探索1400层,,冥河探索1400層,,,,
+GuildRedPocketTitle_RedPocket_Tower_7,冥河探索1600层,,冥河探索1600層,,,,
+GuildRedPocketTitle_RedPocket_Tower_8,冥河探索1800层,,冥河探索1800層,,,,
+GuildRedPocketTitle_RedPocket_Tower_9,冥河探索2000层,,冥河探索2000層,,,,
+GuildRedPocketTitle_RedPocket_Tower_10,冥河探索2200层,,冥河探索2200層,,,,
+GuildRedPocketTitle_RedPocket_Tower_11,冥河探索2400层,,冥河探索2400層,,,,
+GuildRedPocketTitle_RedPocket_Tower_12,冥河探索2600层,,冥河探索2600層,,,,
+GuildRedPocketTitle_RedPocket_Tower_13,冥河探索2800层,,冥河探索2800層,,,,
+GuildRedPocketTitle_RedPocket_Tower_14,冥河探索3000层,,冥河探索3000層,,,,
+GuildRedPocketTitle_RedPocket_Tower_15,冥河探索3200层,,冥河探索3200層,,,,
+GuildRedPocketTitle_RedPocket_Maze_Star_1,十二星宫满星通关,,十二星宮滿星通關,,,,
+GuildRedPocketTitle_RedPocket_MonthlyCard_1,购买普通月卡,,購買普通月卡,,,,
+GuildRedPocketTitle_RedPocket_MonthlyCard_2,购买白金月卡,,購買白金月卡,,,,
+GuildRedPocketTitle_RedPocket_BattlePass_1,购买冥河神谕,,購買冥河神諭,,,,
+GuildRedPocketTitle_RedPocket_BattlePass_2,购买主线神谕,,購買主線神諭,,,,
+GuildRedPocketTitle_RedPocket_BattlePass_3,购买精英神谕,,購買精英神諭,,,,
+GuildRedPocketTitle_RedPocket_GuildEvent_Boss_1,诸神回归．个人第一,,諸神回歸．個人第一,,,,
+GuildRedPocketTitle_RedPocket_GuildEvent_Boss_2,诸神回归．公会第一,,諸神回歸．公會第一,,,,
+GuildRedPocketTitle_RedPocket_Pvp_Rank_1,斗技场排名第一,,鬥技場排名第一,,,,
+GuildRedPocketTitle_RedPocket_GuildEvent_Race_1,银河铁道排名第一,,銀河鐵道排名第一,,,,
+GuildRedPocketTitle_RedPocket_Secretary_Vip_1,心灵升至Grade5,,心靈升至等級5,,,,
+GuildRedPocketTitle_RedPocket_Secretary_Vip_2,心灵升至Grade6,,心靈升至等級6,,,,
+GuildRedPocketTitle_RedPocket_Secretary_Vip_3,心灵升至Grade7,,心靈升至等級7,,,,
+GuildRedPocketTitle_RedPocket_Secretary_Vip_4,心灵升至Grade8,,心靈升至等級8,,,,
+GuildRedPocketTitle_RedPocket_Secretary_Vip_5,心灵升至Grade9,,心靈升至等級9,,,,
+GuildRedPocketTitle_RedPocket_Secretary_Vip_6,心灵升至Grade10,,心靈升至等級10,,,,
+GuildRedPocketTitle_RedPocket_Secretary_Vip_7,心灵升至Grade11,,心靈升至等級11,,,,
+GuildRedPocketTitle_RedPocket_Secretary_Vip_8,心灵升至Grade12,,心靈升至等級12,,,,
+GuildRedPocketTitle_RedPocket_Secretary_Vip_9,心灵升至Grade13,,心靈升至等級13,,,,
+GuildRedPocketTitle_RedPocket_Secretary_Vip_10,心灵升至Grade14,,心靈升至等級14,,,,
+GuildRedPocketTitle_RedPocket_Secretary_Vip_11,心灵升至Grade15,,心靈升至等級15,,,,
+GuildRedPocketTitle_RedPocket_Secretary_Vip_12,心灵升至Grade16,,心靈升至等級16,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+GuildHallRedPocketResultPopupOwner,{0}的补给,,{0}的補給,,,,
+GuildHallRedPocketResultPopupClaimedCount,已领<color=#33eeee>{0}/{1}</color>个，共,,已領<color=#33eeee>{0}/{1}</color>個，共,,,,
+GuildHallRedPocketResultPopupTooSlow,手慢了，补给已抢完!,,手慢了，補給已搶完!,,,,
+,,,,,,,
+#GuildHallBuildingPage,,,,,,,
+GuildHallBuildingPageHALL,大楼,,大樓,,,,
+GuildHallBuildingPageALCHEMY_COURT,炼宝阁,,煉寶閣,,,,
+GuildHallBuildingPageSHOP,商店,,商店,,,,
+GuildHallBuildingPageWORSHIP,祭祀,,祭祀,,,,
+GuildHallBuildingPageBuildingLevel,Grade:{0},,等級:{0},,,,
+GuildHallBuildingPageHallLevel,{0}级大楼,,{0}級大樓,,,,
+GuildHallBuildingPageAlchemyCourtLevel,{0}级炼宝阁,,{0}級煉寶閣,,,,
+GuildHallBuildingPageShopLevel,{0}级商店,,{0}級商店,,,,
+GuildHallBuildingPageWorshipLevel,{0}级祭祀,,{0}級祭祀,,,,
+GuildHallBuildingPageUpgradeSuccessAlert,{0}升至{1}级,,{0}升至{1}級,,,,
+GuildHallBuildingPageNotEnoughFundAlert,升级素材不足,,升級素材不足,,,,
+GuildHallBuildingPageRequireGuildLevel,大楼{0}级解锁,,大樓{0}級解鎖,,,,
+GuildHallBuildingPageRequireFund,所需资金:{0},,所需資金:{0},,,,
+GuildHallBuildingPageRewardButton,升级奖励,,升級獎勵,,,,
+GuildHallBuildingPageUpgradeableByManagement,会长和副会长可以升级建筑,,會長和副會長可以升級建築,,,,
+,,,,,,,
+GuildHallBuildingPageHallDesc_Level1,"1. 大楼Grade代表公会Grade。
+2. 大楼Grade关联其他公会建筑的Grade上限，各建筑的Grade上限不同。
+3. 大楼升级后可获得升级奖励。",,"1. 大樓等級代表公會等級。
+2. 大樓等級關聯其他公會建築的等級上限，各建築的等級上限不同。
+3. 大樓升級後可獲得升級獎勵。",,,,
+GuildHallBuildingPageHallDesc_Level2,"1. 大楼Grade代表公会Grade。
+2. 大楼Grade关联其他公会建筑的Grade上限，各建筑的Grade上限不同。
+3. 大楼升级后可获得升级奖励。",,"1. 大樓等級代表公會等級。
+2. 大樓等級關聯其他公會建築的等級上限，各建築的等級上限不同。
+3. 大樓升級後可獲得升級獎勵。",,,,
+GuildHallBuildingPageHallDesc_Level3,"1. 大楼Grade代表公会Grade。
+2. 大楼Grade关联其他公会建筑的Grade上限，各建筑的Grade上限不同。
+3. 大楼升级后可获得升级奖励。",,"1. 大樓等級代表公會等級。
+2. 大樓等級關聯其他公會建築的等級上限，各建築的等級上限不同。
+3. 大樓升級後可獲得升級獎勵。",,,,
+GuildHallBuildingPageHallDesc_Level4,"1. 大楼Grade代表公会Grade。
+2. 大楼Grade关联其他公会建筑的Grade上限，各建筑的Grade上限不同。
+3. 大楼升级后可获得升级奖励。",,"1. 大樓等級代表公會等級。
+2. 大樓等級關聯其他公會建築的等級上限，各建築的等級上限不同。
+3. 大樓升級後可獲得升級獎勵。",,,,
+GuildHallBuildingPageHallDesc_Level5,"1. 大楼Grade代表公会Grade。
+2. 大楼Grade关联其他公会建筑的Grade上限，各建筑的Grade上限不同。
+3. 大楼升级后可获得升级奖励。",,"1. 大樓等級代表公會等級。
+2. 大樓等級關聯其他公會建築的等級上限，各建築的等級上限不同。
+3. 大樓升級後可獲得升級獎勵。",,,,
+GuildHallBuildingPageHallDesc_Level6,"1. 大楼Grade代表公会Grade。
+2. 大楼Grade关联其他公会建筑的Grade上限，各建筑的Grade上限不同。
+3. 大楼升级后可获得升级奖励。",,"1. 大樓等級代表公會等級。
+2. 大樓等級關聯其他公會建築的等級上限，各建築的等級上限不同。
+3. 大樓升級後可獲得升級獎勵。",,,,
+GuildHallBuildingPageHallDesc_Level7,"1. 大楼Grade代表公会Grade。
+2. 大楼Grade关联其他公会建筑的Grade上限，各建筑的Grade上限不同。
+3. 大楼升级后可获得升级奖励。",,"1. 大樓等級代表公會等級。
+2. 大樓等級關聯其他公會建築的等級上限，各建築的等級上限不同。
+3. 大樓升級後可獲得升級獎勵。",,,,
+GuildHallBuildingPageHallDesc_Level8,"1. 大楼Grade代表公会Grade。
+2. 大楼Grade关联其他公会建筑的Grade上限，各建筑的Grade上限不同。
+3. 大楼升级后可获得升级奖励。",,"1. 大樓等級代表公會等級。
+2. 大樓等級關聯其他公會建築的等級上限，各建築的等級上限不同。
+3. 大樓升級後可獲得升級獎勵。",,,,
+GuildHallBuildingPageHallDesc_Level9,"1. 大楼Grade代表公会Grade。
+2. 大楼Grade关联其他公会建筑的Grade上限，各建筑的Grade上限不同。
+3. 大楼升级后可获得升级奖励。",,"1. 大樓等級代表公會等級。
+2. 大樓等級關聯其他公會建築的等級上限，各建築的等級上限不同。
+3. 大樓升級後可獲得升級獎勵。",,,,
+GuildHallBuildingPageHallDesc_Level10,"1. 大楼Grade代表公会Grade。
+2. 大楼Grade关联其他公会建筑的Grade上限，各建筑的Grade上限不同。
+3. 大楼升级后可获得升级奖励。",,"1. 大樓等級代表公會等級。
+2. 大樓等級關聯其他公會建築的等級上限，各建築的等級上限不同。
+3. 大樓升級後可獲得升級獎勵。",,,,
+,,,,,,,
+GuildHallBuildingPageAlchemyCourtDesc_Level1,"1.大楼Grade代表公会Grade
+2.大楼Grade代表公会Grade大楼Grade代表公会Grade大楼Grade代表公会Grade
+3.大楼Grade代表公会Grade大楼",,"1.大樓等級代表公會等級
+2.大樓等級代表公會等級大樓等級代表公會等級大樓等級代表公會等級
+3.大樓等級代表公會等級大樓",,,,
+GuildHallBuildingPageAlchemyCourtDesc_Level2,GuildHallBuildingPageAlchemyCourtDesc_Level2,,GuildHallBuildingPageAlchemyCourtDesc_Level2,,,,
+GuildHallBuildingPageAlchemyCourtDesc_Level3,GuildHallBuildingPageAlchemyCourtDesc_Level3,,GuildHallBuildingPageAlchemyCourtDesc_Level3,,,,
+GuildHallBuildingPageAlchemyCourtDesc_Level4,GuildHallBuildingPageAlchemyCourtDesc_Level4,,GuildHallBuildingPageAlchemyCourtDesc_Level4,,,,
+GuildHallBuildingPageAlchemyCourtDesc_Level5,GuildHallBuildingPageAlchemyCourtDesc_Level5,,GuildHallBuildingPageAlchemyCourtDesc_Level5,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+GuildHallBuildingPageShopDesc_Level1,"1. 商店中会出售各类稀有资源。
+2. 公会商店Grade越高，商品种类越丰富。
+3. 公会商店Grade越高，商品格越多。
+4. 商店Grade提升后，商品格及商品池会在每日05:00刷新后反映。",,"1. 商店中會出售各類稀有資源。
+2. 公會商店等級越高，商品種類越豐富。
+3. 公會商店等級越高，商品格越多。
+4. 商店等級提升後，商品格及商品池會在每日05:00刷新後反映。",,,,
+GuildHallBuildingPageShopDesc_Level2,"1. 商店中会出售各类稀有资源。
+2. 公会商店Grade越高，商品种类越丰富。
+3. 公会商店Grade越高，商品格越多。
+4. 商店Grade提升后，商品格及商品池会在每日05:00刷新后反映。",,"1. 商店中會出售各類稀有資源。
+2. 公會商店等級越高，商品種類越豐富。
+3. 公會商店等級越高，商品格越多。
+4. 商店等級提升後，商品格及商品池會在每日05:00刷新後反映。",,,,
+GuildHallBuildingPageShopDesc_Level3,"1. 商店中会出售各类稀有资源。
+2. 公会商店Grade越高，商品种类越丰富。
+3. 公会商店Grade越高，商品格越多。
+4. 商店Grade提升后，商品格及商品池会在每日05:00刷新后反映。",,"1. 商店中會出售各類稀有資源。
+2. 公會商店等級越高，商品種類越豐富。
+3. 公會商店等級越高，商品格越多。
+4. 商店等級提升後，商品格及商品池會在每日05:00刷新後反映。",,,,
+GuildHallBuildingPageShopDesc_Level4,"1. 商店中会出售各类稀有资源。
+2. 公会商店Grade越高，商品种类越丰富。
+3. 公会商店Grade越高，商品格越多。
+4. 商店Grade提升后，商品格及商品池会在每日05:00刷新后反映。",,"1. 商店中會出售各類稀有資源。
+2. 公會商店等級越高，商品種類越豐富。
+3. 公會商店等級越高，商品格越多。
+4. 商店等級提升後，商品格及商品池會在每日05:00刷新後反映。",,,,
+GuildHallBuildingPageShopDesc_Level5,"1. 商店中会出售各类稀有资源。
+2. 公会商店已满级，当前购买消耗降低20%。
+3. 商店Grade提升后，商品格及商品池会在每日05:00刷新后反映。",,"1. 商店中會出售各類稀有資源。
+2. 公會商店已滿級，當前購買消耗降低20%。
+3. 商店等級提升後，商品格及商品池會在每日05:00刷新後反映。",,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+GuildHallBuildingPageWorshipDesc_Level1,"1.公会祭祀中可获得大量公会币和公会资金。
+2.祭祀建筑升级后，祭祀宝箱中的奖励越丰厚。",,"1.公會祭祀中可獲得大量公會幣和公會資金。
+2.祭祀建築升級後，祭祀寶箱中的獎勵越豐厚。",,,,
+GuildHallBuildingPageWorshipDesc_Level2,"1.公会祭祀中可获得大量公会币和公会资金。
+2.祭祀建筑升级后，祭祀宝箱中的奖励越丰厚。",,"1.公會祭祀中可獲得大量公會幣和公會資金。
+2.祭祀建築升級後，祭祀寶箱中的獎勵越豐厚。",,,,
+GuildHallBuildingPageWorshipDesc_Level3,"1.公会祭祀中可获得大量公会币和公会资金。
+2.祭祀建筑升级后，祭祀宝箱中的奖励越丰厚。",,"1.公會祭祀中可獲得大量公會幣和公會資金。
+2.祭祀建築升級後，祭祀寶箱中的獎勵越豐厚。",,,,
+GuildHallBuildingPageWorshipDesc_Level4,"1.公会祭祀中可获得大量公会币和公会资金。
+2.祭祀建筑升级后，祭祀宝箱中的奖励越丰厚。",,"1.公會祭祀中可獲得大量公會幣和公會資金。
+2.祭祀建築升級後，祭祀寶箱中的獎勵越豐厚。",,,,
+GuildHallBuildingPageWorshipDesc_Level5,"1.公会祭祀中可获得大量公会币和公会资金。
+2.祭祀建筑升级后，祭祀宝箱中的奖励越丰厚。",,"1.公會祭祀中可獲得大量公會幣和公會資金。
+2.祭祀建築升級後，祭祀寶箱中的獎勵越豐厚。",,,,
+GuildHallBuildingPageWorshipDesc_Level6,"1.公会祭祀中可获得大量公会币和公会资金。
+2.祭祀建筑升级后，祭祀宝箱中的奖励越丰厚。",,"1.公會祭祀中可獲得大量公會幣和公會資金。
+2.祭祀建築升級後，祭祀寶箱中的獎勵越豐厚。",,,,
+GuildHallBuildingPageWorshipDesc_Level7,"1.公会祭祀中可获得大量公会币和公会资金。
+2.祭祀建筑升级后，祭祀宝箱中的奖励越丰厚。",,"1.公會祭祀中可獲得大量公會幣和公會資金。
+2.祭祀建築升級後，祭祀寶箱中的獎勵越豐厚。",,,,
+GuildHallBuildingPageWorshipDesc_Level8,"1.公会祭祀中可获得大量公会币和公会资金。
+2.祭祀建筑升级后，祭祀宝箱中的奖励越丰厚。",,"1.公會祭祀中可獲得大量公會幣和公會資金。
+2.祭祀建築升級後，祭祀寶箱中的獎勵越豐厚。",,,,
+GuildHallBuildingPageWorshipDesc_Level9,"1.公会祭祀中可获得大量公会币和公会资金。
+2.祭祀建筑升级后，祭祀宝箱中的奖励越丰厚。",,"1.公會祭祀中可獲得大量公會幣和公會資金。
+2.祭祀建築升級後，祭祀寶箱中的獎勵越豐厚。",,,,
+GuildHallBuildingPageWorshipDesc_Level10,"1.公会祭祀中可获得大量公会币和公会资金。
+2.祭祀建筑升级后，祭祀宝箱中的奖励越丰厚。",,"1.公會祭祀中可獲得大量公會幣和公會資金。
+2.祭祀建築升級後，祭祀寶箱中的獎勵越豐厚。",,,,
+,,,,,,,
+#GuildHallBuildingRewardPopup,,,,,,,
+GuildHallBuildingRewardPopupTitle,大楼奖励,,大樓獎勵,,,,
+GuildHallBuildingRewardPopupLevel,Grade,,等級,,,,
+GuildHallBuildingRewardPopupReward,奖励,,獎勵,,,,
+GuildHallBuildingRewardPopupStatus,状态,,狀態,,,,
+GuildHallBuildingRewardCellLevelReq,大楼达到{0}级,,大樓達到{0}級,,,,
+GuildHallBuildingRewardCellButtonNotComplete,未达成,,未達成,,,,
+,,,,,,,
+#GuildJoinPopup,,,,,,,
+GuildJoinPopupTitle,公会加入,,公會加入,,,,
+GuildJoinPopupGuildName,公会,,公會,,,,
+GuildJoinPopupGuildLevel,Grade,,等級,,,,
+GuildJoinPopupGuildMemberCount,人数,,人數,,,,
+GuildJoinPopupGuildCondition,条件,,條件,,,,
+GuildJoinPopupGuildAction,操作,,操作,,,,
+GuildJoinPopupButtonCreate,创建公会,,創建公會,,,,
+GuildJoinPopupButtonInvite,公会邀请,,公會邀請,,,,
+GuildJoinPopupButtonSearch,公会查找,,公會查找,,,,
+GuildJoinPopupCheckBoxHideFull,隐藏满员公会,,隱藏滿員公會,,,,
+GuildJoinPopupCooldownText,加入公会冷却时间: {0},,加入公會冷卻時間: {0},,,,
+GuildJoinPopupCooldownAlert,{0}后可以加入公会,,{0}後可以加入公會,,,,
+GuildJoinPopupJoinSuccessAlert,公会申请已被同意,,公會申請已被同意,,,,
+GuildJoinPopupApplySuccessAlert,公会申请已提出,,公會申請已提出,,,,
+GuildJoinPopupNotMetPowerReqAlert,战力不足,,戰力不足,,,,
+,,,,,,,
+#error message,,,,,,,
+Already join/accept this guild,已申请/接受此公会,,已申請/接受此公會,,,,
+guild member limit,公会已满员,,公會已滿員,,,,
+already have guild,冷却时间未完结,,冷卻時間未完結,,,,
+User already have guild,已加入公会,,已加入公會,,,,
+member not found,找不到玩家,,找不到玩家,,,,
+Guild name already exist,公会名称已存在,,公會名稱已存在,,,,
+This red pocket has been fully claimed,补给已经抢光了,,補給已經搶光了,,,,
+Guild leave cooldown,冷却时间未完结,,冷卻時間未完結,,,,
+User reach max draw count,无法召唤超过120次,,無法召喚超過120次,,,,
+GachaMaxDraw,召唤次数用尽了,,召喚次數用盡了,,,,
+Waiting for payment finish,取消交易,,取消交易,,,,
+Gacha not open,召唤活动未开放,,召喚活動未開放,,,,
+,,,,,,,
+#GuildSearchPopup,,,,,,,
+GuildSearchPopupTitle,公会查找,,公會查找,,,,
+GuildSearchPopupPlaceHolder,在此输入公会名称,,在此輸入公會名稱,,,,
+GuildSearchPopupButtonSearch,查找,,查找,,,,
+GuildSearchPopupGuildNameEmptyAlert,公会名称不能为空,,公會名稱不能為空,,,,
+,,,,,,,
+#GuildSearchResultPopup,,,,,,,
+GuildSearchResultPopupTitle,查找结果,,查找結果,,,,
+GuildSearchResultPopupNoResult,暂无公会,,暫無公會,,,,
+,,,,,,,
+#GuildInvitePopup,,,,,,,
+GuildInvitePopupTitle,公会邀请,,公會邀請,,,,
+GuildInvitePopupNoInvite,当前暂无公会邀请,,當前暫無公會邀請,,,,
+GuildInviteMemberSuccessAlert,公会邀请已送出,,公會邀請已送出,,,,
+,,,,,,,
+#GuildRenamePopup,,,,,,,
+GuildRenamePopupTitle,公会改名,,公會改名,,,,
+GuildRenamePopupPlaceholder,在此输入公会名,,在此輸入公會名,,,,
+GuildRenamePopupFree,本次免费,,本次免費,,,,
+GuildRenamePopupInputEmptyAlert,公会名称不能为空,,公會名稱不能為空,,,,
+,,,,,,,
+#GuildCreatePopup,,,,,,,
+GuildCreatePopupTitle,创建公会,,創建公會,,,,
+GuildCreatePopupGuildName,公会名称,,公會名稱,,,,
+GuildCreatePopupGuildNamePlaceHolder,在此输入公会名字,,在此輸入公會名字,,,,
+GuildCreatePopupGuildIcon,公会头像,,公會頭像,,,,
+GuildCreatePopupGuildAnnouncement,公会公告,,公會公告,,,,
+GuildCreatePopupGuildAnnouncementPlaceHolder,"欢迎大家加入，参加公会活动可以领取分红哦！
+[晚上7时45分举行银河铁道]
+[晚上8时举行诸神回归]",,"歡迎大家加入，參加公會活動可以領取分紅哦！
+[晚上7時45分舉行銀河鐵道]
+[晚上8時舉行諸神回歸]",,,,
+GuildCreatePopupCreateFee,创建费用,,創建費用,,,,
+GuildCreatePopupCreateFeeNotEnoughAlert,创建费用不足,,創建費用不足,,,,
+GuildCreatePopupGuildNameEmptyAlert,公会名称不能为空,,公會名稱不能為空,,,,
+,,,,,,,
+#GuildCreateComfirmPopup,,,,,,,
+GuildCreateComfirmPopupTitle,创建公会,,創建公會,,,,
+GuildCreateComfirmPopupLine1,是否确认创建公会,,是否確認創建公會,,,,
+GuildCreateComfirmPopupLine2,确认创建将消耗：,,確認創建將消耗：,,,,
+,,,,,,,
+#GuildCreateSuccessPopup,,,,,,,
+GuildCreateSuccessPopupTitle,创建成功,,創建成功,,,,
+GuildCreateSuccessPopupText,"<color=#00bbbb>恭喜玩家创建了本服第{0}个公会</color>
+
+<align=""left"">期待玩家公会发展。 </align>",,"<color=#00bbbb>恭喜玩家創建了本服第{0}個公會</color>
+
+<align=""left"">期待玩家公會發展。</align>",,,,
+,,,,,,,
+#GuildRecruitMainPage,,,,,,,
+GuildRecruitMainPageTitle,公会召募,,公會召募,,,,
+GuildRecruitMainPageTabRecruit,召募团员,,召募團員,,,,
+GuildRecruitMainPageTabApprove,审核,,審核,,,,
+GuildAutoAcceptUpdateSuccess,审核要求已修改,,審核要求已修改,,,,
+GuildMightRuleUpdateSuccess,入会条件已修改,,入會條件已修改,,,,
+,,,,,,,
+#GuildRecruitSubPageRecrult,,,,,,,
+GuildRecruitSubPageRecrultPlayer,玩家,,玩家,,,,
+GuildRecruitSubPageRecrultLevel,Grade,,等級,,,,
+GuildRecruitSubPageRecrultPower,战力,,戰力,,,,
+GuildRecruitSubPageRecrultStatus,状态,,狀態,,,,
+GuildRecruitSubPageRecrultAction,操作,,操作,,,,
+GuildRecruitSubPageRecrultButtonOneClickRecruit,一键邀请,,一鍵邀請,,,,
+GuildRecruitSubPageRecrultButtonRefresh,刷新,,刷新,,,,
+GuildRecruitSubPageRecrultButtonSendRecruit,发布召募,,發佈召募,,,,
+,,,,,,,
+#GuildRecruitSubPageApprove,,,,,,,
+GuildRecruitSubPageApprovePlayer,玩家,,玩家,,,,
+GuildRecruitSubPageApproveLevel,Grade,,等級,,,,
+GuildRecruitSubPageApprovePower,战力,,戰力,,,,
+GuildRecruitSubPageApproveStatus,状态,,狀態,,,,
+GuildRecruitSubPageApproveAction,操作,,操作,,,,
+GuildRecruitSubPageApproveSetting,申请审核设置,,申請審核設置,,,,
+GuildRecruitSubPageApproveHosting,托管系统审核,,託管系統審核,,,,
+GuildApproveMemberSuccessAlert,已审核,,已審核,,,,
+,,,,,,,
+#GuildPostRecruitmentPopup,,,,,,,
+GuildPostRecruitmentPopupTitle,公会召募,,公會召募,,,,
+GuildPostRecruitmentPopupSubTitle,<color=#EE5555>[{0}]</color>公会召募,,<color=#EE5555>[{0}]</color>公會召募,,,,
+GuildPostRecruitmentPopupPlaceholder,在此输入发布讯息,,在此輸入發佈訊息,,,,
+GuildPostRecruitmentPopupTips,<召募消息将发送至世界频道>,,<召募消息將發送至世界頻道>,,,,
+GuildPostRecruitmentPopupInputEmptyAlert,输入不能为空,,輸入不能為空,,,,
+GuildPostRecruitment_ChatMessage,"<#FF9933>{0}</color>公会召募啦 : {1}  <link=""{2}""><#33C3BF><查看></link>",,"<#FF9933>{0}</color>公會召募啦 : {1}  <link=""{2}""><#33C3BF><查看></link>",,,,
+,,,,,,,
+GuildDisbandConfirmPopupTitle,解散公会,,解散公會,,,,
+GuildDisbandConfirmPopupContent,是否确定解散公会?,,是否確定解散公會?,,,,
+,,,,,,,
+#Guild Blessing,,,,,,,
+GuildBlessingTitle,公会祭祀,,公會祭祀,,,,
+GuildBlessingCurrentProgress,公会祭祀值,,公會祭祀值,,,,
+GuildBlessingRecordTitle,成员祭祀记录,,成員祭祀記錄,,,,
+GuildBlessingRecordFormat,<color=#1166cc>{0}</color>在公会祭祀了<color=#1166cc>{1}</color>次,,<color=#1166cc>{0}</color>在公會祭祀了<color=#1166cc>{1}</color>次,,,,
+GuildBlessingBtn,祭祀,,祭祀,,,,
+GuildBlessingHint,祭祀可获得公会币和公会资金,,祭祀可獲得公會幣和公會資金,,,,
+GuildBlessingPopupRemaining,剩余祭祀次数:{0}/{1},,剩餘祭祀次數:{0}/{1},,,,
+GuildBlessingPopupConsumeLabel,消耗:,,消耗:,,,,
+GuildBlessingPopupRemainingFree,剩余免费{0}次,,剩餘免費{0}次,,,,
+GuildBlessingPopupGainLabel,获得:,,獲得:,,,,
+GuildBlessingPopupConfirm,确定,,確定,,,,
+GuildBlessingPopupCancel,取消,,取消,,,,
+GuildBlessingOverLimitAlert,本日祭祀次数已达上限,,本日祭祀次數已達上限,,,,
+GuildBlessingPreviewTitle,奖励详情,,獎勵詳情,,,,
+GuildBlessingPreviewRequirementAchieved,领取奖励需要祭祀值达到: <color=#11cc77>{0}</color>,,領取獎勵需要祭祀值達到: <color=#11cc77>{0}</color>,,,,
+GuildBlessingPreviewRequirementNotAchieved,领取奖励需要祭祀值达到: {0},,領取獎勵需要祭祀值達到: {0},,,,
+GuildBlessingCompletenessLabel,祭祀值,,祭祀值,,,,
+GuildBlessingPopupNotEnoughCostAlert,费用不足,,費用不足,,,,
+,,,,,,,
+#GuildEvent,,,,,,,
+GuildEventMainPage_Title,公会活动,,公會活動,,,,
+GuildEventEntranceFlag_Go,前进,,前進,,,,
+GuildEventMainPage_Time_1,每日19:48开放,,每日19:48開放,,,,
+GuildEventMainPage_Time_2,每日20:00开放,,每日20:00開放,,,,
+GuildEventMainPage_Time_3,GuildEventMainPage_Time_3,,GuildEventMainPage_Time_3,,,,
+GuildEventMainPage_Time_4,GuildEventMainPage_Time_4,,GuildEventMainPage_Time_4,,,,
+,,,,,,,
+#GuildActivePoint,,,,,,,
+GuildActivePointTitle,最强公会,,最強公會,,,,
+GuildActivePointPlayerPosition,您的职位 :,,您的職位 :,,,,
+GuildActivePointWeeklyPoint,本周公会积分 :,,本週公會積分 :,,,,
+GuildActivePointGuildRanking,公会积分排名 :,,公會積分排名 :,,,,
+GuildActivePointRankingReward,预算结算奖励,,預算結算獎勵,,,,
+GuildActivePointRewardDescription,"1.本周活跃度未到达100无法获得奖励(开服3天内除外)
+2.每周日22点结算并邮件发送奖励",,"1.本週活躍度未到達100無法獲得獎勵(開服3天內除外)
+2.每週日22點結算並郵件發送獎勵",,,,
+GuildActivePointCurrentActivePoint,今日公会活跃,,今日公會活躍,,,,
+GuildActivePointPlayerActivePoint,我的活跃 :,,我的活躍 :,,,,
+GuildActivePointGuildActivePoint,活跃度,,活躍度,,,,
+GuildActivePointRedirectDescription,目标说明目标说明 : 活跃 + {0},,目標說明目標說明 : 活躍 + {0},,,,
+GuildActivePointRedirectButton,前往,,前往,,,,
+GuildActivePointInfoContent,"公会积分说明
+1. 公会积分在参与公会活动后获得。
+2. 每周日22:00进行结算并根据公会排名，经邮件派发奖励。
+3. 公会积分在每周一05:00重置，并开始新的累计周期。
+4. 公会内职位越高，奖励越丰厚。",,"公會積分說明
+1. 公會積分在參與公會活動後獲得。
+2. 每週日22:00進行結算並根據公會排名，經郵件派發獎勵。
+3. 公會積分在每週一05:00重置，並開始新的累計週期。
+4. 公會內職位越高，獎勵越豐厚。",,,,
+GuildActivePointRedirectTitle_AirShip,银河铁道,,銀河鐵道,,,,
+GuildActivePointRedirectTitle_Worship,公会祭祀,,公會祭祀,,,,
+GuildActivePointRedirectTitle_GuildEventBoss,诸神回归,,諸神回歸,,,,
+GuildActivePointRedirectDesc_AirShip,参加银河铁道 : 活跃 + {0},,參加銀河鐵道 : 活躍 + {0},,,,
+GuildActivePointRedirectDesc_Worship,每次祭祀 : 活跃 + {0},,每次祭祀 : 活躍 + {0},,,,
+GuildActivePointRedirectDesc_GuildEventBoss,参加诸神回归 : 活跃 + {0},,參加諸神回歸 : 活躍 + {0},,,,
+GuildActivePointPreviewRequirementAchieved,领取奖励需要活跃值达到: <color=#11cc77>{0}</color>,,領取獎勵需要活躍值達到: <color=#11cc77>{0}</color>,,,,
+GuildActivePointPreviewRequirementNotAchieved,领取奖励需要活跃值达到: {0},,領取獎勵需要活躍值達到: {0},,,,
+Guild_Top_Rank_Settlement_Time,"每周日22:00结算奖励, 每周一05:00重置",,"每週日22:00結算獎勵, 每週一05:00重置",,,,
+,,,,,,,
+GuildRankingPage,,,,,,,
+GuildRankingPageTitle,最强公会,,最強公會,,,,
+GuildRankingPageRank,名次,,名次,,,,
+GuildRankingPageGuildName,公会,,公會,,,,
+GuildRankingPageGuildPresidentName,会长,,會長,,,,
+GuildRankingPageGuildActivePoint,活跃,,活躍,,,,
+GuildRankingPageGuildPoint,公会积分,,公會積分,,,,
+GuildRankingPageReward,奖励,,獎勵,,,,
+GuildRankingPageTips,活跃度>100可发奖,,活躍度>100可發獎,,,,
+GuildRaningPageButtonReview,前往回顾>>,,前往回顧>>,,,,
+GuildRankingHistoryPageTitle,最强公会,,最強公會,,,,
+GuildRankingHistoryPageTips,活跃度>100可发奖,,活躍度>100可發獎,,,,
+GuildRankingHistoryPageTabCurrent,本期,,本期,,,,
+GuildRankingHistoryPageTabHistory,往期,,往期,,,,
+,,,,,,,
+,,,,,,,
+#GuildPurchase,,,,,,,
+GuildShopPage_title,公会商店,,公會商店,,,,
+GuildShop_tips,公会商店每日5点刷新,,公會商店每日5點刷新,,,,
+GuildShop_purchase_PopupTitle,公会商品,,公會商品,,,,
+GuildShop_purchase_Popup_content,确定购买商品,,確定購買商品,,,,
+GuildShop_purchase_cost_not_enoungh,货币不足,,貨幣不足,,,,
+GuildShop_purchase_done,商品已购买,,商品已購買,,,,
+GuildShop_purchase_need_unlock,公会商店{0}级开放,,公會商店{0}級開放,,,,
+,,,,,,,
+#GuildBossMainPage,,,,,,,
+GuildBossMainPageTitle,训练所,,訓練所,,,,
+GuildBossMainPageResetCountdown,重置倒数计时: <color=#66dddd>{0}</color>,,重置倒數計時: <color=#66dddd>{0}</color>,,,,
+GuildBossMainPageInfoPhase,第{0}阶段,,第{0}階段,,,,
+GuildBossMainPageInfoDifficulty,战役难度:,,戰役難度:,,,,
+GuildBossMainPageInfoDifficultyValue,{0}级,,{0}級,,,,
+GuildBossMainPageInfoEvent,战役事件:,,戰役事件:,,,,
+GuildBossMainPageInfoEventEmpty,无,,無,,,,
+GuildBossMainPageInfoEventConquestCount,今日征讨次数:,,今日征討次數:,,,,
+GuildBossMainPageAnnouncement,公告,,公告,,,,
+GuildBossMainPageAnnouncementContent,每个据点都有独特的战斗条件，建议攻打最适您星神队伍的据点。,,每個據點都有獨特的戰鬥條件，建議攻打最適您星神隊伍的據點。,,,,
+GuildBossMainPageButtonReward,每日奖励,,每日獎勵,,,,
+GuildBossMainPageButtonRanking,排行榜,,排行榜,,,,
+GuildBossMainPageButtonReport,战报,,戰報,,,,
+GuildBossMainPageButtonRescue,救援令,,救援令,,,,
+GuildBossMainPageButtonChest,试炼宝箱,,試煉寶箱,,,,
+GuildBossObjectLevelElite,精英,,精英,,,,
+GuildBossObjectLevelNormal,一般,,一般,,,,
+GuildBossObjectProcess,压制度:{0},,壓制度:{0},,,,
+GuildBossObjectCompleted,已压制,,已壓制,,,,
+GuildBossMainPageHowToPlay_Title,GuildBossMainPageHowToPlay_Title,,GuildBossMainPageHowToPlay_Title,,,,
+GuildBossMainPageHowToPlay_Content,GuildBossMainPageHowToPlay_Content,,GuildBossMainPageHowToPlay_Content,,,,
+,,,,,,,
+#GuildBossConquestPopup,,,,,,,
+#GuildBossConquestPopupTitle,征讨详情,,征討詳情,,,,
+GuildBossConquestPopupRewardTitle,战斗奖励,,戰鬥獎勵,,,,
+GuildBossConquestPopupRewardPoint,压制积分:,,壓制積分:,,,,
+GuildBossConquestPopupConditionTitle,战斗条件,,戰鬥條件,,,,
+GuildBossConquestPopupDifficultySelection,难度Choose,,難度選擇,,,,
+GuildBossConquestPopupDifficultyEasy,简单,,簡單,,,,
+GuildBossConquestPopupDifficultyNormal,普通,,普通,,,,
+GuildBossConquestPopupDifficultyHard,困难,,困難,,,,
+GuildBossConquestPopupHintsTitle,对手实力,,對手實力,,,,
+GuildBossConquestPopupHintsWeak,<color=#11cc77>对手实力:<space=0.5em>敌人实力在我之下，可以轻敌</color>,,<color=#11cc77>對手實力:<space=0.5em>敵人實力在我之下，可以輕敵</color>,,,,
+GuildBossConquestPopupHintsSimilar,<color=#526280>对手实力:<space=0.5em>敌我实力在伯仲之间，不可轻敌</color>,,<color=#526280>對手實力:<space=0.5em>敵我實力在伯仲之間，不可輕敵</color>,,,,
+GuildBossConquestPopupHintsStrong,<color=#ee5555>对手实力:<space=0.5em>敌人实力在我之上，不可能赢</color>,,<color=#ee5555>對手實力:<space=0.5em>敵人實力在我之上，不可能贏</color>,,,,
+GuildBossConquestPopupConquestCount,今日征讨次数:{0},,今日征討次數:{0},,,,
+GuildBossConquestPopupButtonConquest,征讨,,征討,,,,
+GuildBossConquestPopup_SkipBattle_Title,提示,,提示,,,,
+GuildBossConquestPopup_SkipBattle_Desc,当前据点已成功挑战{0}难度，确定后将直接压制据点并获得奖励！,,當前據點已成功挑戰{0}難度，確定後將直接壓制據點並獲得獎勵！,,,,
+GuildBossConquestPopup_NoChallengeChance,征讨次数不足,,征討次數不足,,,,
+GuildBossConquestPopupCondition_1,GuildBossConquestPopupCondition_1,,GuildBossConquestPopupCondition_1,,,,
+GuildBossConquestPopupCondition_2,GuildBossConquestPopupCondition_2,,GuildBossConquestPopupCondition_2,,,,
+GuildBossConquestPopupCondition_3,GuildBossConquestPopupCondition_3,,GuildBossConquestPopupCondition_3,,,,
+GuildBossConquestPopupCondition_4,GuildBossConquestPopupCondition_4,,GuildBossConquestPopupCondition_4,,,,
+GuildBossConquestPopupCondition_5,GuildBossConquestPopupCondition_5,,GuildBossConquestPopupCondition_5,,,,
+GuildBossConquestPopupCondition_6,GuildBossConquestPopupCondition_6,,GuildBossConquestPopupCondition_6,,,,
+GuildBossConquestPopupCondition_7,GuildBossConquestPopupCondition_7,,GuildBossConquestPopupCondition_7,,,,
+GuildBossConquestPopupCondition_8,GuildBossConquestPopupCondition_8,,GuildBossConquestPopupCondition_8,,,,
+GuildBossConquestPopupCondition_9,GuildBossConquestPopupCondition_9,,GuildBossConquestPopupCondition_9,,,,
+GuildBossConquestPopupCondition_10,GuildBossConquestPopupCondition_10,,GuildBossConquestPopupCondition_10,,,,
+GuildBossConquestPopupCondition_11,GuildBossConquestPopupCondition_11,,GuildBossConquestPopupCondition_11,,,,
+GuildBossConquestPopupCondition_12,GuildBossConquestPopupCondition_12,,GuildBossConquestPopupCondition_12,,,,
+GuildBossConquestPopupCondition_13,GuildBossConquestPopupCondition_13,,GuildBossConquestPopupCondition_13,,,,
+GuildBossConquestPopupCondition_14,GuildBossConquestPopupCondition_14,,GuildBossConquestPopupCondition_14,,,,
+GuildBossConquestPopupCondition_15,GuildBossConquestPopupCondition_15,,GuildBossConquestPopupCondition_15,,,,
+GuildBossConquestPopupCondition_16,GuildBossConquestPopupCondition_16,,GuildBossConquestPopupCondition_16,,,,
+GuildBossConquestPopupCondition_17,GuildBossConquestPopupCondition_17,,GuildBossConquestPopupCondition_17,,,,
+GuildBossConquestPopupCondition_18,GuildBossConquestPopupCondition_18,,GuildBossConquestPopupCondition_18,,,,
+GuildBossConquestPopupCondition_19,GuildBossConquestPopupCondition_19,,GuildBossConquestPopupCondition_19,,,,
+GuildBossConquestPopupCondition_20,GuildBossConquestPopupCondition_20,,GuildBossConquestPopupCondition_20,,,,
+GuildBossConquestPopupCondition_21,GuildBossConquestPopupCondition_21,,GuildBossConquestPopupCondition_21,,,,
+GuildBossConquestPopupCondition_22,GuildBossConquestPopupCondition_22,,GuildBossConquestPopupCondition_22,,,,
+GuildBossConquestPopupCondition_23,GuildBossConquestPopupCondition_23,,GuildBossConquestPopupCondition_23,,,,
+GuildBossConquestPopupCondition_24,GuildBossConquestPopupCondition_24,,GuildBossConquestPopupCondition_24,,,,
+GuildBossConquestPopupCondition_25,GuildBossConquestPopupCondition_25,,GuildBossConquestPopupCondition_25,,,,
+GuildBossMapName_1,副本A,,副本A,,,,
+GuildBossMapName_2,副本B,,副本B,,,,
+GuildBossMapName_3,副本C,,副本C,,,,
+GuildBossMapName_4,副本D,,副本D,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+#GuildBossRankPage,,,,,,,
+GuildBossRankPageTitle,排行,,排行,,,,
+GuildBossRankPageMemberTab,成员排行,,成員排行,,,,
+GuildBossRankPageGuildTab,公会排行,,公會排行,,,,
+GuildBossRankPageRank,名次,,名次,,,,
+GuildBossRankPagePlayer,玩家名称,,玩家名稱,,,,
+GuildBossRankPagePlayTimesLabel,讨伐次数,,討伐次數,,,,
+GuildBossRankPageTodayScore,今日压制积分,,今日壓制積分,,,,
+GuildBossRankPageNotInRank,未上榜,,未上榜,,,,
+GuildBossRankPagePlayTimes,征讨次数:{0},,征討次數:{0},,,,
+GuildBossRankPageHead,会长:{0},,會長:{0},,,,
+GuildBossRankGuildLabel,公会,,公會,,,,
+GuildBossRankGuildHeadLabel,会长名称,,會長名稱,,,,
+,,,,,,,
+#GuildBossReportLogPopup,,,,,,,
+GuildBossReportLogPopupTitle,战报,,戰報,,,,
+,,,,,,,
+#GuildBossRewardPage,,,,,,,
+GuildBossRewardPageTitle,通关奖励,,通關獎勵,,,,
+GuildBossRewardPageCellTitle,{0}级通关奖励,,{0}級通關獎勵,,,,
+GuildBossRewardPageCellDesc,过关任意{0}级试炼副本,,過關任意{0}級試煉副本,,,,
+GuildBossRewardPageCellClaim,领取,,領取,,,,
+,,,,,,,
+#GuildBossGiftBoxPopup,,,,,,,
+#GuildBossGiftBoxPopupTitle,试炼宝箱,,試煉寶箱,,,,
+GuildBossGiftBoxPopup_NotDeadAlert,未打倒此目标,,未打倒此目標,,,,
+GuildBossGiftBoxPopup_ClaimedAlert,已领取此目标的奖励,,已領取此目標的獎勵,,,,
+GuildBossGiftBoxPopup_AllNotDead,未打倒任何目标,,未打倒任何目標,,,,
+GuildBossGiftBoxPopup_Self,自己,,自己,,,,
+GuildBossGiftBoxPopup_EndTime,当前据点试炼宝箱将在{0}后消失，请儘快领取,,當前據點試煉寶箱將在{0}後消失，請儘快領取,,,,
+,,,,,,,
+#GuildBossRescuePopup,,,,,,,
+GuildBossRescuePopupTitle,救援令,,救援令,,,,
+GuildBossRescuePopupPlayerName,玩家名称,,玩家名稱,,,,
+GuildBossRescuePopupPower,战力,,戰力,,,,
+GuildBossRescuePopupGiftedCount,受赠次数,,受贈次數,,,,
+GuildBossRescuePopupGiftAction,赠送,,贈送,,,,
+GuildBossRescuePopupButtonRescue,救援,,救援,,,,
+GuildBossRescuePopupButtonRescueRecord,救援纪录,,救援紀錄,,,,
+GuildBossRescuePopupHints,"救援令每日18:00自动恢复至3个
+赠送1个救援令可以为其他成员增加1次讨伐次数，自己也会收到谢礼哦~",,"救援令每日18:00自動恢復至3個
+贈送1個救援令可以為其他成員增加1次討伐次數，自己也會收到謝禮哦~",,,,
+GuildBossRescuePopupRemainCount,救援令: {0},,救援令: {0},,,,
+GuildBossRescuePopupButtonRescue_Max,<#F9423A>已达上限</color>,,<#F9423A>已達上限</color>,,,,
+GuildBossRescueLogPopup_Send,{0}收到你赠送的救援令X1,,{0}收到你贈送的救援令X1,,,,
+GuildBossRescueLogPopup_Receive,{0}赠送给你救援令X1,,{0}贈送給你救援令X1,,,,
+,,,,,,,
+#GuildBossRescueLogPopup,,,,,,,
+GuildBossRescueLogPopupTitle,救援纪录,,救援紀錄,,,,
+,,,,,,,
+#GuildBossReportLogPopup,,,,,,,
+GuildBossReportLogPopupLog_NewMap,系统,,系統,,,,
+GuildBossReportLogPopupLog_NewMap_Win,新一轮试炼已开啓，本次随机开啓的试练为<color=#EE5555><{0}></color>。上一轮试练成功通关，本次试炼难度上升，试炼难度为<color=#EE5555>{1}级</color>,,新一輪試煉已開啓，本次隨機開啓的試練為<color=#EE5555><{0}></color>。上一輪試練成功通關，本次試煉難度上升，試煉難度為<color=#EE5555>{1}級</color>,,,,
+GuildBossReportLogPopupLog_NewMap_Lose,新一轮试炼已开啓，本次随机开啓的试练为<color=#EE5555><{0}></color>。上一轮试练未能通关，本次试炼难度不变，试炼难度为<color=#EE5555>{1}级</color>,,新一輪試煉已開啓，本次隨機開啓的試練為<color=#EE5555><{0}></color>。上一輪試練未能通關，本次試煉難度不變，試煉難度為<color=#EE5555>{1}級</color>,,,,
+GuildBossReportLogPopupLog_Battle,战报,,戰報,,,,
+GuildBossReportLogPopupLog_Battle_Win,{0}挑战{1}难度据点[{2}]成功，压制值+{3},,{0}挑戰{1}難度據點[{2}]成功，壓制值+{3},,,,
+GuildBossReportLogPopupLog_Battle_Lose,{0}挑战{1}难度据点[{2}]失败，压制值+{3},,{0}挑戰{1}難度據點[{2}]失敗，壓制值+{3},,,,
+,,,,,,,
+GuildBossBattleResult_Win,已打倒所有敌人，压制度+{0},,已打倒所有敵人，壓制度+{0},,,,
+GuildBossBattleResult_Lose,已打倒{0}个敌人，压制度+{1},,已打倒{0}個敵人，壓制度+{1},,,,
+GuildBossBattleResult_Lose_Reward,奖励：,,獎勵：,,,,
+GuildBossBattleResult_Lose_GiveUp,重来,,重來,,,,
+GuildBossBattleResult_Lose_GiveUp_Confirm,确定要放弃今次的奖励，重新挑战吗？,,確定要放棄今次的獎勵，重新挑戰嗎？,,,,
+,,,,,,,
+#GuildEventBoss,,,,,,,
+GuildEventBossPageTitle,诸神回归,,諸神回歸,,,,
+GuildEventBossPageEventStartTitle,诸神回归,,諸神回歸,,,,
+GuildEventBossPagePlayerRanking,个人积分榜,,個人積分榜,,,,
+GuildEventBossPageRankingGuild,公会积分榜,,公會積分榜,,,,
+GuildEventBossPageMyRanking,我的排行：,,我的排行：,,,,
+GuildEventBossPageMyGuildRanking,公会排行：,,公會排行：,,,,
+GuildEventBossPageUnknownBoss,元素巨神,,元素巨神,,,,
+GuildEventBossPageStartCountDown,活动倒数,,活動倒數,,,,
+GuildEventBossPageEventTime,活动时间：每日20:00,,活動時間：每日20:00,,,,
+GuildEventBossPageTeamEditButton,编队,,編隊,,,,
+GuildEventBossPageCanChallenge,可抢夺,,可搶奪,,,,
+GuildEventBossPageCanBattle,可讨伐,,可討伐,,,,
+GuildEventBoss_ChallengeFail,进入战斗失败,,進入戰鬥失敗,,,,
+GuildEventBossChallengePopupTitle,抢夺,,搶奪,,,,
+GuildEventBossChallengePopupRanking,名次,,名次,,,,
+GuildEventBossChallengePopupPlayerName,玩家名字,,玩家名字,,,,
+GuildEventBossChallengePopupPoint,积分,,積分,,,,
+GuildEventBossChallengePopupBattlePower,战力,,戰力,,,,
+GuildEventBossChallengePopupChallenge,挑战,,挑戰,,,,
+GuildEventBossChallengePlayerGuild,公会：,,公會：,,,,
+GuildEventBossChallengePlayerButton,抢夺,,搶奪,,,,
+GuildEventBoss_Result_SystemMessage,"诸神回归活动, 公会获得第{0}名的成绩, 获得资金{1}, 获得公会积分{2}, 获得珍稀战利品如下:{3}",,"諸神回歸活動, 公會獲得第{0}名的成績, 獲得資金{1}, 獲得公會積分{2}, 獲得珍稀戰利品如下:{3}",,,,
+GuildEventBossResultPopupTitle,活动结算,,活動結算,,,,
+GuildEventBossResultPopupContent_Self,本次活动已结束，您获得了<#66DDDD>{0}</color>积分，排名第<#66DDDD>{1}</color>,,本次活動已結束，您獲得了<#66DDDD>{0}</color>積分，排名第<#66DDDD>{1}</color>,,,,
+GuildEventBossResultPopupContent_Self_NoRank,本次活动已结束，您没有参与活动。,,本次活動已結束，您沒有參與活動。,,,,
+GuildEventBossResultPopupContent_Guild,"你的公会<#FF9933>{0}</color>获得了<#66DDDD>{1}</color>积分，排名第<#66DDDD>{2}</color>，
+本次活动共获得公会资金<#66DDDD>{3}</color>，公会积分<#66DDDD>{4}</color>。",,"你的公會<#FF9933>{0}</color>獲得了<#66DDDD>{1}</color>積分，排名第<#66DDDD>{2}</color>，
+本次活動共獲得公會資金<#66DDDD>{3}</color>，公會積分<#66DDDD>{4}</color>。",,,,
+GuildEventBossResultPopupContent_Guild_NoRank,你的公会<#FF9933>{0}</color>没有参与活动。,,你的公會<#FF9933>{0}</color>沒有參與活動。,,,,
+GuildEventBossResultPopupContent2,公会拍卖行获得如下奖励：,,公會拍賣行獲得如下獎勵：,,,,
+GuildEventBossResultPopupRankingButton,查看排行,,查看排行,,,,
+GuildEventBossResultPopupConfirmButton,前往拍卖,,前往拍賣,,,,
+GuildEventBossRankingPopupTitle,排行,,排行,,,,
+GuildEventBossRankingPopupRanking,名次,,名次,,,,
+GuildEventBossRankingPopupPlayerName,玩家名字,,玩家名字,,,,
+GuildEventBossRankingPopupPoint,积分,,積分,,,,
+GuildEventBossRankingPopupBattlePower,战力,,戰力,,,,
+GuildEventBossRankingPopoupPlayerGuild,公会：,,公會：,,,,
+GuildEventBossRankingPopoupGuildLevel,Grade：,,等級：,,,,
+GuildEventBossNoRanking,未上榜,,未上榜,,,,
+GuildEventBoss_Message_BossChallenge,{0}对{1}进行一番挑战，成功获得{2}积分。,,{0}對{1}進行一番挑戰，成功獲得{2}積分。,,,,
+GuildEventBoss_Message_UserChallenge,{0}对{1}进行一番挑战，成功获得{2}积分。,,{0}對{1}進行一番挑戰，成功獲得{2}積分。,,,,
+GuildEventBoss_Message_UserChallenge_NoPoint,{0}对{1}进行一番挑战，但没有得到任何积分。,,{0}對{1}進行一番挑戰，但沒有得到任何積分。,,,,
+GuildEventBoss_LogPopup_Title,纪录,,紀錄,,,,
+GuildEventBoss_LogPopup_All,全部,,全部,,,,
+GuildEventBoss_LogPopup_Self,个人,,個人,,,,
+GuildEventBossHowToPlay_Title,说明,,說明,,,,
+GuildEventBossHowToPlay_Content,"Basic rules
+1.伺服器开服后第2日后,诸神回归系统将会开启。
+2.参与活动需求公会Grade达到2级或以上,玩家Grade达到26级或以上。
+3.诸神回归每次开启后持续10分钟,剩余时间在60%和30%时,每次挑战诸神获取的积分提升至2倍和3倍。
+4.挑战诸神后将进入2分30秒的挑战冷却时间,冷却时间恢复后可继续挑战诸神。
+
+挑战规则
+1.活动过程中,可挑战其他公会玩家,根据击退敌方角色人数获得相应的系统赠予积分。
+2.挑战其他玩家后,将进入2分30秒的战斗冷却时间,冷却时间恢复后可继续挑战其他玩家。
+3.本次活动中挑战过你的玩家将会标记为你的「对立」关系。
+
+基础奖励
+1.参与活动的玩家根据所在公会积分排名可获得公会积分排名奖励。
+2.参与活动的玩家根据个人积分排名可获得个人积分排名奖励。
+
+拍卖奖励
+1.活动结束后,系统将根据此次活动的公会排名,发送货物至公会拍卖行中拍卖。",,"基礎規則
+1.伺服器開服後第2日後,諸神回歸系統將會開啟。
+2.參與活動需求公會等級達到2級或以上,玩家等級達到26級或以上。
+3.諸神回歸每次開啟後持續10分鐘,剩餘時間在60%和30%時,每次挑戰諸神獲取的積分提升至2倍和3倍。
+4.挑戰諸神後將進入2分30秒的挑戰冷卻時間,冷卻時間恢復後可繼續挑戰諸神。
+
+挑戰規則
+1.活動過程中,可挑戰其他公會玩家,根據擊退敵方角色人數獲得相應的系統贈予積分。
+2.挑戰其他玩家後,將進入2分30秒的戰鬥冷卻時間,冷卻時間恢復後可繼續挑戰其他玩家。
+3.本次活動中挑戰過你的玩家將會標記為你的「對立」關係。
+
+基礎獎勵
+1.參與活動的玩家根據所在公會積分排名可獲得公會積分排名獎勵。
+2.參與活動的玩家根據個人積分排名可獲得個人積分排名獎勵。
+
+拍賣獎勵
+1.活動結束後,系統將根據此次活動的公會排名,發送貨物至公會拍賣行中拍賣。",,,,
+GuildEvent_NotEnoughUserLevel,"Grade不足{0}级, 无法参与活动",,"等級不足{0}級, 無法參與活動",,,,
+GuildEvent_NotEnoughGuildLevel,"公会Grade不足{0}级, 无法参与活动",,"公會等級不足{0}級, 無法參與活動",,,,
+,,,,,,,
+#GuildEventRaceMainPage,,,,,,,
+GuildEventRaceMainPageTitle,银河铁道,,銀河鐵道,,,,
+GuildEventRaceMainPageStartCountDown,距离开始,,距離開始,,,,
+GuildEventRaceMainPageEventTime,活动时间 : 每日19:48,,活動時間 : 每日19:48,,,,
+GuildEventRaceMainPageEventEnd,活动结束,,活動結束,,,,
+GuildEventRaceMainPageOnBoard,登车,,登車,,,,
+GuildEventRaceMainPageInfoMemberAttend,参与:,,參與:,,,,
+GuildEventRaceMainPageInfoSpeed,速度:,,速度:,,,,
+GuildEventRaceMainPageInfoSupportRate,赞助:,,贊助:,,,,
+GuildEventRaceMainPageInfoTotalPower,总战力:,,總戰力:,,,,
+GuildEventRaceMainPageSupportButton,赞助,,贊助,,,,
+GuildEventRaceMainHowToPlay_Title,说明,,說明,,,,
+GuildEventRaceMainHowToPlay_Content,"阶段介绍
+1.银河铁道分为上车阶段和比赛阶段
+2.上车阶段时长为5:00至19:48,此阶段为公会玩家聚集阶段,可登上列车和为公会列车赞助
+3.每上车一位玩家,增加列车一定的基础速度
+4.每赞助1次,可为列车提速5%,公会总赞助上限10次
+
+比赛阶段
+1.比赛阶段,公会成员也可以上车和赞助。
+2.在整个赛程中,存在多个虚空触手,会减慢列车速度,公会成员可集火攻击虚空触手,摆脱虚空触手控制。
+3.虚空触手30秒后消失,消失时结算对虚空触手的伤害,可获得道具:导弹、加速、电磁炮、Shield。
+4.假如玩家报名后未上线,则不会获得道具,道具会随机到线上的玩家手里。
+
+工具动作
+1.导弹:虚空触手出水30秒后,会自动消失,消失时结算公会对虚空触手的伤害,获得固定量的导弹,平均到每位船上的玩家,导弹可挑战非本公会列车上的玩家,每支导弹消耗8%的生命。
+2.加速:击退虚空触手,公会获得固定量的加速,平均到每位玩家身上,每支加速可加速公会列车1%的速度,持续10秒。
+3.电磁炮:对虚空触手造成伤害过程中,机率掉落1个电磁炮到船上某一个成员中,电磁炮可对非本公会列车造成眩晕,减速25%,持续10秒。
+4.Shield:对虚空触手造成伤害过程中,机率掉落1个阵看到船上某一个成员中,阵持续10秒时间,此期间内,抵挡一切导弹和电磁炮的攻击。
+
+排名奖励
+1.根据跑完整个赛程的时间,计算公会排名。
+2.比赛结束后,根据公会列车名次,发放对应的奖励至邮箱中。
+3.活动结束后,会开启银河铁道拍卖行。",,"階段介紹
+1.銀河鐵道分為上車階段和比賽階段
+2.上車階段時長為5:00至19:48,此階段為公會玩家聚集階段,可登上列車和為公會列車贊助
+3.每上車一位玩家,增加列車一定的基礎速度
+4.每贊助1次,可為列車提速5%,公會總贊助上限10次
+
+比賽階段
+1.比賽階段,公會成員也可以上車和贊助。
+2.在整個賽程中,存在多個虛空觸手,會減慢列車速度,公會成員可集火攻擊虛空觸手,擺脫虛空觸手控制。
+3.虛空觸手30秒後消失,消失時結算對虛空觸手的傷害,可獲得道具:導彈、加速、電磁炮、護盾。
+4.假如玩家報名後未上線,則不會獲得道具,道具會隨機到線上的玩家手裡。
+
+工具動作
+1.導彈:虛空觸手出水30秒後,會自動消失,消失時結算公會對虛空觸手的傷害,獲得固定量的導彈,平均到每位船上的玩家,導彈可挑戰非本公會列車上的玩家,每支導彈消耗8%的生命。
+2.加速:擊退虛空觸手,公會獲得固定量的加速,平均到每位玩家身上,每支加速可加速公會列車1%的速度,持續10秒。
+3.電磁炮:對虛空觸手造成傷害過程中,機率掉落1個電磁炮到船上某一個成員中,電磁炮可對非本公會列車造成眩暈,減速25%,持續10秒。
+4.護盾:對虛空觸手造成傷害過程中,機率掉落1個陣看到船上某一個成員中,陣持續10秒時間,此期間內,抵擋一切導彈和電磁炮的攻擊。
+
+排名獎勵
+1.根據跑完整個賽程的時間,計算公會排名。
+2.比賽結束後,根據公會列車名次,發放對應的獎勵至郵箱中。
+3.活動結束後,會開啟銀河鐵道拍賣行。",,,,
+GuildEventRaceSupportPopup_Reward,赞助可获得,,贊助可獲得,,,,
+GuildEventRaceSupportPopup_SpeedUp,赞助可增加铁道{0}%速度,,贊助可增加鐵道{0}%速度,,,,
+GuildEventRaceSupportPopup_Cell_SpeedUp,为铁道增加了{0}%的速度,,為鐵道增加了{0}%的速度,,,,
+GuildEventRaceSupportPopup_SupportNotOnBoard,需先上车才可以赞助,,需先上車才可以贊助,,,,
+,,,,,,,
+,,,,,,,
+#GuildEventRaceGamePage,,,,,,,
+GuildEventRaceGamePageTitle,银河铁道,,銀河鐵道,,,,
+GuildEventRaceGamePageRankingTitle,即时排名,,即時排名,,,,
+GuildEventRaceGamePageButtonMissile,导弹,,導彈,,,,
+GuildEventRaceGamePageButtonMissileDesc,使用导弹攻击目标,,使用導彈攻擊目標,,,,
+GuildRaceActionMissileTip,使用十个导弹,,使用十個導彈,,,,
+GuildEventRaceGamePageButtonBoost,加速,,加速,,,,
+GuildEventRaceGamePageButtonBoostDesc,使用加速,,使用加速,,,,
+GuildRaceActionBoostTip,使用十个加速,,使用十個加速,,,,
+GuildEventRaceGamePageButtonLaser,电磁炮,,電磁砲,,,,
+GuildEventRaceGamePageButtonLaserDesc,使用电磁炮攻击目标,,使用電磁砲攻擊目標,,,,
+GuildEventRaceGamePageButtonShield,Shield,,護盾,,,,
+GuildEventRaceGamePageButtonShieldDesc,使用防御攻击,,使用防禦攻擊,,,,
+GuildEventRaceGamePage_UseItem,使用,,使用,,,,
+GuildEventRaceGamePage_UseItemAttack,攻击,,攻擊,,,,
+GuildEventRaceGamePageCountdown,活动倒计时: {0},,活動倒計時: {0},,,,
+GuildEventRace_MemberCount,{0}人,,{0}人,,,,
+GuildEventRace_Speed,{0}m/s,,{0}m/s,,,,
+GuildEventRace_Distance,{0}m,,{0}m,,,,
+GuildEventRaceGamePage_AttackAlert,即将受到<color=#33C3BF>{0}</color>发射的导弹{1}个,,即將受到<color=#33C3BF>{0}</color>發射的導彈{1}個,,,,
+GuildEventRaceGamePage_BossReduceSpeed,空间扭曲减少50%速度,,空間扭曲減少50%速度,,,,
+GuildEventRaceGamePage_DamageAccum,总共造成伤害{0},,總共造成傷害{0},,,,
+GuildEventRaceGamePage_Damage,{0}造成伤害{1},,{0}造成傷害{1},,,,
+GuildEventRaceGamePage_ShipFallDownAlert,"{0}落车, 10秒之后, 才能重新上车",,"{0}落車, 10秒之後, 才能重新上車",,,,
+GuildEventRaceGamePage_UserFallDownAlert,"你所在的地方受到炮击, 正紧急维修中",,"你所在的地方受到炮擊, 正緊急維修中",,,,
+GuildEventRaceGamePage_AuctionDescription,"列车顺利到达, 你的公会<#FF9933>{0}</color>总用时<#66DDDD>{1}</color>,排名第<#66DDDD>{2}</color>\n
+本次活动, 共获得公会资金<#66DDDD>{3}</color>, 公会积分<#66DDDD>{4}</color>",,"列車順利到達, 你的公會<#FF9933>{0}</color>總用時<#66DDDD>{1}</color>,排名第<#66DDDD>{2}</color>\n
+本次活動, 共獲得公會資金<#66DDDD>{3}</color>, 公會積分<#66DDDD>{4}</color>",,,,
+GuildEventRaceGamePage_AuctionDescription_NotFinish,"列车未能顺利到达, 你的公会<#FF9933>{0}</color>行走了<#66DDDD>{1}m</color>,排名第<#66DDDD>{2}</color>\n
+本次活动, 共获得公会资金<#66DDDD>{3}</color>, 公会积分<#66DDDD>{4}</color>",,"列車未能順利到達, 你的公會<#FF9933>{0}</color>行走了<#66DDDD>{1}m</color>,排名第<#66DDDD>{2}</color>\n
+本次活動, 共獲得公會資金<#66DDDD>{3}</color>, 公會積分<#66DDDD>{4}</color>",,,,
+GuildEventRace_Result_SystemMessage,"银河铁道活动, 公会获得第{0}名的成绩, 获得资金{1}, 获得公会积分{2}, 获得珍稀战利品如下:{3}",,"銀河鐵道活動, 公會獲得第{0}名的成績, 獲得資金{1}, 獲得公會積分{2}, 獲得珍稀戰利品如下:{3}",,,,
+GuildEventRace_Result_SystemMessage_Join,", ",,", ",,,,
+GuildEventRaceRankingPopupBar_GuildName,公会,,公會,,,,
+GuildEventRaceRankingPopupBar_Time,用时,,用時,,,,
+GuildEventRaceRankingPopupBar_Reward,奖励,,獎勵,,,,
+GuildEventRaceRankingPopupBar_JoinMemberCount,参与人数：,,參與人數：,,,,
+,,,,,,,
+#GuildEventRaceMemberListPopup,,,,,,,
+GuildEventRaceMemberListPopupTitle,成员列表,,成員列表,,,,
+GuildEventRaceMemberListPopupMemberName,玩家名称,,玩家名稱,,,,
+GuildEventRaceMemberListPopupMemberPower,战力,,戰力,,,,
+,,,,,,,
+,,,,,,,
+GuildEventContestMainPageTitle,泰坦族大遗址,,泰坦族大遺址,,,,
+GuildEventContestEventTime,活动时间 : 周三/周五/周日 20:00,,活動時間 : 週三/週五/週日 20:00,,,,
+GuildEventContestPlayerCount,公会参与人数 : <#66DDDD>{0}</color>,,公會參與人數 : <#66DDDD>{0}</color>,,,,
+GuildEventContestPreReadyStage,距离活动开始,,距離活動開始,,,,
+GuildEventContestReadyStage,准备阶段,,準備階段,,,,
+GuildEventContestAttackStage,距离活动结束,,距離活動結束,,,,
+GuildEventContestEndStage,活动已结束,,活動已結束,,,,
+GuildEventContestCapture,已攻陷,,已攻陷,,,,
+GuildEventContestReward,奖励,,獎勵,,,,
+GuildEventContestWardetail,战场概况,,戰場概況,,,,
+GuildEventContestDamageRanking,名将伤害排行榜,,名將傷害排行榜,,,,
+GuildEventContestPositionTitle,公会集结座标,,公會集結座標,,,,
+GuildEventContestSendCoordinate,发送座标,,發送座標,,,,
+GuildEventContestCurrentPosition,当前位置,,當前位置,,,,
+GuildEventContestMove,移动,,移動,,,,
+GuildEventContestGather,集结,,集結,,,,
+GuildEventContestMoving,移动中,,移動中,,,,
+GuildEventContestAutoMoving,自动移动中,,自動移動中,,,,
+GuildEventContestReviveTimeFormat,{0}秒,,{0}秒,,,,
+GuildEventContestReviveAlert,兵力不足，补充兵力中...,,兵力不足，補充兵力中...,,,,
+GuildEventContestWinningStreak,已经{0}连胜，所向披靡！,,已經{0}連勝，所向披靡！,,,,
+GuildEventContest_Tag_RewardUp,报酬 + {0}%,,報酬 + {0}%,,,,
+GuildEventContest_Tag_DamageUp,伤害 + {0}%,,傷害 + {0}%,,,,
+GuildEventContestCountdownFormat,准备倒计时 : {0},,準備倒計時 : {0},,,,
+GuildEventContestTimerFormat,结束倒计时 : {0},,結束倒計時 : {0},,,,
+,,,,,,,
+GuildEventContest_boss1,王A,,王A,,,,
+GuildEventContest_boss2,王B,,王B,,,,
+GuildEventContest_boss3,王C,,王C,,,,
+GuildEventContest_boss4,王D,,王D,,,,
+GuildEventContest_boss5,王E,,王E,,,,
+GuildEventContest_boss6,王F,,王F,,,,
+GuildEventContest_area0,起点,,起點,,,,
+GuildEventContest_area1,中间点,,中間點,,,,
+GuildEventContest_area2,北方,,北方,,,,
+GuildEventContest_area3,南方,,南方,,,,
+GuildEventContest_PositionFormat,{0} - {1},,{0} - {1},,,,
+GuildEventContest_BossNameWithDifficulty,{0}({1}),,{0}({1}),,,,
+GuildEventContest_Difficulty_Normal,普通,,普通,,,,
+GuildEventContest_Difficulty_Hard,困难,,困難,,,,
+,,,,,,,
+GuildEventContestBattlefieldStatusPopup_HighestDamage_None,暂无,,暫無,,,,
+,,,,,,,
+GuildEventContest_boss_real_death,{0}的本体已被击倒,,{0}的本體已被擊倒,,,,
+GuildEventContest_boss_fake_death,{0}的分身逃走了,,{0}的分身逃走了,,,,
+GuildEventContest_boss_real_death_lastHit,{0}的本体已被击倒，由本公会打出最后一击,,{0}的本體已被擊倒，由本公會打出最後一擊,,,,
+GuildEventContest_boss_fake_death_lastHit,{0}的分身逃走了，由本公会打出最后一击,,{0}的分身逃走了，由本公會打出最後一擊,,,,
+,,,,,,,
+#GuildEventOccupied,,,,,,,
+GuildEventOccupiedMainPageTitle,亚特兰提斯,,亞特蘭提斯,,,,
+GuildEventOccupiedReadyStage,准备阶段,,準備階段,,,,
+GuildEventOccupiedDeclareStage,宣战阶段,,宣戰階段,,,,
+GuildEventOccupiedAttackStage,战争阶段,,戰爭階段,,,,
+GuildEventOccupiedEndStage,活动已结束,,活動已結束,,,,
+GuildEventOccupiedEventTimeTitle,活动时间:,,活動時間:,,,,
+GuildEventOccupiedEventTime,周二/周六20:00,,週二/週六20:00,,,,
+GuildEventOccupiedCurrentPoint,当前占领据点:,,當前佔領據點:,,,,
+GuildEventOccupiedDeclarePoint,当前宣战据点:,,當前宣戰據點:,,,,
+GuildEventOccupiedDeclareMark,宣战中,,宣戰中,,,,
+GuildEventOccupiedOccupiedMark,占领中,,佔領中,,,,
+GuildEventOccupiedReward,奖励,,獎勵,,,,
+GuildEventOccupiedRanking,排行榜,,排行榜,,,,
+GuildEventOccupiedSendCoordinate,发送座标,,發送座標,,,,
+GuildEventOccupiedCurrentPosition,当前位置,,當前位置,,,,
+GuildEventOccupiedDamageRankingTitle,伤害榜,,傷害榜,,,,
+GuildEventOccupiedPositionTitle,公会集结座标,,公會集結座標,,,,
+GuildEventOccupiedInfoListTItle,据点信息列表,,據點信息列表,,,,
+GuildEventOccupiedMove,移动,,移動,,,,
+GuildEventIOccupiedCoreHPTitle,龙柱耐久度:,,龍柱耐久度:,,,,
+GuildEventOccupiedSetGatherCoordinate,设置,,設置,,,,
+GuildEventOccupiedOccupiedGuildTitle,据点占领公会:,,據點佔領公會:,,,,
+GuildEventOccupiedDefenceTimeTitle,防守时间:,,防守時間:,,,,
+GuildEventOccupiedNoTimer,暂无,,暫無,,,,
+GuildEventOccupiedGuildMemberCount,公会人数: {0},,公會人數: {0},,,,
+GuildEventOccupiedInfoPopupTitle,城池资讯,,城池資訊,,,,
+GuildEventOccupiedInfoPointNameLabel,据点名称:,,據點名稱:,,,,
+GuildEventOccupiedInfoGuildNameLabel,占领公会:,,佔領公會:,,,,
+GuildEventOccupiedInfoGuildCountLabel,宣战公会数量:,,宣戰公會數量:,,,,
+GuildEventOccupiedSpectator,观战,,觀戰,,,,
+GuildEventOccupiedDeclare,宣战,,宣戰,,,,
+GuildEventOccupiedDeclared,已宣战,,已宣戰,,,,
+GuildEventOccupiedEnterCity,进入,,進入,,,,
+GuildEventOccupiedGiveup,放弃,,放棄,,,,
+GuildEventOccupiedCityEnd,此城池已战斗结束,,此城池已戰鬥結束,,,,
+GuildEventOccupiedNotAdmin,只有会长和副会长可以宣战,,只有會長和副會長可以宣戰,,,,
+GuildEventOccupiedRankingTitle,积分排名,,積分排名,,,,
+GuildEventOccupiedRankingRank,名次,,名次,,,,
+GuildEventOccupiedRankingPlayer,玩家名称,,玩家名稱,,,,
+GuildEventOccupiedRankingActive,活跃,,活躍,,,,
+GuildEventOccupiedRankingCount,击败次数,,擊敗次數,,,,
+GuildEventOccupiedEndPopupTitle,提示,,提示,,,,
+GuildEventOccupiedEndPopupContent_DefenceFinish,<#1166CC>{0}<#2E375D>占领核心超过{1}分钟，\n成功占领了{2}!,,<#1166CC>{0}<#2E375D>佔領核心超過{1}分鐘，\n成功佔領了{2}!,,,,
+GuildEventOccupiedEndPopupContent_EventFinish,活动时间已结束，由目前占领核心的\n<#1166CC>{0}<#2E375D>成功占领了{2}!,,活動時間已結束，由目前佔領核心的\n<#1166CC>{0}<#2E375D>成功佔領了{2}!,,,,
+GuildEventOccupiedEndPopupContent_NoWinner,活动时间已结束，没有公会成功占领{0},,活動時間已結束，沒有公會成功佔領{0},,,,
+GuildEventOccupiedCoreCaptureAlert,<#ffffff>能量核\n<#66dddd>{0}成功取得拥有权益!,,<#ffffff>能量核\n<#66dddd>{0}成功取得擁有權益!,,,,
+GuildEventOccupiedAttackAlert_SelfStart_Win,"你挑战了{0}, 战斗成功, 耐久降低{1};{0}耐久降低{2}",,"你挑戰了{0}, 戰鬥成功, 耐久降低{1};{0}耐久降低{2}",,,,
+GuildEventOccupiedAttackAlert_SelfStart_Lose,"你挑战了{0}, 战斗失败, 耐久降低{1};{0}耐久降低{2}",,"你挑戰了{0}, 戰鬥失敗, 耐久降低{1};{0}耐久降低{2}",,,,
+GuildEventOccupiedAttackAlert_OtherStart_Win,"{0}挑战了你, 你成功了, 耐久降低{1};{0}耐久降低{2}",,"{0}挑戰了你, 你成功了, 耐久降低{1};{0}耐久降低{2}",,,,
+GuildEventOccupiedAttackAlert_OtherStart_Lose,"{0}挑战了你, 你失败了, 耐久降低{1};{0}耐久降低{2}",,"{0}挑戰了你, 你失敗了, 耐久降低{1};{0}耐久降低{2}",,,,
+GuildEventOccupiedGatherPosition_None_Normal,公会暂未设置集结座标,,公會暫未設置集結座標,,,,
+GuildEventOccupiedGatherPosition_Set_None,暂未设置,,暫未設置,,,,
+GuildEventOccupiedGatherPosition_Set_Set,SET,,SET,,,,
+GuildEventOccupiedGatherPosition_Set_Del,DEL,,DEL,,,,
+GuildEventOccupiedGatherPosition_Set_Cancel,CANCEL,,CANCEL,,,,
+GuildEventOccupiedGatherPosition_Region,"<link=""{0}""><#33C3BF><{1}></link>",,"<link=""{0}""><#33C3BF><{1}></link>",,,,
+GuildEventOccupied_Chat_GatherPosition,"{0}把集结座标设置在<link=""{1}""><#33C3BF><{2}></link>",,"{0}把集結座標設置在<link=""{1}""><#33C3BF><{2}></link>",,,,
+GuildEventOccupied_Chat_SelfPosition,"{0}发送座标 : <link=""{1}""><#33C3BF><{2}></link>",,"{0}發送座標 : <link=""{1}""><#33C3BF><{2}></link>",,,,
+GuildEventOccupied_CannotRepair,"周边还有敌人, 不能修理核心",,"周邊還有敵人, 不能修理核心",,,,
+,,,,,,,
+GuildEventOccupied_map_0,亚特兰提斯1-1,,亞特蘭提斯1-1,,,,
+GuildEventOccupied_map_1,亚特兰提斯1-2,,亞特蘭提斯1-2,,,,
+GuildEventOccupied_map_2,亚特兰提斯1-3,,亞特蘭提斯1-3,,,,
+GuildEventOccupied_map_3,亚特兰提斯1-4,,亞特蘭提斯1-4,,,,
+GuildEventOccupied_map_4,亚特兰提斯1-5,,亞特蘭提斯1-5,,,,
+GuildEventOccupied_map_5,亚特兰提斯1-6,,亞特蘭提斯1-6,,,,
+GuildEventOccupied_map_6,亚特兰提斯2-1,,亞特蘭提斯2-1,,,,
+GuildEventOccupied_map_7,亚特兰提斯2-2,,亞特蘭提斯2-2,,,,
+GuildEventOccupied_map_8,亚特兰提斯2-3,,亞特蘭提斯2-3,,,,
+GuildEventOccupied_map_9,亚特兰提斯3-1,,亞特蘭提斯3-1,,,,
+,,,,,,,
+GuildEventOccupied_map_1_area0,位置0,,位置0,,,,
+GuildEventOccupied_map_1_area1,位置1,,位置1,,,,
+GuildEventOccupied_map_1_area2,位置2,,位置2,,,,
+GuildEventOccupied_map_1_area3,位置3,,位置3,,,,
+GuildEventOccupied_map_1_area4,位置4,,位置4,,,,
+GuildEventOccupied_map_1_area5,位置5,,位置5,,,,
+GuildEventOccupied_map_1_area6,位置6,,位置6,,,,
+GuildEventOccupied_map_1_area7,闸口A,,閘口A,,,,
+GuildEventOccupied_map_1_area8,闸口B,,閘口B,,,,
+GuildEventOccupied_map_1_area9,位置9,,位置9,,,,
+GuildEventOccupied_map_1_area10,位置10,,位置10,,,,
+GuildEventOccupied_map_1_area11,核心,,核心,,,,
+GuildEventOccupied_map_1_area12,位置12,,位置12,,,,
+GuildEventOccupied_map_1_area13,位置13,,位置13,,,,
+GuildEventOccupied_map_1_area14,位置14,,位置14,,,,
+GuildEventOccupied_map_1_area15,位置15,,位置15,,,,
+GuildEventOccupied_map_2_area0,位置0,,位置0,,,,
+GuildEventOccupied_map_2_area1,位置1,,位置1,,,,
+GuildEventOccupied_map_2_area2,位置2,,位置2,,,,
+GuildEventOccupied_map_2_area3,位置3,,位置3,,,,
+GuildEventOccupied_map_2_area4,位置4,,位置4,,,,
+GuildEventOccupied_map_2_area5,位置5,,位置5,,,,
+GuildEventOccupied_map_2_area6,位置6,,位置6,,,,
+GuildEventOccupied_map_2_area7,位置7,,位置7,,,,
+GuildEventOccupied_map_2_area8,闸口A,,閘口A,,,,
+GuildEventOccupied_map_2_area9,闸口B,,閘口B,,,,
+GuildEventOccupied_map_2_area10,闸口C,,閘口C,,,,
+GuildEventOccupied_map_2_area11,位置11,,位置11,,,,
+GuildEventOccupied_map_2_area12,位置12,,位置12,,,,
+GuildEventOccupied_map_2_area13,位置13,,位置13,,,,
+GuildEventOccupied_map_2_area14,核心,,核心,,,,
+GuildEventOccupied_map_2_area15,位置15,,位置15,,,,
+GuildEventOccupied_map_2_area16,位置16,,位置16,,,,
+GuildEventOccupied_map_2_area17,位置17,,位置17,,,,
+GuildEventOccupied_map_2_area18,位置18,,位置18,,,,
