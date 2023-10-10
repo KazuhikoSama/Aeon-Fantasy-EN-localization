@@ -1,5 +1,5 @@
 # AeonFantasyENLOC
-THIS MOD WORKS ONLY FOR ANDROID******
+THIS MOD WORKS ONLY FOR ANDROID******  
 This project attempts to make the experience of playing Aeon Fantasy much more enjoyable by translating many elements of the game to English.  
 
 #  Disclaimer: 
