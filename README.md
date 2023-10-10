@@ -18,3 +18,8 @@ Not translated:
 
 Story content is located in another file which I haven't been able to locate yet so if you're interested in this
 I suggest you used any screen translator app like Tap to translate.
+
+
+# Issues  
+
+If you find any issues please make sure to specify which part of the game or attach a picture as some of the translations tend to repeat but not all text boxes sizes are equal, so is very common to find text that overflows of the screen or cuts.
