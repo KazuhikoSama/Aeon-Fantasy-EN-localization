@@ -1,7 +1,7 @@
 # AeonFantasyENLOC
 This project attempts to make the experience of playing Aeon Fantasy much more enjoyable by translating many elements of the game to English.  
 
-#  Disclaimer*: 
+#  Disclaimer: 
 I do not take credit for any of the game resourse files, content, music or assets in general nor this project is associated in any way to the developer.
 This tool provides only a modification for the localization file and it against TOS, proceed at your own risk.
   
