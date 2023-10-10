@@ -7,8 +7,8 @@ This tool provides only a modification for the localization file and it against 
   
 #  How to install  
 -Navigate to your game install directory, it should be under: Android/data/com.dff.rppprd/files/Assets/Data  
--Create a backup of the file "Localization.csv"  
--Copy and paste the translated localization file into this directory  
+-Create a backup of the file "Localization.csv" inside (just rename to localization2.csv or something)
+-Copy and paste the translated localization file from this git into this directory Android/data/com.dff.rppprd/files/Assets/Data  
 -Launch the game  
   
 Patch translates:  
