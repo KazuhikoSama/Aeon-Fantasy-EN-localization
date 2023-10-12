@@ -1,0 +1,230 @@
+,,,,,,,
+#AuctionMainPage,,,,,,,
+AuctionMainPageTitle,Auction,,戰利品,,,,
+AuctionMainPageTabDividend,Dividend rewards,,分紅獎勵,,,,
+AuctionMainPageTabGuild,Guild Auction,,公會拍賣,,,,
+AuctionMainPageTabServer,Server Auction,,本服拍賣,,,,
+AuctionMainPageButtonWishList,Wish list,,心願清單,,,,
+AuctionMainPageButtonBidRecord,Bid record,,拍賣記錄,,,,
+AuctionItemBarLeading,Leading,,領先,,,,
+AuctionItemBarBidding,Under bid...,,競拍中...,,,,
+AuctionItemBarNotLeading,Being overtaken,,被超,,,,
+AuctionItemBarSold,Sold,,已經出售,,,,
+AuctionItemBarNoBid,Bid has been lost,,已流標,,,,
+AuctionItemBarButtonBid,Bid,,競價,,,,
+AuctionItemBarButtonBuy,Buy,,購買,,,,
+AuctionItemBarTimeBefore,"After {0}
+The auction starts ",," after {0}
+Auction starts",,,,
+AuctionItemBarTime,"After {0}
+After the auction ends",,"{0}
+Auction ends",,,,
+AuctionItemBarTimeEnd,Auction ends,,拍賣結束,,,,
+AuctionItemBarNotEnoughGem,Not enough gems,,石數不足,,,,
+,,,,,,,
+#AuctionSubPageDividend,,,,,,,
+AuctionDividendAirshipStart,Opens at 19:45,,19:45開啟,,,,
+AuctionDividendEventStart,Open at 20:00,,20:00開啟,,,,
+AuctionDividendEventEnd,Finished,,已結束,,,,
+AuctionDividendCellReward,Activity rewards,,活動獎勵,,,,
+AuctionDividendCellAttend,Participation,,參加,,,,
+AuctionDividendCellBid,Bid,,拍賣,,,,
+AuctionDividendCellTips,You can collect it after the guild auction ends.,,公會競拍結束後可領取,,,,
+AuctionDividendCellNotStart,Not started yet,,未開始,,,,
+,,,,,,,
+#AuctionSubPageGuild,,,,,,,
+AuctionSubPageGuildTab_0,Galaxy Railway,,銀河鐵道,,,,
+AuctionSubPageGuildTab_1,The gods return,,諸神回歸,,,,
+AuctionSubPageGuildTips,Purchasing guild loot can slightly increase loot rewards,,購買公會戰利品可以少量提升戰利品獎勵,,,,
+AuctionSubPageGuildNotStart,"Today's auction has not started yet
+please come back later
+
+<color=#0078FF>20:00</color>The auction will start after the guild event",,"Today's auction has not started yet
+please come back later
+
+<color=#0078FF>20:00</color>The auction will start after the guild event",,,,
+,,,,,,,
+#AuctionSubPageServer,,,,,,,
+AuctionSubPageServerTab_0,Role,,角色,,,,
+AuctionSubPageServerTab_1,Beast god,,獸神,,,,
+AuctionSubPageServerTab_2,Tool,,道具,,,,
+AuctionSubPageServerTab_3,Other,,其他,,,,
+AuctionSubPageServerTips,This auction does not participate in dividends,,本場拍賣不參與分紅,,,,
+AuctionSubPageServerNotStart,The auction will start after the guild auction ends,,公會拍賣結束後開啟拍賣,,,,
+,,,,,,,
+#AuctionBidConfirmPopup,,,,,,,
+AuctionBidConfirmPopupTitle,Auction bid,,競拍出價,,,,
+AuctionBidConfirmPopupText1,Confirm bid,,確定要花費,,,,
+AuctionBidConfirmPopupText2,Participate,,參與,,,,
+AuctionBidConfirmPopupText3,Bid?,,的競拍嗎?,,,,
+,,,,,,,
+#AuctionBidConfirmPopup,,,,,,,
+AuctionBuyConfirmPopupTitle,Bid to buy,,競拍購買,,,,
+AuctionBuyConfirmPopupText1,Confirm bid,,確定要花費,,,,
+AuctionBuyConfirmPopupText2,Buy,,購買,,,,
+AuctionBuyConfirmPopupText3,Bid?,,的競拍嗎?,,,,
+,,,,,,,
+#AuctionBidRecordPopup,,,,,,,
+AuctionBidRecordPopupTitle,Auction records,,拍賣記錄,,,,
+AuctionBidRecordPopupTabPersonal,Personal,,個人,,,,
+AuctionBidRecordPopupTabGuild,Guild,,公會,,,,
+AuctionBidRecordPopupTransactionDate,Transaction date,,交易時間,,,,
+AuctionBidRecordPopupBidItem,Bid item,,拍價品,,,,
+AuctionBidRecordPopupConsume,Consumption,,交易消耗,,,,
+AuctionBidRecordPopupRemark,Notes,,交易備註,,,,
+AuctionBidRecordPopupSuccess,Succesful bids,,競拍成功,,,,
+AuctionBidRecordPopupFail,Failed bids,,競拍失敗,,,,
+AuctionBidRecordPopupBidFail,Bid currency returned,,競價貨幣已返還,,,,
+AuctionBidRecordPopupNoBid,No bid,,流標,,,,
+AuctionGuildBidRecordList_Title,Bidding details,,競拍明細,,,,
+AuctionGuildBidRecordList_Count,{0}th time,,第{0}次,,,,
+AuctionGuildBidRecordList_NoRecord,No one is bidding yet,,暫無人競拍,,,,
+,,,,,,,
+#AuctionWishListPopup,,,,,,,
+AuctionWishListPopupTitle,Wish list,,心願清單,,,,
+AuctionWishListPopupAuctionItem,Auction items,,拍賣品,,,,
+AuctionWishListPopupBidPrice,Bid price,,競拍價,,,,
+AuctionWishListPopupBuyPrice,Fixed price,,一口價,,,,
+AuctionWishListPopupStatus,Status,,狀態,,,,
+AuctionWishListPopupEmpty,No wishes yet,,暫無任何心願,,,,
+,,,,,,,
+#AuctionHelpInfoPopup,,,,,,,
+AuctionHelpInfoPopupTitle,Loot,,戰利品,,,,
+AuctionHelpInfoPopupDetailTitle,Detailed rules,,詳細規則,,,,
+AuctionHelpInfoPopupDetailContent,"Exchange
+1. The exchange is divided into guild auction and local auction.
+2. Only players who have joined the guild can participate in the Guild Exchange.
+3. All players in this server can participate in the exchange.
+
+Guild Exchange
+1. Guild exchange, participants are limited to members of the guild
+2. Exchange loot comes from guild-related activities
+3. When the loot is sold on the exchange, players participating in the event can receive dividends
+
+world exchange
+1. World Exchange, all players in this server can participate
+
+Auction rules
+1. Purchase of loot on the exchange, including bidding and fixed price
+2. The base price of the loot is the low price of the auction, and the highest price is the fixed price.
+3. At the end of the auction, the highest bidder gets the spoils
+4. When the loot is purchased at a fixed price, the purchased loot is calculated immediately and is no longer subject to bidding.
+5. When bidding, you need to pre-consume currency. When the bidding fails, the currency will be directly returned to the player's account or sent by email.
+6. After the auction ends, the resources obtained by players' bidding will be sent in the form of emails. The guild dividends obtained can be collected by themselves in the dividend interface. If the dividends are not collected in time, they will be sent in the form of emails at 05:00 the next day.","交易所
+1.交易所分為公會拍賣和本服拍賣
+2.公會交易所只有加入公會的玩家可以參與
+3.本服交易所本服所有玩家可以參與
+
+公會交易所
+1.公會交易所，參與人員僅限本公會成員
+2.交易所戰利品來源於公會相關活動
+3.交易所中戰利品售出，參與活動的玩家可以分紅
+
+世界交易所
+1.世界交易所，本服所有玩家可以參與
+
+競拍規則
+1.交易所中戰利品購買，包括競價和一口價
+2.戰利品的基礎價為競價的低價，最高價為一口價
+3.拍賣結束時，出價最高者獲得戰利品
+4.當戰利品被一口價購買時，被購買戰利品立即計算，不再被競價
+5.競價時，需要預消耗貨幣，當競價失敗時，貨幣將直接返還到玩家賬戶或是以郵件形式發送
+6.拍賣結束後，玩家競價獲得的資源將以郵件的形式發送，獲得的公會分紅可以在分紅介面中自行領取，若未及時領取分紅將以郵件的形式於次日05:00發送
+",,,,
+,,,,,,,
+#Auction Bullet Screen,,,,,,,
+AuctionBulletScreen_Bid,Your bid for {0} has been updated.,,你競拍的{0}競價更新了,,,,
+AuctionBulletScreen_Buy,The {0} you bid for has been purchased by someone else at the same price.,,你競拍的{0}已被其他人一口價購買了,,,,
+,,,,,,,
+#MainGameMainPage,,,,,,,
+MainGameMainPageTitle,Action record,,行動記錄,,,,
+MainGameMainPageTabMiniGame,Mini game,,小遊戲,,,,
+MainGameMainPageTabSideStory,Side Story,,情報,,,,
+MainGameMainPageTabVisit,Visit,,再會,,,,
+MainGameMainPageTabVisitLockAlert,Unlocked after reaching level 23,,到達23級後解鎖再會,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+MainGameSubPageSideStoryEmpty,There is currently no information,,當前暫無情報,,,,
+MainGameSubPageMiniGameEmpty,Unlock mini-games after clearing 7-10,,通關7-10後解鎖小遊戲,,,,
+MainGameSubPageMiniGameAchievementButton,Play records,,遊玩記錄,,,,
+MiniGameAchievementPopupTitle,Play records,,遊玩記錄,,,,
+,,,,,,,
+BattleUnlockRequirementTips,Level conditions for unlocking not meet,,未完成解鎖關卡條件,,,,
+BattleUnlockRequirementRedirect,Go to,,前往,,,,
+,,,,,,,
+#BattleUnlockBubble,,,,,,,
+BattleUnlockRequirement_4-1,3 Star Gods advanced to +1 to unlock,,3個星神進階到+1解鎖關卡,,,,
+BattleUnlockRequirement_5-1,Create 6 pieces of equipment to unlock,,打造6件裝備解鎖關卡,,,,
+BattleUnlockRequirement_6-1,3 Star Gods advanced to +2 to unlock,,3個星神進階到+2解鎖關卡,,,,
+BattleUnlockRequirement_7-1,Create 24 pieces of equipment to unlock,,打造24件裝備解鎖關卡,,,,
+BattleUnlockRequirement_8-1,2 Star Gods advanced to +3 to unlock,,2個星神進階到+3解鎖關卡,,,,
+BattleUnlockRequirement_9-1,4 pieces of equipment reach overload +2 to unlock,,4件裝備達超載+2解鎖關卡,,,,
+BattleUnlockRequirement_10-1,6 Star Gods advanced to +3 to unlock,,6個星神進階到+3解鎖關卡,,,,
+BattleUnlockRequirement_15-1,3 Star Gods advanced to +4 to unlock,,3個星神進階到+4解鎖關卡,,,,
+BattleUnlockRequirement_16-1,Reach level 31 to unlock,,玩家到達31級後解鎖關卡,,,,
+BattleUnlockRequirement_19-1,Upgrade 5 Star Gods to +4 to unlock,,5個星神進階到+4解鎖關卡,,,,
+BattleUnlockRequirement_20-1,1 Star God advanced to +5 to unlock,,1個星神進階到+5解鎖關卡,,,,
+BattleUnlockRequirement_23-1,3 Star Gods advanced to +5 to unlock,,3個星神進階到+5解鎖關卡,,,,
+BattleUnlockRequirement_24-1,Reach level 36 to unlock,,玩家到達36級後解鎖關卡,,,,
+BattleUnlockRequirement_28-1,5 Star Gods advanced to +5 to unlock,,5個星神進階到+5解鎖關卡,,,,
+BattleUnlockRequirement_32-1,Reach level 40 to unlock,,玩家到達40級後解鎖關卡,,,,
+BattleUnlockRequirement_33-1,6 Star Gods advanced to +5 to unlock,,6個星神進階到+5解鎖關卡,,,,
+BattleUnlockRequirement_39-1,Reach level 40 to unlock,,玩家到達42級後解鎖關卡,,,,
+BattleUnlockRequirement_45-1,Reach level 44 to unlock,,玩家到達44級後解鎖關卡,,,,
+BattleUnlockRequirement_51-1,Reach level 46 to unlock,,玩家到達46級後解鎖關卡,,,,
+BattleUnlockRequirement_56-1,Reach level 48 to unlock,,玩家到達48級後解鎖關卡,,,,
+BattleUnlockRequirement_61-1,Reach level 50 to unlock,,玩家到達50級後解鎖關卡,,,,
+BattleUnlockRequirement_65-1,Reach level 52 to unlock,,玩家到達52級後解鎖關卡,,,,
+BattleUnlockRequirement_69-1,Reach level 54 to unlock,,玩家到達54級後解鎖關卡,,,,
+BattleUnlockRequirement_73-1,Reach level 56 to unlock,,玩家到達56級後解鎖關卡,,,,
+BattleUnlockRequirement_77-1,Reach level 58 to unlock,,玩家到達58級後解鎖關卡,,,,
+BattleUnlockRequirement_81-1,Reach level 60 to unlock,,玩家到達60級後解鎖關卡,,,,
+BattleUnlockRequirement_85-1,Reach level 62 to unlock,,玩家到達62級後解鎖關卡,,,,
+BattleUnlockRequirement_89-1,Reach level 64 to unlock,,玩家到達64級後解鎖關卡,,,,
+BattleUnlockRequirement_93-1,Reach level 66 to unlock,,玩家到達66級後解鎖關卡,,,,
+BattleUnlockRequirement_97-1,Reach level 68 to unlock,,玩家到達68級後解鎖關卡,,,,
+BattleUnlockRequirement_101-1,Reach level 70 to unlock,,玩家到達70級後解鎖關卡,,,,
+BattleUnlockRequirement_105-1,Reach level 72 to unlock,,玩家到達72級後解鎖關卡,,,,
+BattleUnlockRequirement_109-1,Reach level 74 to unlock,,玩家到達74級後解鎖關卡,,,,
+BattleUnlockRequirement_113-1,Reach level 76 to unlock,,玩家到達76級後解鎖關卡,,,,
+BattleUnlockRequirement_117-1,Reach level 78 to unlock,,玩家到達78級後解鎖關卡,,,,
+BattleUnlockRequirement_121-1,Reach level 80 to unlock,,玩家到達80級後解鎖關卡,,,,
+BattleUnlockRequirement_125-1,Reach level 82 to unlock,,玩家到達82級後解鎖關卡,,,,
+BattleUnlockRequirement_129-1,Reach level 84 to unlock,,玩家到達84級後解鎖關卡,,,,
+BattleUnlockRequirement_133-1,Reach level 86 to unlock,,玩家到達86級後解鎖關卡,,,,
+BattleUnlockRequirement_137-1,Reach level 88 to unlock,,玩家到達88級後解鎖關卡,,,,
+BattleUnlockRequirement_141-1,Reach level 90 to unlock,,玩家到達90級後解鎖關卡,,,,
+BattleUnlockRequirement_145-1,Reach level 92 to unlock,,玩家到達92級後解鎖關卡,,,,
+BattleUnlockRequirement_149-1,Reach level 94 to unlock,,玩家到達94級後解鎖關卡,,,,
+BattleUnlockRequirement_153-1,Reach level 96 to unlock,,玩家到達96級後解鎖關卡,,,,
+BattleUnlockRequirement_157-1,Reach level 98 to unlock,,玩家到達98級後解鎖關卡,,,,
+,,,,,,,
+BattleUnlockRequirement_H6-1,Simulation levels are being prepared，more challenges available tomorrow。,,模擬關卡預備中，明日可以進行更多挑戰。,,,,
+BattleUnlockRequirement_H11-1,Simulation levels are being prepared，more challenges available tomorrow。,,模擬關卡預備中，明日可以進行更多挑戰。,,,,
+BattleUnlockRequirement_H16-1,Simulation levels are being prepared，more challenges available tomorrow。,,模擬關卡預備中，明日可以進行更多挑戰。,,,,
+BattleUnlockRequirement_H21-1,Simulation levels are being prepared，more challenges available tomorrow。,,模擬關卡預備中，明日可以進行更多挑戰。,,,,
+BattleUnlockRequirement_H26-1,Simulation levels are being prepared，more challenges available tomorrow。,,模擬關卡預備中，明日可以進行更多挑戰。,,,,
+BattleUnlockRequirement_H31-1,Simulation levels are being prepared，more challenges available tomorrow。,,模擬關卡預備中，明日可以進行更多挑戰。,,,,
+BattleUnlockRequirement_H36-1,Simulation levels are being prepared，more challenges available tomorrow。,,模擬關卡預備中，明日可以進行更多挑戰。,,,,
+BattleUnlockRequirement_H41-1,Simulation levels are being prepared，more challenges available tomorrow。,,模擬關卡預備中，明日可以進行更多挑戰。,,,,
+BattleUnlockRequirement_H46-1,Simulation levels are being prepared，more challenges available tomorrow。,,模擬關卡預備中，明日可以進行更多挑戰。,,,,
+BattleUnlockRequirement_H51-1,Simulation levels are being prepared，more challenges available tomorrow。,,模擬關卡預備中，明日可以進行更多挑戰。,,,,
+BattleUnlockRequirement_H56-1,Simulation levels are being prepared，more challenges available tomorrow。,,模擬關卡預備中，明日可以進行更多挑戰。,,,,
+BattleUnlockRequirement_H61-1,Simulation levels are being prepared，more challenges available tomorrow。,,模擬關卡預備中，明日可以進行更多挑戰。,,,,
+BattleUnlockRequirement_H66-1,Simulation levels are being prepared，more challenges available tomorrow。,,模擬關卡預備中，明日可以進行更多挑戰。,,,,
+BattleUnlockRequirement_H71-1,Simulation levels are being prepared，more challenges available tomorrow。,,模擬關卡預備中，明日可以進行更多挑戰。,,,,
+BattleUnlockRequirement_H76-1,Simulation levels are being prepared，more challenges available tomorrow。,,模擬關卡預備中，明日可以進行更多挑戰。,,,,
+BattleUnlockRequirement_H81-1,Simulation levels are being prepared，more challenges available tomorrow。,,模擬關卡預備中，明日可以進行更多挑戰。,,,,
+BattleUnlockRequirement_H86-1,Simulation levels are being prepared，more challenges available tomorrow。,,模擬關卡預備中，明日可以進行更多挑戰。,,,,
+BattleUnlockRequirement_H91-1,Simulation levels are being prepared，more challenges available tomorrow。,,模擬關卡預備中，明日可以進行更多挑戰。,,,,
+BattleUnlockRequirement_H96-1,Simulation levels are being prepared，more challenges available tomorrow。,,模擬關卡預備中，明日可以進行更多挑戰。,,,,
+BattleUnlockRequirement_H101-1,Simulation levels are being prepared，more challenges available tomorrow。,,模擬關卡預備中，明日可以進行更多挑戰。,,,,
+BattleUnlockRequirement_H106-1,Simulation levels are being prepared，more challenges available tomorrow。,,模擬關卡預備中，明日可以進行更多挑戰。,,,,
+BattleUnlockRequirement_H111-1,Simulation levels are being prepared，more challenges available tomorrow。,,模擬關卡預備中，明日可以進行更多挑戰。,,,,
+BattleUnlockRequirement_H116-1,Simulation levels are being prepared，more challenges available tomorrow。,,模擬關卡預備中，明日可以進行更多挑戰。,,,,
+BattleUnlockRequirement_H121-1,Simulation levels are being prepared，more challenges available tomorrow。,,模擬關卡預備中，明日可以進行更多挑戰。,,,,
+BattleUnlockRequirement_H126-1,Simulation levels are being prepared，more challenges available tomorrow。,,模擬關卡預備中，明日可以進行更多挑戰。,,,,
+BattleUnlockRequirement_H131-1,Simulation levels are being prepared，more challenges available tomorrow。,,模擬關卡預備中，明日可以進行更多挑戰。,,,,
+BattleUnlockRequirement_H136-1,Simulation levels are being prepared，more challenges available tomorrow。,,模擬關卡預備中，明日可以進行更多挑戰。,,,,
+BattleUnlockRequirement_H141-1,Simulation levels are being prepared，more challenges available tomorrow。,,模擬關卡預備中，明日可以進行更多挑戰。,,,,
