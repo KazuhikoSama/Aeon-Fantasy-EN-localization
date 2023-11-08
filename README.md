@@ -16,8 +16,8 @@ Patch translates:
 -Almost all UI content  
 -Skill, talents, potentials, almost all done  
 -Items, items description  
--Almost all Guild related stuff
--Character statistics, Quests, Achievements, etc
+-Almost all Guild related stuff   
+-Character stats, Quests, Achievements, etc
   
 Not translated:  
 -Story content  
