@@ -8,7 +8,7 @@ This tool provides only a modification for the localization file and it against 
   
 #  How to install  
 -Navigate to your game install directory, it should be under: Android/data/com.dff.rppprd/files/Assets/Data  
--Create a backup of the file "Localization.csv" inside (just rename to localization2.csv or something)  
+-Create a backup of the file "Localization.csv" inside (just rename to localization2.csv or something and move it somewhere else from the Data folder outside the game files folder)  
 -Copy and paste the translated localization file from this git into this directory Android/data/com.dff.rppprd/files/Assets/Data  
 -Launch the game  
   
@@ -16,6 +16,8 @@ Patch translates:
 -Almost all UI content  
 -Skill, talents, potentials, almost all done  
 -Items, items description  
+-Almost all Guild related stuff
+-Character statistics, Quests, Achievements, etc
   
 Not translated:  
 -Story content  
