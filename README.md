@@ -1,4 +1,11 @@
 # AeonFantasyENLOC
+
+
+
+------ AS OF DECEMBER 2023 I WILL NO LONGER WORK ON THE ENGLISH TRANSLATION SINCE APPARENTLY THE DEVS ARE ALREADY WORKING ON SOMETHING SIMILAR HOWEVER IF YOU FIND A WORK ENGLISH TRANSLATION ELSEWHERE YOU CAN ALWAYS FOLLOWS THE SAME STEPS IN THE HOW TO INSTALL TO APPLY IT TO YOUR GAME ------
+
+
+
 ******---->>>> THIS MOD WORKS ONLY FOR ANDROID <<<<----******  
 This project attempts to make the experience of playing Aeon Fantasy much more enjoyable by translating many elements of the game to English.  
 
